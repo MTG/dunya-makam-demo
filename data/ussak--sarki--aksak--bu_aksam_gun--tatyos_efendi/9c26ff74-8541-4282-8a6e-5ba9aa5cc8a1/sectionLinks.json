@@ -1,0 +1,264 @@
+{
+	"links": [
+		{
+			"name": "C1",
+			"weight": 0.5909090909,
+			"relative_tempo": 1.291666667,
+			"time": [
+				[2.414875283],
+				[5.758548753]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.5604395604,
+			"relative_tempo": 0.9438202247,
+			"time": [
+				[3.900952381],
+				[8.034104308]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ARANAGME_1",
+			"weight": 0.6569037657,
+			"relative_tempo": 0.9529411765,
+			"time": [
+				[12.86385488],
+				[24.70603175]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "B1",
+			"weight": 0.630952381,
+			"relative_tempo": 0.9247311828,
+			"time": [
+				[24.9846712],
+				[29.30358277]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "C1",
+			"weight": 0.6428571429,
+			"relative_tempo": 0.9411764706,
+			"time": [
+				[29.58222222],
+				[33.52961451]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.6888888889,
+			"relative_tempo": 0.8602150538,
+			"time": [
+				[33.34385488],
+				[37.66276644]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "F1",
+			"weight": 0.7582417582,
+			"relative_tempo": 0.9444444444,
+			"time": [
+				[42.53895692],
+				[46.71854875]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "G1",
+			"weight": 0.7865168539,
+			"relative_tempo": 1.158536585,
+			"time": [
+				[47.09006803],
+				[50.89814059]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.5512820513,
+			"relative_tempo": 0.9156626506,
+			"time": [
+				[51.31609977],
+				[55.17061224]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E2",
+			"weight": 0.5888888889,
+			"relative_tempo": 0.9404761905,
+			"time": [
+				[67.4307483],
+				[71.33170068]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "C1",
+			"weight": 0.5882352941,
+			"relative_tempo": 0.8181818182,
+			"time": [
+				[69.75274376],
+				[72.81777778]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ARANAGME_1",
+			"weight": 0.7561983471,
+			"relative_tempo": 1.065384615,
+			"time": [
+				[72.58557823],
+				[84.65995465]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "B1",
+			"weight": 0.6746987952,
+			"relative_tempo": 0.9411764706,
+			"time": [
+				[85.35655329],
+				[89.30394558]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "C1",
+			"weight": 0.8045977011,
+			"relative_tempo": 1.023529412,
+			"time": [
+				[90.04698413],
+				[93.99437642]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.6904761905,
+			"relative_tempo": 0.987804878,
+			"time": [
+				[94.4123356],
+				[98.22040816]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E1",
+			"weight": 0.7717391304,
+			"relative_tempo": 1.079545455,
+			"time": [
+				[98.87056689],
+				[102.9572789]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "F1",
+			"weight": 0.5684210526,
+			"relative_tempo": 0.7872340426,
+			"time": [
+				[103.2359184],
+				[107.6012698]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "G1",
+			"weight": 0.5816326531,
+			"relative_tempo": 0.8229166667,
+			"time": [
+				[107.6012698],
+				[112.0595011]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.5584415584,
+			"relative_tempo": 0.9397590361,
+			"time": [
+				[112.0595011],
+				[115.9140136]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E2",
+			"weight": 0.6627906977,
+			"relative_tempo": 0.8777777778,
+			"time": [
+				[116.4248526],
+				[120.6044444]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E2",
+			"weight": 0.5568181818,
+			"relative_tempo": 0.8404255319,
+			"time": [
+				[132.4466213],
+				[136.8119728]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.5753424658,
+			"relative_tempo": 1.08,
+			"time": [
+				[188.4531519],
+				[191.9361451]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E2",
+			"weight": 0.7325581395,
+			"relative_tempo": 0.9873417722,
+			"time": [
+				[192.493424],
+				[196.1621769]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "G1",
+			"weight": 0.6790123457,
+			"relative_tempo": 1.024691358,
+			"time": [
+				[201.1312472],
+				[204.8928798]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "D1",
+			"weight": 0.7078651685,
+			"relative_tempo": 0.9120879121,
+			"time": [
+				[205.0786395],
+				[209.3046712]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "E2",
+			"weight": 0.6637168142,
+			"relative_tempo": 0.7297297297,
+			"time": [
+				[209.7226304],
+				[214.8774603]
+			],
+			"time_unit": "sec"
+		}
+	]
+}
