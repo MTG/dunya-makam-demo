@@ -1,0 +1,56 @@
+{
+    "tonic": "A4", 
+    "makam": {
+        "symbtr_slug": "isfahan"
+    }, 
+    "form": {
+        "symbtr_slug": "pesrev"
+    }, 
+    "lyricist": {}, 
+    "composer": {
+        "symbtr_slug": "tanburi_cemil_bey"
+    }, 
+    "usul": {
+        "symbtr_slug": "devrikebir"
+    }, 
+    "sections": [
+        {
+            "name": "1. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 91, 
+            "startNote": 1, 
+            "melodicStructure": "1-HANE_1", 
+            "lyrics": "", 
+            "slug": "1-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 185, 
+            "startNote": 92, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }, 
+        {
+            "name": "2. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 272, 
+            "startNote": 186, 
+            "melodicStructure": "2-HANE_1", 
+            "lyrics": "", 
+            "slug": "2-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 366, 
+            "startNote": 273, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }
+    ], 
+    "symbTr": "isfahan--pesrev--devrikebir----tanburi_cemil_bey", 
+    "name": {}
+}

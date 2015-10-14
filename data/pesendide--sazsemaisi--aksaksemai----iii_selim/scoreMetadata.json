@@ -1,0 +1,56 @@
+{
+    "tonic": "G4", 
+    "makam": {
+        "symbtr_slug": "pesendide"
+    }, 
+    "form": {
+        "symbtr_slug": "sazsemaisi"
+    }, 
+    "lyricist": {}, 
+    "composer": {
+        "symbtr_slug": "iii_selim"
+    }, 
+    "usul": {
+        "symbtr_slug": "aksaksemai"
+    }, 
+    "sections": [
+        {
+            "name": "1. HANE", 
+            "lyricStructure": "A1", 
+            "endNote": 64, 
+            "startNote": 1, 
+            "melodicStructure": "1-HANE_1", 
+            "lyrics": "", 
+            "slug": "1-HANE"
+        }, 
+        {
+            "name": "2. HANE", 
+            "lyricStructure": "A1", 
+            "endNote": 120, 
+            "startNote": 65, 
+            "melodicStructure": "2-HANE_1", 
+            "lyrics": "", 
+            "slug": "2-HANE"
+        }, 
+        {
+            "name": "3. HANE", 
+            "lyricStructure": "A1", 
+            "endNote": 177, 
+            "startNote": 121, 
+            "melodicStructure": "3-HANE_1", 
+            "lyrics": "", 
+            "slug": "3-HANE"
+        }, 
+        {
+            "name": "4. HANE", 
+            "lyricStructure": "A1", 
+            "endNote": 255, 
+            "startNote": 178, 
+            "melodicStructure": "4-HANE_1", 
+            "lyrics": "", 
+            "slug": "4-HANE"
+        }
+    ], 
+    "symbTr": "pesendide--sazsemaisi--aksaksemai----iii_selim", 
+    "name": {}
+}
