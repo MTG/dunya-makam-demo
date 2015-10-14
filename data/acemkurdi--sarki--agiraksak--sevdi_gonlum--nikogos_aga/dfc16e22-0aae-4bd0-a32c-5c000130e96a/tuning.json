@@ -1,0 +1,134 @@
+{
+	"scoreInformed": {
+		"scaleDegree": [
+			[
+				{
+					"noteSymbol": "G4",
+					"theoretical": -203.7735849,
+					"performed": -221,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "A4",
+					"theoretical": 0,
+					"performed": 0,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B4b5",
+					"theoretical": 90.56603774,
+					"performed": 123,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B4b4",
+					"theoretical": 113.2075472,
+					"performed": 123,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B4b1",
+					"theoretical": 181.1320755,
+					"performed": 190,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "C5",
+					"theoretical": 294.3396226,
+					"performed": 297,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "C5#4",
+					"theoretical": 384.9056604,
+					"performed": 388.9056604,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "D5",
+					"theoretical": 498.1132075,
+					"performed": 496,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "E5b5",
+					"theoretical": 588.6792453,
+					"performed": 592.6792453,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "E5",
+					"theoretical": 701.8867925,
+					"performed": 712,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "F5",
+					"theoretical": 792.4528302,
+					"performed": 791,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "F5#4",
+					"theoretical": 883.0188679,
+					"performed": 887.0188679,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "G5",
+					"theoretical": 996.2264151,
+					"performed": 997,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "A5",
+					"theoretical": 1200,
+					"performed": 1205,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B5b5",
+					"theoretical": 1290.566038,
+					"performed": 1294.566038,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "B5b4",
+					"theoretical": 1313.207547,
+					"performed": 1317.207547,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "C6",
+					"theoretical": 1494.339623,
+					"performed": 1470,
+					"isSwitched": 1
+				}
+			]
+		],
+		"deviationStats": {
+			"values": [0,-5,-8.867924528,-9.79245283,-32.43396226,"_NaN_","_NaN_",-2.660377358,"_NaN_",24.33962264,2.113207547,-10.11320755,"_NaN_",1.452830189,"_NaN_",17.22641509,-0.7735849057],
+			"absoluteMean": -2.04245283,
+			"absoluteStd": 14.16503615,
+			"absoluteMedian": -1.716981132
+		},
+		"unit": "cent",
+		"octaveWrapped": 0,
+		"tonicSymbol": "A4",
+		"performedTonic": {
+			"OctaveWrapped": 0,
+			"Method": {
+				"Location": "start_without_intro",
+				"Duration": {
+					"Value": 15,
+					"Unit": "seconds"
+				},
+				"TempoMethod": "none"
+			},
+			"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
+			"Value": 189.2151987,
+			"Unit": "Hz"
+		},
+		"source": "./data/acemkurdi--sarki--agiraksak--sevdi_gonlum--nikogos_aga/dfc16e22-0aae-4bd0-a32c-5c000130e96a/dfc16e22-0aae-4bd0-a32c-5c000130e96a.wav"
+	}
+}
