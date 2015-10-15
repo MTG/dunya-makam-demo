@@ -4,5910 +4,6501 @@
 			"Symbol": "A4",
 			"IndexInScore": 1,
 			"Interval": [0.9287981859,1.439637188],
-			"Label": "1-HANE_1-n1",
+			"Label": "1-HANE_1--n1",
 			"Pitch": {
-				"Value": 332.4959717,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 2,
 			"Interval": [1.532517007,1.9969161],
-			"Label": "1-HANE_1-n2",
+			"Label": "1-HANE_1--n2",
 			"Pitch": {
-				"Value": 296.2202454,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 3,
 			"Interval": [2.089795918,3.065034014],
-			"Label": "1-HANE_1-n3",
+			"Label": "1-HANE_1--n3",
 			"Pitch": {
-				"Value": 332.8803101,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 4,
 			"Interval": [3.157913832,3.343673469],
-			"Label": "1-HANE_1-n4",
+			"Label": "1-HANE_1--n4",
 			"Pitch": {
-				"Value": 225.4024963,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 5,
 			"Interval": [3.390113379,3.482993197],
-			"Label": "1-HANE_1-n5",
+			"Label": "1-HANE_1--n5",
 			"Pitch": {
-				"Value": 197.9318085,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 6,
 			"Interval": [3.622312925,3.854512472],
-			"Label": "1-HANE_1-n6",
+			"Label": "1-HANE_1--n6",
 			"Pitch": {
-				"Value": 182.1344147,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 7,
 			"Interval": [3.900952381,4.086712018],
-			"Label": "1-HANE_1-n7",
+			"Label": "1-HANE_1--n7",
 			"Pitch": {
-				"Value": 170.2321472,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 8,
 			"Interval": [4.179591837,5.712108844],
-			"Label": "1-HANE_1-n8",
+			"Label": "1-HANE_1--n8",
 			"Pitch": {
-				"Value": 148.7101898,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 9,
 			"Interval": [5.804988662,6.269387755],
-			"Label": "1-HANE_1-n9",
+			"Label": "1-HANE_1--n9",
 			"Pitch": {
-				"Value": 167.307663,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 10,
 			"Interval": [6.315827664,6.780226757],
-			"Label": "1-HANE_1-n10",
+			"Label": "1-HANE_1--n10",
 			"Pitch": {
-				"Value": 182.1344147,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 11,
 			"Interval": [6.873106576,7.24462585],
-			"Label": "1-HANE_1-n11",
+			"Label": "1-HANE_1--n11",
 			"Pitch": {
-				"Value": 445.6270752,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 12,
 			"Interval": [7.337505669,8.080544218],
-			"Label": "1-HANE_1-n12",
+			"Label": "1-HANE_1--n12",
 			"Pitch": {
-				"Value": 397.2379761,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 13,
 			"Interval": [8.126984127,8.312743764],
-			"Label": "1-HANE_1-n13",
+			"Label": "1-HANE_1--n13",
 			"Pitch": {
-				"Value": 182.0292358,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 14,
 			"Interval": [8.359183673,8.544943311],
-			"Label": "1-HANE_1-n14",
+			"Label": "1-HANE_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 15,
 			"Interval": [8.637823129,8.962902494],
-			"Label": "1-HANE_1-n15",
+			"Label": "1-HANE_1--n15",
 			"Pitch": {
-				"Value": 397.4674988,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 16,
 			"Interval": [9.009342404,9.102222222],
-			"Label": "1-HANE_1-n16",
+			"Label": "1-HANE_1--n16",
 			"Pitch": {
-				"Value": 373.2141113,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 17,
 			"Interval": [9.195102041,9.287981859],
-			"Label": "1-HANE_1-n17",
+			"Label": "1-HANE_1--n17",
 			"Pitch": {
-				"Value": 335.9710388,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 18,
 			"Interval": [9.380861678,10.07746032],
-			"Label": "1-HANE_1-n18",
+			"Label": "1-HANE_1--n18",
 			"Pitch": {
-				"Value": 171.2182922,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 19,
 			"Interval": [10.17034014,10.44897959],
-			"Label": "1-HANE_1-n19",
+			"Label": "1-HANE_1--n19",
 			"Pitch": {
-				"Value": 166.7288208,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 20,
 			"Interval": [10.54185941,11.84217687],
-			"Label": "1-HANE_1-n20",
+			"Label": "1-HANE_1--n20",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 21,
 			"Interval": [11.93505669,12.12081633],
-			"Label": "1-HANE_1-n21",
+			"Label": "1-HANE_1--n21",
 			"Pitch": {
-				"Value": 224.363327,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 22,
 			"Interval": [12.21369615,12.39945578],
-			"Label": "1-HANE_1-n22",
+			"Label": "1-HANE_1--n22",
 			"Pitch": {
-				"Value": 224.363327,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 23,
 			"Interval": [12.4923356,13.69977324],
-			"Label": "1-HANE_1-n23",
+			"Label": "1-HANE_1--n23",
 			"Pitch": {
-				"Value": 223.1999664,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 24,
 			"Interval": [13.83909297,14.02485261],
-			"Label": "1-HANE_1-n24",
+			"Label": "1-HANE_1--n24",
 			"Pitch": {
-				"Value": 509.2368774,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 25,
 			"Interval": [14.11773243,14.21061224],
-			"Label": "1-HANE_1-n25",
+			"Label": "1-HANE_1--n25",
 			"Pitch": {
-				"Value": 525.6746826,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 26,
 			"Interval": [14.30349206,14.67501134],
-			"Label": "1-HANE_1-n26",
+			"Label": "1-HANE_1--n26",
 			"Pitch": {
-				"Value": 226.1850433,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 27,
 			"Interval": [14.76789116,14.76789116],
-			"Label": "1-HANE_1-n27",
+			"Label": "1-HANE_1--n27",
 			"Pitch": {
-				"Value": 226.5773315,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 28,
 			"Interval": [14.81433107,15.23229025],
-			"Label": "1-HANE_1-n28",
+			"Label": "1-HANE_1--n28",
 			"Pitch": {
-				"Value": 365.3223877,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 29,
 			"Interval": [15.32517007,15.32517007],
-			"Label": "1-HANE_1-n29",
+			"Label": "1-HANE_1--n29",
 			"Pitch": {
-				"Value": 337.5271301,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 30,
 			"Interval": [15.37160998,15.69668934],
-			"Label": "1-HANE_1-n30",
+			"Label": "1-HANE_1--n30",
 			"Pitch": {
-				"Value": 333.4576416,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 31,
 			"Interval": [15.78956916,16.20752834],
-			"Label": "1-HANE_1-n31",
+			"Label": "1-HANE_1--n31",
 			"Pitch": {
-				"Value": 367.4386902,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 32,
 			"Interval": [16.30040816,17.22920635],
-			"Label": "1-HANE_1-n32",
+			"Label": "1-HANE_1--n32",
 			"Pitch": {
-				"Value": 396.0923462,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 33,
 			"Interval": [17.41496599,17.55428571],
-			"Label": "1-HANE_1-n33",
+			"Label": "1-HANE_1--n33",
 			"Pitch": {
-				"Value": 185.4251404,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 34,
 			"Interval": [17.64716553,17.83292517],
-			"Label": "1-HANE_1-n34",
+			"Label": "1-HANE_1--n34",
 			"Pitch": {
-				"Value": 195.2068329,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 35,
 			"Interval": [17.87936508,18.01868481],
-			"Label": "1-HANE_1-n35",
+			"Label": "1-HANE_1--n35",
 			"Pitch": {
-				"Value": 223.3289337,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 36,
 			"Interval": [18.11156463,18.52952381],
-			"Label": "1-HANE_1-n36",
+			"Label": "1-HANE_1--n36",
 			"Pitch": {
-				"Value": 251.1130219,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 37,
 			"Interval": [18.57596372,18.57596372],
-			"Label": "1-HANE_1-n37",
+			"Label": "1-HANE_1--n37",
 			"Pitch": {
-				"Value": 394.4940491,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 38,
 			"Interval": [18.62240363,18.85460317],
-			"Label": "1-HANE_1-n38",
+			"Label": "1-HANE_1--n38",
 			"Pitch": {
-				"Value": 393.8110352,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 39,
 			"Interval": [18.94748299,19.22612245],
-			"Label": "1-HANE_1-n39",
+			"Label": "1-HANE_1--n39",
 			"Pitch": {
-				"Value": 359.8768921,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 40,
 			"Interval": [19.27256236,19.36544218],
-			"Label": "1-HANE_1-n40",
+			"Label": "1-HANE_1--n40",
 			"Pitch": {
-				"Value": 335.9710388,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 41,
 			"Interval": [19.458322,19.82984127],
-			"Label": "1-HANE_1-n41",
+			"Label": "1-HANE_1--n41",
 			"Pitch": {
-				"Value": 296.0491943,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 42,
 			"Interval": [19.92272109,20.10848073],
-			"Label": "1-HANE_1-n42",
+			"Label": "1-HANE_1--n42",
 			"Pitch": {
-				"Value": 166.5363159,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 43,
 			"Interval": [20.15492063,21.31591837],
-			"Label": "1-HANE_1-n43",
+			"Label": "1-HANE_1--n43",
 			"Pitch": {
-				"Value": 182.7667389,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 44,
 			"Interval": [21.40879819,22.33759637],
-			"Label": "1-HANE_1-n44",
+			"Label": "1-HANE_1--n44",
 			"Pitch": {
-				"Value": 166.9215393,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 45,
 			"Interval": [22.43047619,22.84843537],
-			"Label": "1-HANE_1-n45",
+			"Label": "1-HANE_1--n45",
 			"Pitch": {
-				"Value": 185.1040955,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 46,
 			"Interval": [22.89487528,23.31283447],
-			"Label": "1-HANE_1-n46",
+			"Label": "1-HANE_1--n46",
 			"Pitch": {
-				"Value": 395.8636169,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 47,
 			"Interval": [23.40571429,23.77723356],
-			"Label": "1-HANE_1-n47",
+			"Label": "1-HANE_1--n47",
 			"Pitch": {
-				"Value": 222.2993164,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 48,
 			"Interval": [23.87011338,24.38095238],
-			"Label": "1-HANE_1-n48",
+			"Label": "1-HANE_1--n48",
 			"Pitch": {
-				"Value": 254.6184387,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 49,
 			"Interval": [24.4738322,25.35619048],
-			"Label": "1-HANE_1-n49",
+			"Label": "1-HANE_1--n49",
 			"Pitch": {
-				"Value": 261.4744873,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 50,
 			"Interval": [25.44907029,25.44907029],
-			"Label": "1-HANE_1-n50",
+			"Label": "1-HANE_1--n50",
 			"Pitch": {
-				"Value": 224.363327,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 51,
 			"Interval": [25.4955102,25.82058957],
-			"Label": "1-HANE_1-n51",
+			"Label": "1-HANE_1--n51",
 			"Pitch": {
-				"Value": 224.363327,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 52,
 			"Interval": [25.91346939,26.33142857],
-			"Label": "1-HANE_1-n52",
+			"Label": "1-HANE_1--n52",
 			"Pitch": {
-				"Value": 198.3896637,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 53,
 			"Interval": [26.42430839,26.84226757],
-			"Label": "1-HANE_1-n53",
+			"Label": "1-HANE_1--n53",
 			"Pitch": {
-				"Value": 368.714325,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 54,
 			"Interval": [26.88870748,28.00326531],
-			"Label": "1-HANE_1-n54",
+			"Label": "1-HANE_1--n54",
 			"Pitch": {
-				"Value": 397.2379761,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 55,
 			"Interval": [28.09614512,28.18902494],
-			"Label": "1-HANE_1-n55",
+			"Label": "1-HANE_1--n55",
 			"Pitch": {
-				"Value": 369.1405334,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 56,
 			"Interval": [28.28190476,28.4676644],
-			"Label": "1-HANE_1-n56",
+			"Label": "1-HANE_1--n56",
 			"Pitch": {
-				"Value": 396.321228,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 57,
 			"Interval": [28.56054422,28.74630385],
-			"Label": "1-HANE_1-n57",
+			"Label": "1-HANE_1--n57",
 			"Pitch": {
-				"Value": 257.8746948,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 58,
 			"Interval": [28.79274376,28.88562358],
-			"Label": "1-HANE_1-n58",
+			"Label": "1-HANE_1--n58",
 			"Pitch": {
-				"Value": 224.1042786,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 59,
 			"Interval": [28.9785034,29.16426304],
-			"Label": "1-HANE_1-n59",
+			"Label": "1-HANE_1--n59",
 			"Pitch": {
-				"Value": 391.9954224,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 60,
 			"Interval": [29.25714286,29.35002268],
-			"Label": "1-HANE_1-n60",
+			"Label": "1-HANE_1--n60",
 			"Pitch": {
-				"Value": 364.0584717,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 61,
 			"Interval": [29.39646259,29.81442177],
-			"Label": "1-HANE_1-n61",
+			"Label": "1-HANE_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 62,
 			"Interval": [29.86086168,30.09306122],
-			"Label": "1-HANE_1-n62",
+			"Label": "1-HANE_1--n62",
 			"Pitch": {
-				"Value": 181.1900177,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 63,
 			"Interval": [30.18594104,30.41814059],
-			"Label": "1-HANE_1-n63",
+			"Label": "1-HANE_1--n63",
 			"Pitch": {
-				"Value": 148.5384979,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 64,
 			"Interval": [30.51102041,31.20761905],
-			"Label": "1-HANE_1-n64",
+			"Label": "1-HANE_1--n64",
 			"Pitch": {
-				"Value": 167.2110443,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 65,
 			"Interval": [31.25405896,31.20761905],
-			"Label": "1-HANE_1-n65",
+			"Label": "1-HANE_1--n65",
 			"Pitch": {
-				"Value": "_NaN_",
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 66,
 			"Interval": [31.25405896,31.25405896],
-			"Label": "1-HANE_1-n66",
+			"Label": "1-HANE_1--n66",
 			"Pitch": {
-				"Value": 167.7915649,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 124,
 			"Interval": [32.08997732,32.18285714],
-			"Label": "MULAZIME_2-n1",
+			"Label": "MULAZIME_2--n1",
 			"Pitch": {
-				"Value": 298.9705811,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 125,
 			"Interval": [32.27573696,32.41505669],
-			"Label": "MULAZIME_2-n2",
+			"Label": "MULAZIME_2--n2",
 			"Pitch": {
-				"Value": 529.9428711,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 126,
 			"Interval": [32.50793651,33.25097506],
-			"Label": "MULAZIME_2-n3",
+			"Label": "MULAZIME_2--n3",
 			"Pitch": {
-				"Value": 515.1539307,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 127,
 			"Interval": [33.34385488,33.34385488],
-			"Label": "MULAZIME_2-n4",
+			"Label": "MULAZIME_2--n4",
 			"Pitch": {
-				"Value": 596.2167358,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 128,
 			"Interval": [33.43673469,33.57605442],
-			"Label": "MULAZIME_2-n5",
+			"Label": "MULAZIME_2--n5",
 			"Pitch": {
-				"Value": 594.8407593,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 129,
 			"Interval": [33.62249433,33.76181406],
-			"Label": "MULAZIME_2-n6",
+			"Label": "MULAZIME_2--n6",
 			"Pitch": {
-				"Value": 526.890625,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 130,
 			"Interval": [33.80825397,33.90113379],
-			"Label": "MULAZIME_2-n7",
+			"Label": "MULAZIME_2--n7",
 			"Pitch": {
-				"Value": 508.6488953,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 131,
 			"Interval": [34.13333333,34.55129252],
-			"Label": "MULAZIME_2-n8",
+			"Label": "MULAZIME_2--n8",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 132,
 			"Interval": [34.59773243,35.10857143],
-			"Label": "MULAZIME_2-n9",
+			"Label": "MULAZIME_2--n9",
 			"Pitch": {
-				"Value": 223.7162781,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 133,
 			"Interval": [35.15501134,35.20145125],
-			"Label": "MULAZIME_2-n10",
+			"Label": "MULAZIME_2--n10",
 			"Pitch": {
-				"Value": 251.4032898,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 134,
 			"Interval": [35.24789116,35.57297052],
-			"Label": "MULAZIME_2-n11",
+			"Label": "MULAZIME_2--n11",
 			"Pitch": {
-				"Value": 263.2931824,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 135,
 			"Interval": [35.66585034,35.89804989],
-			"Label": "MULAZIME_2-n12",
+			"Label": "MULAZIME_2--n12",
 			"Pitch": {
-				"Value": 257.8746948,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 136,
 			"Interval": [35.9444898,36.03736961],
-			"Label": "MULAZIME_2-n13",
+			"Label": "MULAZIME_2--n13",
 			"Pitch": {
-				"Value": 223.9748688,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 137,
 			"Interval": [36.17668934,36.64108844],
-			"Label": "MULAZIME_2-n14",
+			"Label": "MULAZIME_2--n14",
 			"Pitch": {
-				"Value": 198.2751007,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 138,
 			"Interval": [36.68752834,36.82684807],
-			"Label": "MULAZIME_2-n15",
+			"Label": "MULAZIME_2--n15",
 			"Pitch": {
-				"Value": 223.5870819,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 139,
 			"Interval": [36.91972789,37.24480726],
-			"Label": "MULAZIME_2-n16",
+			"Label": "MULAZIME_2--n16",
 			"Pitch": {
-				"Value": 251.2581177,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 140,
 			"Interval": [37.29124717,37.33768707],
-			"Label": "MULAZIME_2-n17",
+			"Label": "MULAZIME_2--n17",
 			"Pitch": {
-				"Value": 396.7793274,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 141,
 			"Interval": [37.38412698,37.52344671],
-			"Label": "MULAZIME_2-n18",
+			"Label": "MULAZIME_2--n18",
 			"Pitch": {
-				"Value": 396.5502014,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 142,
 			"Interval": [37.56988662,37.70920635],
-			"Label": "MULAZIME_2-n19",
+			"Label": "MULAZIME_2--n19",
 			"Pitch": {
-				"Value": 392.675293,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 143,
 			"Interval": [37.84852608,38.08072562],
-			"Label": "MULAZIME_2-n20",
+			"Label": "MULAZIME_2--n20",
 			"Pitch": {
-				"Value": 183.083725,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 144,
 			"Interval": [38.17360544,38.35936508],
-			"Label": "MULAZIME_2-n21",
+			"Label": "MULAZIME_2--n21",
 			"Pitch": {
-				"Value": 180.2505341,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 145,
 			"Interval": [38.4522449,38.63800454],
-			"Label": "MULAZIME_2-n22",
+			"Label": "MULAZIME_2--n22",
 			"Pitch": {
-				"Value": 166.5363159,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 146,
 			"Interval": [38.68444444,39.24172336],
-			"Label": "MULAZIME_2-n23",
+			"Label": "MULAZIME_2--n23",
 			"Pitch": {
-				"Value": 182.7667389,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 147,
 			"Interval": [39.28816327,39.65968254],
-			"Label": "MULAZIME_2-n24",
+			"Label": "MULAZIME_2--n24",
 			"Pitch": {
-				"Value": 183.4012604,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 148,
 			"Interval": [39.75256236,40.40272109],
-			"Label": "MULAZIME_2-n25",
+			"Label": "MULAZIME_2--n25",
 			"Pitch": {
-				"Value": 166.0560455,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 149,
 			"Interval": [40.49560091,40.72780045],
-			"Label": "MULAZIME_2-n26",
+			"Label": "MULAZIME_2--n26",
 			"Pitch": {
-				"Value": 365.7446594,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 150,
 			"Interval": [40.77424036,40.96],
-			"Label": "MULAZIME_2-n27",
+			"Label": "MULAZIME_2--n27",
 			"Pitch": {
-				"Value": 388.8382568,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 151,
 			"Interval": [41.05287982,41.23863946],
-			"Label": "MULAZIME_2-n28",
+			"Label": "MULAZIME_2--n28",
 			"Pitch": {
-				"Value": 223.4579773,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 152,
 			"Interval": [41.28507937,41.42439909],
-			"Label": "MULAZIME_2-n29",
+			"Label": "MULAZIME_2--n29",
 			"Pitch": {
-				"Value": 198.618988,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 153,
 			"Interval": [41.51727891,41.65659864],
-			"Label": "MULAZIME_2-n30",
+			"Label": "MULAZIME_2--n30",
 			"Pitch": {
-				"Value": 366.3789978,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 154,
 			"Interval": [41.70303855,41.9352381],
-			"Label": "MULAZIME_2-n31",
+			"Label": "MULAZIME_2--n31",
 			"Pitch": {
-				"Value": 360.7093506,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 155,
 			"Interval": [42.02811791,42.16743764],
-			"Label": "MULAZIME_2-n32",
+			"Label": "MULAZIME_2--n32",
 			"Pitch": {
-				"Value": 334.4220886,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 156,
 			"Interval": [42.30675737,43.00335601],
-			"Label": "MULAZIME_2-n33",
+			"Label": "MULAZIME_2--n33",
 			"Pitch": {
-				"Value": 297.9362183,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 157,
 			"Interval": [43.09623583,43.18911565],
-			"Label": "MULAZIME_2-n34",
+			"Label": "MULAZIME_2--n34",
 			"Pitch": {
-				"Value": 393.8110352,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 158,
 			"Interval": [43.28199546,43.4677551],
-			"Label": "MULAZIME_2-n35",
+			"Label": "MULAZIME_2--n35",
 			"Pitch": {
-				"Value": 371.2789612,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 159,
 			"Interval": [43.56063492,43.74639456],
-			"Label": "MULAZIME_2-n36",
+			"Label": "MULAZIME_2--n36",
 			"Pitch": {
-				"Value": 392.4485474,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 160,
 			"Interval": [43.83927438,44.58231293],
-			"Label": "MULAZIME_2-n37",
+			"Label": "MULAZIME_2--n37",
 			"Pitch": {
-				"Value": 222.942276,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 161,
 			"Interval": [44.67519274,45.23247166],
-			"Label": "MULAZIME_2-n38",
+			"Label": "MULAZIME_2--n38",
 			"Pitch": {
-				"Value": 222.2993164,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 162,
 			"Interval": [45.32535147,45.51111111],
-			"Label": "MULAZIME_2-n39",
+			"Label": "MULAZIME_2--n39",
 			"Pitch": {
-				"Value": 253.2982025,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 163,
 			"Interval": [45.60399093,45.88263039],
-			"Label": "MULAZIME_2-n40",
+			"Label": "MULAZIME_2--n40",
 			"Pitch": {
-				"Value": 264.054718,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 164,
 			"Interval": [46.02195011,46.11482993],
-			"Label": "MULAZIME_2-n41",
+			"Label": "MULAZIME_2--n41",
 			"Pitch": {
-				"Value": 299.3161621,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 165,
 			"Interval": [46.16126984,46.34702948],
-			"Label": "MULAZIME_2-n42",
+			"Label": "MULAZIME_2--n42",
 			"Pitch": {
-				"Value": 527.1950684,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 166,
 			"Interval": [46.39346939,46.39346939],
-			"Label": "MULAZIME_2-n43",
+			"Label": "MULAZIME_2--n43",
 			"Pitch": {
-				"Value": 505.1354065,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 167,
 			"Interval": [46.53278912,46.67210884],
-			"Label": "MULAZIME_2-n44",
+			"Label": "MULAZIME_2--n44",
 			"Pitch": {
-				"Value": 224.363327,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 168,
 			"Interval": [46.76498866,46.85786848],
-			"Label": "MULAZIME_2-n45",
+			"Label": "MULAZIME_2--n45",
 			"Pitch": {
-				"Value": 196.2242737,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 169,
 			"Interval": [47.04362812,47.18294785],
-			"Label": "MULAZIME_2-n46",
+			"Label": "MULAZIME_2--n46",
 			"Pitch": {
-				"Value": 368.714325,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 170,
 			"Interval": [47.27582766,48.29750567],
-			"Label": "MULAZIME_2-n47",
+			"Label": "MULAZIME_2--n47",
 			"Pitch": {
-				"Value": 395.4065857,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 171,
 			"Interval": [48.39038549,48.90122449],
-			"Label": "MULAZIME_2-n48",
+			"Label": "MULAZIME_2--n48",
 			"Pitch": {
-				"Value": 367.2265015,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 172,
 			"Interval": [48.99410431,49.36562358],
-			"Label": "MULAZIME_2-n49",
+			"Label": "MULAZIME_2--n49",
 			"Pitch": {
-				"Value": 448.7266541,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 173,
 			"Interval": [49.4585034,49.59782313],
-			"Label": "MULAZIME_2-n50",
+			"Label": "MULAZIME_2--n50",
 			"Pitch": {
-				"Value": 400.926239,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 174,
 			"Interval": [49.64426304,49.73714286],
-			"Label": "MULAZIME_2-n51",
+			"Label": "MULAZIME_2--n51",
 			"Pitch": {
-				"Value": 365.3223877,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 175,
 			"Interval": [49.78358277,49.87646259],
-			"Label": "MULAZIME_2-n52",
+			"Label": "MULAZIME_2--n52",
 			"Pitch": {
-				"Value": 364.9006042,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 176,
 			"Interval": [50.01578231,50.38730159],
-			"Label": "MULAZIME_2-n53",
+			"Label": "MULAZIME_2--n53",
 			"Pitch": {
-				"Value": 172.7082367,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 177,
 			"Interval": [50.48018141,50.85170068],
-			"Label": "MULAZIME_2-n54",
+			"Label": "MULAZIME_2--n54",
 			"Pitch": {
-				"Value": 148.2813263,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 178,
 			"Interval": [50.89814059,51.87337868],
-			"Label": "MULAZIME_2-n55",
+			"Label": "MULAZIME_2--n55",
 			"Pitch": {
-				"Value": 166.9215393,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
 			"Interval": [51.91981859,51.91981859],
-			"Label": "MULAZIME_2-n56",
+			"Label": "MULAZIME_2--n56",
 			"Pitch": {
-				"Value": 167.307663,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 180,
 			"Interval": [52.89505669,53.59165533],
-			"Label": "2-HANE_1-n1",
+			"Label": "2-HANE_1--n1",
 			"Pitch": {
-				"Value": 334.4220886,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 181,
 			"Interval": [53.63809524,54.19537415],
-			"Label": "2-HANE_1-n2",
+			"Label": "2-HANE_1--n2",
 			"Pitch": {
-				"Value": 362.3800354,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 182,
 			"Interval": [54.28825397,54.79909297],
-			"Label": "2-HANE_1-n3",
+			"Label": "2-HANE_1--n3",
 			"Pitch": {
-				"Value": 344.8184204,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 183,
 			"Interval": [54.89197279,55.4492517],
-			"Label": "2-HANE_1-n4",
+			"Label": "2-HANE_1--n4",
 			"Pitch": {
-				"Value": 296.3913879,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 184,
 			"Interval": [55.49569161,55.58857143],
-			"Label": "2-HANE_1-n5",
+			"Label": "2-HANE_1--n5",
 			"Pitch": {
-				"Value": 388.3893127,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 185,
 			"Interval": [55.68145125,55.91365079],
-			"Label": "2-HANE_1-n6",
+			"Label": "2-HANE_1--n6",
 			"Pitch": {
-				"Value": 389.7377014,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 186,
 			"Interval": [55.9600907,55.9600907],
-			"Label": "2-HANE_1-n7",
+			"Label": "2-HANE_1--n7",
 			"Pitch": {
-				"Value": 392.9021912,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 187,
 			"Interval": [56.05297052,56.33160998],
-			"Label": "2-HANE_1-n8",
+			"Label": "2-HANE_1--n8",
 			"Pitch": {
-				"Value": 447.4325562,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 188,
 			"Interval": [56.4244898,56.88888889],
-			"Label": "2-HANE_1-n9",
+			"Label": "2-HANE_1--n9",
 			"Pitch": {
-				"Value": 392.675293,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 189,
 			"Interval": [56.98176871,57.58548753],
-			"Label": "2-HANE_1-n10",
+			"Label": "2-HANE_1--n10",
 			"Pitch": {
-				"Value": 361.9616394,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 190,
 			"Interval": [57.67836735,58.18920635],
-			"Label": "2-HANE_1-n11",
+			"Label": "2-HANE_1--n11",
 			"Pitch": {
-				"Value": 333.6502991,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 191,
 			"Interval": [58.23564626,58.28208617],
-			"Label": "2-HANE_1-n12",
+			"Label": "2-HANE_1--n12",
 			"Pitch": {
-				"Value": 395.1782532,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 192,
 			"Interval": [58.32852608,58.4214059],
-			"Label": "2-HANE_1-n13",
+			"Label": "2-HANE_1--n13",
 			"Pitch": {
-				"Value": 403.481781,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 193,
 			"Interval": [58.4678458,58.70004535],
-			"Label": "2-HANE_1-n14",
+			"Label": "2-HANE_1--n14",
 			"Pitch": {
-				"Value": 365.1114502,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 194,
 			"Interval": [58.74648526,58.88580499],
-			"Label": "2-HANE_1-n15",
+			"Label": "2-HANE_1--n15",
 			"Pitch": {
-				"Value": 338.5033569,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 195,
 			"Interval": [58.97868481,59.21088435],
-			"Label": "2-HANE_1-n16",
+			"Label": "2-HANE_1--n16",
 			"Pitch": {
-				"Value": 148.2813263,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 196,
 			"Interval": [59.30376417,60.09324263],
-			"Label": "2-HANE_1-n17",
+			"Label": "2-HANE_1--n17",
 			"Pitch": {
-				"Value": 337.3322449,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 197,
 			"Interval": [60.18612245,60.65052154],
-			"Label": "2-HANE_1-n18",
+			"Label": "2-HANE_1--n18",
 			"Pitch": {
-				"Value": 597.5958862,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 198,
 			"Interval": [60.74340136,61.16136054],
-			"Label": "2-HANE_1-n19",
+			"Label": "2-HANE_1--n19",
 			"Pitch": {
-				"Value": 534.5544434,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 199,
 			"Interval": [61.20780045,61.62575964],
-			"Label": "2-HANE_1-n20",
+			"Label": "2-HANE_1--n20",
 			"Pitch": {
-				"Value": 591.0732422,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 200,
 			"Interval": [61.67219955,63.34403628],
-			"Label": "2-HANE_1-n21",
+			"Label": "2-HANE_1--n21",
 			"Pitch": {
-				"Value": 521.7421265,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 201,
 			"Interval": [63.39047619,63.66911565],
-			"Label": "2-HANE_1-n22",
+			"Label": "2-HANE_1--n22",
 			"Pitch": {
-				"Value": 526.2822876,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 202,
 			"Interval": [63.71555556,64.4121542],
-			"Label": "2-HANE_1-n23",
+			"Label": "2-HANE_1--n23",
 			"Pitch": {
-				"Value": 526.890625,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 203,
 			"Interval": [64.50503401,65.10875283],
-			"Label": "2-HANE_1-n24",
+			"Label": "2-HANE_1--n24",
 			"Pitch": {
-				"Value": 508.6488953,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 204,
 			"Interval": [65.15519274,65.20163265],
-			"Label": "2-HANE_1-n25",
+			"Label": "2-HANE_1--n25",
 			"Pitch": {
-				"Value": 524.1586304,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 205,
 			"Interval": [65.24807256,65.34095238],
-			"Label": "2-HANE_1-n26",
+			"Label": "2-HANE_1--n26",
 			"Pitch": {
-				"Value": 507.4750366,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 206,
 			"Interval": [65.38739229,65.52671202],
-			"Label": "2-HANE_1-n27",
+			"Label": "2-HANE_1--n27",
 			"Pitch": {
-				"Value": 528.4145508,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 207,
 			"Interval": [65.61959184,65.89823129],
-			"Label": "2-HANE_1-n28",
+			"Label": "2-HANE_1--n28",
 			"Pitch": {
-				"Value": 594.1539917,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 208,
 			"Interval": [65.99111111,66.40907029],
-			"Label": "2-HANE_1-n29",
+			"Label": "2-HANE_1--n29",
 			"Pitch": {
-				"Value": 523.2511597,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 209,
 			"Interval": [66.50195011,66.73414966],
-			"Label": "2-HANE_1-n30",
+			"Label": "2-HANE_1--n30",
 			"Pitch": {
-				"Value": 505.7192993,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 210,
 			"Interval": [66.82702948,68.08090703],
-			"Label": "2-HANE_1-n31",
+			"Label": "2-HANE_1--n31",
 			"Pitch": {
-				"Value": 223.7162781,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 211,
 			"Interval": [68.17378685,69.70630385],
-			"Label": "2-HANE_1-n32",
+			"Label": "2-HANE_1--n32",
 			"Pitch": {
-				"Value": 254.3244476,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 212,
 			"Interval": [69.75274376,69.98494331],
-			"Label": "2-HANE_1-n33",
+			"Label": "2-HANE_1--n33",
 			"Pitch": {
-				"Value": 254.3244476,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 213,
 			"Interval": [70.03138322,70.26358277],
-			"Label": "2-HANE_1-n34",
+			"Label": "2-HANE_1--n34",
 			"Pitch": {
-				"Value": 262.5338745,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 214,
 			"Interval": [70.35646259,70.4493424],
-			"Label": "2-HANE_1-n35",
+			"Label": "2-HANE_1--n35",
 			"Pitch": {
-				"Value": 233.8910828,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 215,
 			"Interval": [70.49578231,70.72798186],
-			"Label": "2-HANE_1-n36",
+			"Label": "2-HANE_1--n36",
 			"Pitch": {
-				"Value": 251.9848328,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 216,
 			"Interval": [70.77442177,70.86730159],
-			"Label": "2-HANE_1-n37",
+			"Label": "2-HANE_1--n37",
 			"Pitch": {
-				"Value": 264.9714355,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 217,
 			"Interval": [70.96018141,71.37814059],
-			"Label": "2-HANE_1-n38",
+			"Label": "2-HANE_1--n38",
 			"Pitch": {
-				"Value": 255.6500244,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 218,
 			"Interval": [71.4245805,71.88897959],
-			"Label": "2-HANE_1-n39",
+			"Label": "2-HANE_1--n39",
 			"Pitch": {
-				"Value": 223.8455353,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 219,
 			"Interval": [72.02829932,72.9106576],
-			"Label": "2-HANE_1-n40",
+			"Label": "2-HANE_1--n40",
 			"Pitch": {
-				"Value": 394.2662354,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 220,
 			"Interval": [73.00353741,73.23573696],
-			"Label": "2-HANE_1-n41",
+			"Label": "2-HANE_1--n41",
 			"Pitch": {
-				"Value": 502.2260437,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 221,
 			"Interval": [73.32861678,74.02521542],
-			"Label": "2-HANE_1-n42",
+			"Label": "2-HANE_1--n42",
 			"Pitch": {
-				"Value": 286.1298828,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 222,
 			"Interval": [74.07165533,74.21097506],
-			"Label": "2-HANE_1-n43",
+			"Label": "2-HANE_1--n43",
 			"Pitch": {
-				"Value": 257.725769,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 223,
 			"Interval": [74.30385488,74.62893424],
-			"Label": "2-HANE_1-n44",
+			"Label": "2-HANE_1--n44",
 			"Pitch": {
-				"Value": 224.1042786,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 224,
 			"Interval": [74.67537415,75.04689342],
-			"Label": "2-HANE_1-n45",
+			"Label": "2-HANE_1--n45",
 			"Pitch": {
-				"Value": 222.942276,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 225,
 			"Interval": [75.13977324,75.60417234],
-			"Label": "2-HANE_1-n46",
+			"Label": "2-HANE_1--n46",
 			"Pitch": {
-				"Value": 224.882309,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 226,
 			"Interval": [75.69705215,76.25433107],
-			"Label": "2-HANE_1-n47",
+			"Label": "2-HANE_1--n47",
 			"Pitch": {
-				"Value": 196.9055176,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 227,
 			"Interval": [76.34721088,76.71873016],
-			"Label": "2-HANE_1-n48",
+			"Label": "2-HANE_1--n48",
 			"Pitch": {
-				"Value": 251.6938934,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 228,
 			"Interval": [76.76517007,76.85804989],
-			"Label": "2-HANE_1-n49",
+			"Label": "2-HANE_1--n49",
 			"Pitch": {
-				"Value": 226.8392334,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 229,
 			"Interval": [76.95092971,77.09024943],
-			"Label": "2-HANE_1-n50",
+			"Label": "2-HANE_1--n50",
 			"Pitch": {
-				"Value": 395.1782532,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 230,
 			"Interval": [77.13668934,78.29768707],
-			"Label": "2-HANE_1-n51",
+			"Label": "2-HANE_1--n51",
 			"Pitch": {
-				"Value": 395.6350403,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 231,
 			"Interval": [78.34412698,78.9478458],
-			"Label": "2-HANE_1-n52",
+			"Label": "2-HANE_1--n52",
 			"Pitch": {
-				"Value": 365.3223877,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 232,
 			"Interval": [78.99428571,79.55156463],
-			"Label": "2-HANE_1-n53",
+			"Label": "2-HANE_1--n53",
 			"Pitch": {
-				"Value": 224.7524567,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 233,
 			"Interval": [79.59800454,79.64444444],
-			"Label": "2-HANE_1-n54",
+			"Label": "2-HANE_1--n54",
 			"Pitch": {
-				"Value": 364.6898804,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 234,
 			"Interval": [79.69088435,79.9230839],
-			"Label": "2-HANE_1-n55",
+			"Label": "2-HANE_1--n55",
 			"Pitch": {
-				"Value": 365.3223877,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 235,
 			"Interval": [79.96952381,81.17696145],
-			"Label": "2-HANE_1-n56",
+			"Label": "2-HANE_1--n56",
 			"Pitch": {
-				"Value": 364.6898804,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 236,
 			"Interval": [81.26984127,81.54848073],
-			"Label": "2-HANE_1-n57",
+			"Label": "2-HANE_1--n57",
 			"Pitch": {
-				"Value": 334.6153259,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 237,
 			"Interval": [81.64136054,82.15219955],
-			"Label": "2-HANE_1-n58",
+			"Label": "2-HANE_1--n58",
 			"Pitch": {
-				"Value": 366.8025208,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 238,
 			"Interval": [82.24507937,82.24507937],
-			"Label": "2-HANE_1-n59",
+			"Label": "2-HANE_1--n59",
 			"Pitch": {
-				"Value": 335.9710388,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 239,
 			"Interval": [82.29151927,82.430839],
-			"Label": "2-HANE_1-n60",
+			"Label": "2-HANE_1--n60",
 			"Pitch": {
-				"Value": 335.3893433,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 240,
 			"Interval": [82.52371882,83.4060771],
-			"Label": "2-HANE_1-n61",
+			"Label": "2-HANE_1--n61",
 			"Pitch": {
-				"Value": 334.6153259,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 241,
 			"Interval": [83.49895692,83.68471655],
-			"Label": "2-HANE_1-n62",
+			"Label": "2-HANE_1--n62",
 			"Pitch": {
-				"Value": 297.4203796,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 242,
 			"Interval": [83.82403628,84.00979592],
-			"Label": "2-HANE_1-n63",
+			"Label": "2-HANE_1--n63",
 			"Pitch": {
-				"Value": 333.2650757,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 124,
 			"Interval": [84.05623583,84.10267574],
-			"Label": "MULAZIME_2-n1",
+			"Label": "MULAZIME_2--n1",
 			"Pitch": {
-				"Value": 298.6253967,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 125,
 			"Interval": [84.19555556,84.47419501],
-			"Label": "MULAZIME_2-n2",
+			"Label": "MULAZIME_2--n2",
 			"Pitch": {
-				"Value": 263.5975342,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 126,
 			"Interval": [84.52063492,84.9385941],
-			"Label": "MULAZIME_2-n3",
+			"Label": "MULAZIME_2--n3",
 			"Pitch": {
-				"Value": 253.0057526,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 127,
 			"Interval": [85.03147392,85.44943311],
-			"Label": "MULAZIME_2-n4",
+			"Label": "MULAZIME_2--n4",
 			"Pitch": {
-				"Value": 266.1987,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 128,
 			"Interval": [85.54231293,85.54231293],
-			"Label": "MULAZIME_2-n5",
+			"Label": "MULAZIME_2--n5",
 			"Pitch": {
-				"Value": 291.2995605,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 129,
 			"Interval": [85.77451247,85.82095238],
-			"Label": "MULAZIME_2-n6",
+			"Label": "MULAZIME_2--n6",
 			"Pitch": {
-				"Value": 518.7370605,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 130,
 			"Interval": [85.86739229,86.00671202],
-			"Label": "MULAZIME_2-n7",
+			"Label": "MULAZIME_2--n7",
 			"Pitch": {
-				"Value": 505.1354065,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 131,
 			"Interval": [86.09959184,86.47111111],
-			"Label": "MULAZIME_2-n8",
+			"Label": "MULAZIME_2--n8",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 132,
 			"Interval": [86.51755102,87.07482993],
-			"Label": "MULAZIME_2-n9",
+			"Label": "MULAZIME_2--n9",
 			"Pitch": {
-				"Value": 222.8135376,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 133,
 			"Interval": [87.16770975,87.3999093],
-			"Label": "MULAZIME_2-n10",
+			"Label": "MULAZIME_2--n10",
 			"Pitch": {
-				"Value": 251.4032898,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 134,
 			"Interval": [87.49278912,87.63210884],
-			"Label": "MULAZIME_2-n11",
+			"Label": "MULAZIME_2--n11",
 			"Pitch": {
-				"Value": 259.5184021,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 135,
 			"Interval": [87.67854875,87.86430839],
-			"Label": "MULAZIME_2-n12",
+			"Label": "MULAZIME_2--n12",
 			"Pitch": {
-				"Value": 255.5023956,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 136,
 			"Interval": [87.95718821,88.14294785],
-			"Label": "MULAZIME_2-n13",
+			"Label": "MULAZIME_2--n13",
 			"Pitch": {
-				"Value": 224.4929504,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 137,
 			"Interval": [88.23582766,88.70022676],
-			"Label": "MULAZIME_2-n14",
+			"Label": "MULAZIME_2--n14",
 			"Pitch": {
-				"Value": 198.3896637,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 138,
 			"Interval": [88.74666667,88.83954649],
-			"Label": "MULAZIME_2-n15",
+			"Label": "MULAZIME_2--n15",
 			"Pitch": {
-				"Value": 223.7162781,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 139,
 			"Interval": [88.88598639,89.21106576],
-			"Label": "MULAZIME_2-n16",
+			"Label": "MULAZIME_2--n16",
 			"Pitch": {
-				"Value": 252.8596497,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 140,
 			"Interval": [89.25750567,89.35038549],
-			"Label": "MULAZIME_2-n17",
+			"Label": "MULAZIME_2--n17",
 			"Pitch": {
-				"Value": 228.1533051,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 141,
 			"Interval": [89.44326531,89.58258503],
-			"Label": "MULAZIME_2-n18",
+			"Label": "MULAZIME_2--n18",
 			"Pitch": {
-				"Value": 396.321228,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 142,
 			"Interval": [89.62902494,89.76834467],
-			"Label": "MULAZIME_2-n19",
+			"Label": "MULAZIME_2--n19",
 			"Pitch": {
-				"Value": 394.4940491,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 143,
 			"Interval": [89.81478458,89.95410431],
-			"Label": "MULAZIME_2-n20",
+			"Label": "MULAZIME_2--n20",
 			"Pitch": {
-				"Value": 369.1405334,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 144,
 			"Interval": [90.00054422,90.4185034],
-			"Label": "MULAZIME_2-n21",
+			"Label": "MULAZIME_2--n21",
 			"Pitch": {
-				"Value": 180.6674805,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 145,
 			"Interval": [90.51138322,90.69714286],
-			"Label": "MULAZIME_2-n22",
+			"Label": "MULAZIME_2--n22",
 			"Pitch": {
-				"Value": 166.3440399,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 146,
 			"Interval": [90.74358277,91.53306122],
-			"Label": "MULAZIME_2-n23",
+			"Label": "MULAZIME_2--n23",
 			"Pitch": {
-				"Value": 182.4503021,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 147,
 			"Interval": [91.57950113,91.99746032],
-			"Label": "MULAZIME_2-n24",
+			"Label": "MULAZIME_2--n24",
 			"Pitch": {
-				"Value": 170.4289246,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 148,
 			"Interval": [92.09034014,92.55473923],
-			"Label": "MULAZIME_2-n25",
+			"Label": "MULAZIME_2--n25",
 			"Pitch": {
-				"Value": 167.5010529,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 149,
 			"Interval": [92.64761905,92.74049887],
-			"Label": "MULAZIME_2-n26",
+			"Label": "MULAZIME_2--n26",
 			"Pitch": {
-				"Value": 184.1443176,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 150,
 			"Interval": [92.83337868,93.01913832],
-			"Label": "MULAZIME_2-n27",
+			"Label": "MULAZIME_2--n27",
 			"Pitch": {
-				"Value": 197.8175201,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 151,
 			"Interval": [93.11201814,93.48353741],
-			"Label": "MULAZIME_2-n28",
+			"Label": "MULAZIME_2--n28",
 			"Pitch": {
-				"Value": 222.4277649,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 152,
 			"Interval": [93.52997732,93.57641723],
-			"Label": "MULAZIME_2-n29",
+			"Label": "MULAZIME_2--n29",
 			"Pitch": {
-				"Value": 182.8723297,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 153,
 			"Interval": [93.62285714,93.71573696],
-			"Label": "MULAZIME_2-n30",
+			"Label": "MULAZIME_2--n30",
 			"Pitch": {
-				"Value": 183.6132507,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 154,
 			"Interval": [93.76217687,93.94793651],
-			"Label": "MULAZIME_2-n31",
+			"Label": "MULAZIME_2--n31",
 			"Pitch": {
-				"Value": 179.1088715,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 155,
 			"Interval": [94.04081633,94.31945578],
-			"Label": "MULAZIME_2-n32",
+			"Label": "MULAZIME_2--n32",
 			"Pitch": {
-				"Value": 169.0562744,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 156,
 			"Interval": [94.4123356,94.73741497],
-			"Label": "MULAZIME_2-n33",
+			"Label": "MULAZIME_2--n33",
 			"Pitch": {
-				"Value": 149.2264709,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 157,
 			"Interval": [94.78385488,95.15537415],
-			"Label": "MULAZIME_2-n34",
+			"Label": "MULAZIME_2--n34",
 			"Pitch": {
-				"Value": 189.3213196,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 158,
 			"Interval": [95.24825397,95.48045351],
-			"Label": "MULAZIME_2-n35",
+			"Label": "MULAZIME_2--n35",
 			"Pitch": {
-				"Value": 186.3916016,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 159,
 			"Interval": [95.52689342,95.66621315],
-			"Label": "MULAZIME_2-n36",
+			"Label": "MULAZIME_2--n36",
 			"Pitch": {
-				"Value": 196.3376465,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 160,
 			"Interval": [95.75909297,96.68789116],
-			"Label": "MULAZIME_2-n37",
+			"Label": "MULAZIME_2--n37",
 			"Pitch": {
-				"Value": 223.5870819,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 161,
 			"Interval": [96.73433107,97.24517007],
-			"Label": "MULAZIME_2-n38",
+			"Label": "MULAZIME_2--n38",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 162,
 			"Interval": [97.29160998,97.43092971],
-			"Label": "MULAZIME_2-n39",
+			"Label": "MULAZIME_2--n39",
 			"Pitch": {
-				"Value": 252.8596497,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 163,
 			"Interval": [97.52380952,97.84888889],
-			"Label": "MULAZIME_2-n40",
+			"Label": "MULAZIME_2--n40",
 			"Pitch": {
-				"Value": 266.0449829,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 164,
 			"Interval": [97.8953288,98.03464853],
-			"Label": "MULAZIME_2-n41",
+			"Label": "MULAZIME_2--n41",
 			"Pitch": {
-				"Value": 297.9362183,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 165,
 			"Interval": [98.12752834,98.26684807],
-			"Label": "MULAZIME_2-n42",
+			"Label": "MULAZIME_2--n42",
 			"Pitch": {
-				"Value": 276.7027283,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 166,
 			"Interval": [98.31328798,98.4061678],
-			"Label": "MULAZIME_2-n43",
+			"Label": "MULAZIME_2--n43",
 			"Pitch": {
-				"Value": 253.7375183,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 167,
 			"Interval": [98.54548753,98.77768707],
-			"Label": "MULAZIME_2-n44",
+			"Label": "MULAZIME_2--n44",
 			"Pitch": {
-				"Value": 227.4953156,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 168,
 			"Interval": [98.87056689,98.87056689],
-			"Label": "MULAZIME_2-n45",
+			"Label": "MULAZIME_2--n45",
 			"Pitch": {
-				"Value": 400.6947327,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 169,
 			"Interval": [98.96344671,99.14920635],
-			"Label": "MULAZIME_2-n46",
+			"Label": "MULAZIME_2--n46",
 			"Pitch": {
-				"Value": 367.8634033,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 170,
 			"Interval": [99.33496599,100.1244444],
-			"Label": "MULAZIME_2-n47",
+			"Label": "MULAZIME_2--n47",
 			"Pitch": {
-				"Value": 395.1782532,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 171,
 			"Interval": [100.1708844,100.867483],
-			"Label": "MULAZIME_2-n48",
+			"Label": "MULAZIME_2--n48",
 			"Pitch": {
-				"Value": 369.9944153,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 172,
 			"Interval": [100.9603628,101.2854422],
-			"Label": "MULAZIME_2-n49",
+			"Label": "MULAZIME_2--n49",
 			"Pitch": {
-				"Value": 447.4325562,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 173,
 			"Interval": [101.378322,101.4712018],
-			"Label": "MULAZIME_2-n50",
+			"Label": "MULAZIME_2--n50",
 			"Pitch": {
-				"Value": 393.1292114,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 174,
 			"Interval": [101.5640816,101.7034014],
-			"Label": "MULAZIME_2-n51",
+			"Label": "MULAZIME_2--n51",
 			"Pitch": {
-				"Value": 367.2265015,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 175,
 			"Interval": [101.7498413,102.2606803],
-			"Label": "MULAZIME_2-n52",
+			"Label": "MULAZIME_2--n52",
 			"Pitch": {
-				"Value": 360.0848389,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 176,
 			"Interval": [102.3071202,102.3071202],
-			"Label": "MULAZIME_2-n53",
+			"Label": "MULAZIME_2--n53",
 			"Pitch": {
-				"Value": 340.2677002,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 177,
 			"Interval": [102.4,102.6786395],
-			"Label": "MULAZIME_2-n54",
+			"Label": "MULAZIME_2--n54",
 			"Pitch": {
-				"Value": 147.9391174,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 178,
 			"Interval": [102.7715193,103.6538776],
-			"Label": "MULAZIME_2-n55",
+			"Label": "MULAZIME_2--n55",
 			"Pitch": {
-				"Value": 167.0179901,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
 			"Interval": [103.7003175,103.7003175],
-			"Label": "MULAZIME_2-n56",
+			"Label": "MULAZIME_2--n56",
 			"Pitch": {
-				"Value": 166.9215393,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 356,
 			"Interval": [104.5826757,105.1863946],
-			"Label": "3-HANE_1-n1",
+			"Label": "3-HANE_1--n1",
 			"Pitch": {
-				"Value": 166.8251495,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 357,
 			"Interval": [105.2328345,106.0687528],
-			"Label": "3-HANE_1-n2",
+			"Label": "3-HANE_1--n2",
 			"Pitch": {
-				"Value": 167.5978394,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 358,
 			"Interval": [106.1151927,106.3473923],
-			"Label": "3-HANE_1-n3",
+			"Label": "3-HANE_1--n3",
 			"Pitch": {
-				"Value": 149.5716553,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 359,
 			"Interval": [106.3938322,107.0439909],
-			"Label": "3-HANE_1-n4",
+			"Label": "3-HANE_1--n4",
 			"Pitch": {
-				"Value": 253.0057526,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 360,
 			"Interval": [107.1368707,107.1368707],
-			"Label": "3-HANE_1-n5",
+			"Label": "3-HANE_1--n5",
 			"Pitch": {
-				"Value": 279.1105957,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 361,
 			"Interval": [107.1833107,107.6012698],
-			"Label": "3-HANE_1-n6",
+			"Label": "3-HANE_1--n6",
 			"Pitch": {
-				"Value": 278.7883301,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 362,
 			"Interval": [107.6477098,108.0656689],
-			"Label": "3-HANE_1-n7",
+			"Label": "3-HANE_1--n7",
 			"Pitch": {
-				"Value": 298.1083679,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 363,
 			"Interval": [108.1585488,109.2731066],
-			"Label": "3-HANE_1-n8",
+			"Label": "3-HANE_1--n8",
 			"Pitch": {
-				"Value": 334.0359802,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 364,
 			"Interval": [109.3659864,109.7375057],
-			"Label": "3-HANE_1-n9",
+			"Label": "3-HANE_1--n9",
 			"Pitch": {
-				"Value": 110.701149,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 365,
 			"Interval": [109.8303855,110.1090249],
-			"Label": "3-HANE_1-n10",
+			"Label": "3-HANE_1--n10",
 			"Pitch": {
-				"Value": 225.0122528,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 366,
 			"Interval": [110.1554649,110.7127438],
-			"Label": "3-HANE_1-n11",
+			"Label": "3-HANE_1--n11",
 			"Pitch": {
-				"Value": 223.3289337,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 367,
 			"Interval": [110.8056236,111.2235828],
-			"Label": "3-HANE_1-n12",
+			"Label": "3-HANE_1--n12",
 			"Pitch": {
-				"Value": 509.2368774,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 368,
 			"Interval": [111.3164626,111.5022222],
-			"Label": "3-HANE_1-n13",
+			"Label": "3-HANE_1--n13",
 			"Pitch": {
-				"Value": 450.8049927,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 369,
 			"Interval": [111.5486621,111.9201814],
-			"Label": "3-HANE_1-n14",
+			"Label": "3-HANE_1--n14",
 			"Pitch": {
-				"Value": 392.675293,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 370,
 			"Interval": [112.0595011,112.152381],
-			"Label": "3-HANE_1-n15",
+			"Label": "3-HANE_1--n15",
 			"Pitch": {
-				"Value": 365.1114502,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 371,
 			"Interval": [112.1988209,112.7560998],
-			"Label": "3-HANE_1-n16",
+			"Label": "3-HANE_1--n16",
 			"Pitch": {
-				"Value": 356.3603516,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 372,
 			"Interval": [112.8489796,112.8489796],
-			"Label": "3-HANE_1-n17",
+			"Label": "3-HANE_1--n17",
 			"Pitch": {
-				"Value": 149.3989716,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 373,
 			"Interval": [112.8954195,113.2204989],
-			"Label": "3-HANE_1-n18",
+			"Label": "3-HANE_1--n18",
 			"Pitch": {
-				"Value": 148.2813263,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 374,
 			"Interval": [113.3133787,114.2886168],
-			"Label": "3-HANE_1-n19",
+			"Label": "3-HANE_1--n19",
 			"Pitch": {
-				"Value": 168.1796875,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 375,
 			"Interval": [114.3814966,115.0316553],
-			"Label": "3-HANE_1-n20",
+			"Label": "3-HANE_1--n20",
 			"Pitch": {
-				"Value": 174.8159485,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C6",
 			"IndexInScore": 376,
 			"Interval": [115.0780952,115.3567347],
-			"Label": "3-HANE_1-n21",
+			"Label": "3-HANE_1--n21",
 			"Pitch": {
-				"Value": 400.926239,
-				"Unit": "Hz"
+				"Value": 1494.339623,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B5b1",
 			"IndexInScore": 377,
 			"Interval": [115.4496145,115.8211338],
-			"Label": "3-HANE_1-n22",
+			"Label": "3-HANE_1--n22",
 			"Pitch": {
-				"Value": 379.0803223,
-				"Unit": "Hz"
+				"Value": 1381.132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 378,
 			"Interval": [115.9140136,116.3784127],
-			"Label": "3-HANE_1-n23",
+			"Label": "3-HANE_1--n23",
 			"Pitch": {
-				"Value": 335.5831299,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 379,
 			"Interval": [116.4712925,116.8428118],
-			"Label": "3-HANE_1-n24",
+			"Label": "3-HANE_1--n24",
 			"Pitch": {
-				"Value": 298.1083679,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 380,
 			"Interval": [116.9356916,117.4465306],
-			"Label": "3-HANE_1-n25",
+			"Label": "3-HANE_1--n25",
 			"Pitch": {
-				"Value": 562.4287109,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B5b1",
 			"IndexInScore": 381,
 			"Interval": [117.4929705,117.8180499],
-			"Label": "3-HANE_1-n26",
+			"Label": "3-HANE_1--n26",
 			"Pitch": {
-				"Value": 770.0774536,
-				"Unit": "Hz"
+				"Value": 1381.132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 382,
 			"Interval": [117.8644898,117.9109297],
-			"Label": "3-HANE_1-n27",
+			"Label": "3-HANE_1--n27",
 			"Pitch": {
-				"Value": 606.2880859,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 383,
 			"Interval": [117.9573696,118.1431293],
-			"Label": "3-HANE_1-n28",
+			"Label": "3-HANE_1--n28",
 			"Pitch": {
-				"Value": 597.9411621,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 384,
 			"Interval": [118.1895692,118.3753288],
-			"Label": "3-HANE_1-n29",
+			"Label": "3-HANE_1--n29",
 			"Pitch": {
-				"Value": 546.4174194,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 385,
 			"Interval": [118.4217687,119.3505669],
-			"Label": "3-HANE_1-n30",
+			"Label": "3-HANE_1--n30",
 			"Pitch": {
-				"Value": 501.9360352,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 386,
 			"Interval": [119.4898866,119.8614059],
-			"Label": "3-HANE_1-n31",
+			"Label": "3-HANE_1--n31",
 			"Pitch": {
-				"Value": 275.4270325,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 387,
 			"Interval": [119.9542857,121.0224036],
-			"Label": "3-HANE_1-n32",
+			"Label": "3-HANE_1--n32",
 			"Pitch": {
-				"Value": 444.5986328,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 388,
 			"Interval": [121.1152834,121.7190023],
-			"Label": "3-HANE_1-n33",
+			"Label": "3-HANE_1--n33",
 			"Pitch": {
-				"Value": 586.3126831,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 389,
 			"Interval": [121.7654422,121.9512018],
-			"Label": "3-HANE_1-n34",
+			"Label": "3-HANE_1--n34",
 			"Pitch": {
-				"Value": 566.6679077,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 390,
 			"Interval": [122.0440816,122.4156009],
-			"Label": "3-HANE_1-n35",
+			"Label": "3-HANE_1--n35",
 			"Pitch": {
-				"Value": 672.3303223,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 391,
 			"Interval": [122.5084807,123.0193197],
-			"Label": "3-HANE_1-n36",
+			"Label": "3-HANE_1--n36",
 			"Pitch": {
-				"Value": 297.0769958,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 392,
 			"Interval": [123.1121995,123.390839],
-			"Label": "3-HANE_1-n37",
+			"Label": "3-HANE_1--n37",
 			"Pitch": {
-				"Value": 279.5946655,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 393,
 			"Interval": [123.4372789,124.0874376],
-			"Label": "3-HANE_1-n38",
+			"Label": "3-HANE_1--n38",
 			"Pitch": {
-				"Value": 273.0509644,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 394,
 			"Interval": [124.1338776,124.412517],
-			"Label": "3-HANE_1-n39",
+			"Label": "3-HANE_1--n39",
 			"Pitch": {
-				"Value": 256.9825134,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 395,
 			"Interval": [124.5518367,124.923356],
-			"Label": "3-HANE_1-n40",
+			"Label": "3-HANE_1--n40",
 			"Pitch": {
-				"Value": 444.0853271,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 396,
 			"Interval": [125.0162358,125.945034],
-			"Label": "3-HANE_1-n41",
+			"Label": "3-HANE_1--n41",
 			"Pitch": {
-				"Value": 253.1519318,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 397,
 			"Interval": [126.0379138,126.5487528],
-			"Label": "3-HANE_1-n42",
+			"Label": "3-HANE_1--n42",
 			"Pitch": {
-				"Value": 296.3913879,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 398,
 			"Interval": [126.5951927,127.5239909],
-			"Label": "3-HANE_1-n43",
+			"Label": "3-HANE_1--n43",
 			"Pitch": {
-				"Value": 293.1563416,
-				"Unit": "Hz"
+				"Value": 883.0188679,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 399,
 			"Interval": [127.6168707,128.0348299],
-			"Label": "3-HANE_1-n44",
+			"Label": "3-HANE_1--n44",
 			"Pitch": {
-				"Value": 251.1130219,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 400,
 			"Interval": [128.1277098,128.1277098],
-			"Label": "3-HANE_1-n45",
+			"Label": "3-HANE_1--n45",
 			"Pitch": {
-				"Value": 263.9022217,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 401,
 			"Interval": [128.1741497,128.5456689],
-			"Label": "3-HANE_1-n46",
+			"Label": "3-HANE_1--n46",
 			"Pitch": {
-				"Value": 265.7378235,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 402,
 			"Interval": [128.6385488,128.8707483],
-			"Label": "3-HANE_1-n47",
+			"Label": "3-HANE_1--n47",
 			"Pitch": {
-				"Value": 223.5870819,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 403,
 			"Interval": [128.9171882,128.9636281],
-			"Label": "3-HANE_1-n48",
+			"Label": "3-HANE_1--n48",
 			"Pitch": {
-				"Value": 251.2581177,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 404,
 			"Interval": [129.010068,129.5673469],
-			"Label": "3-HANE_1-n49",
+			"Label": "3-HANE_1--n49",
 			"Pitch": {
-				"Value": 223.8455353,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 405,
 			"Interval": [129.6602268,130.1246259],
-			"Label": "3-HANE_1-n50",
+			"Label": "3-HANE_1--n50",
 			"Pitch": {
-				"Value": 250.0997314,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 406,
 			"Interval": [130.1710658,130.3103855],
-			"Label": "3-HANE_1-n51",
+			"Label": "3-HANE_1--n51",
 			"Pitch": {
-				"Value": 196.3376465,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 407,
 			"Interval": [130.3568254,130.542585],
-			"Label": "3-HANE_1-n52",
+			"Label": "3-HANE_1--n52",
 			"Pitch": {
-				"Value": 223.3289337,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 408,
 			"Interval": [130.5890249,131.0069841],
-			"Label": "3-HANE_1-n53",
+			"Label": "3-HANE_1--n53",
 			"Pitch": {
-				"Value": 196.6781769,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 409,
 			"Interval": [131.0998639,131.7500227],
-			"Label": "3-HANE_1-n54",
+			"Label": "3-HANE_1--n54",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 410,
 			"Interval": [131.8429025,132.3537415],
-			"Label": "3-HANE_1-n55",
+			"Label": "3-HANE_1--n55",
 			"Pitch": {
-				"Value": 196.4510956,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 411,
 			"Interval": [132.4001814,132.4466213],
-			"Label": "3-HANE_1-n56",
+			"Label": "3-HANE_1--n56",
 			"Pitch": {
-				"Value": 180.7718658,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 412,
 			"Interval": [132.4930612,132.8645805],
-			"Label": "3-HANE_1-n57",
+			"Label": "3-HANE_1--n57",
 			"Pitch": {
-				"Value": 180.9808197,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 413,
 			"Interval": [132.9110204,133.0503401],
-			"Label": "3-HANE_1-n58",
+			"Label": "3-HANE_1--n58",
 			"Pitch": {
-				"Value": 367.8634033,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 414,
 			"Interval": [133.09678,133.3754195],
-			"Label": "3-HANE_1-n59",
+			"Label": "3-HANE_1--n59",
 			"Pitch": {
-				"Value": 358.0108948,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 415,
 			"Interval": [133.4682993,133.7004989],
-			"Label": "3-HANE_1-n60",
+			"Label": "3-HANE_1--n60",
 			"Pitch": {
-				"Value": 167.6946716,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 416,
 			"Interval": [133.7469388,134.6292971],
-			"Label": "3-HANE_1-n61",
+			"Label": "3-HANE_1--n61",
 			"Pitch": {
-				"Value": 167.1144867,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 417,
 			"Interval": [134.7221769,135.0008163],
-			"Label": "3-HANE_1-n62",
+			"Label": "3-HANE_1--n62",
 			"Pitch": {
-				"Value": 148.9681091,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 418,
 			"Interval": [135.0472562,135.2330159],
-			"Label": "3-HANE_1-n63",
+			"Label": "3-HANE_1--n63",
 			"Pitch": {
-				"Value": 167.2110443,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 124,
 			"Interval": [135.6509751,135.7438549],
-			"Label": "MULAZIME_2-n1",
+			"Label": "MULAZIME_2--n1",
 			"Pitch": {
-				"Value": 524.7645264,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 125,
 			"Interval": [135.7902948,135.8831746],
-			"Label": "MULAZIME_2-n2",
+			"Label": "MULAZIME_2--n2",
 			"Pitch": {
-				"Value": 522.6469727,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 126,
 			"Interval": [135.9296145,136.3011338],
-			"Label": "MULAZIME_2-n3",
+			"Label": "MULAZIME_2--n3",
 			"Pitch": {
-				"Value": 507.1820068,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 127,
 			"Interval": [136.3475737,136.4868934],
-			"Label": "MULAZIME_2-n4",
+			"Label": "MULAZIME_2--n4",
 			"Pitch": {
-				"Value": 507.1820068,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 128,
 			"Interval": [136.5797732,136.7655329],
-			"Label": "MULAZIME_2-n5",
+			"Label": "MULAZIME_2--n5",
 			"Pitch": {
-				"Value": 595.8724365,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 129,
 			"Interval": [136.8584127,136.9977324],
-			"Label": "MULAZIME_2-n6",
+			"Label": "MULAZIME_2--n6",
 			"Pitch": {
-				"Value": 534.2457275,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 130,
 			"Interval": [137.0441723,137.1370522],
-			"Label": "MULAZIME_2-n7",
+			"Label": "MULAZIME_2--n7",
 			"Pitch": {
-				"Value": 503.3877869,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 131,
 			"Interval": [137.3692517,137.7872109],
-			"Label": "MULAZIME_2-n8",
+			"Label": "MULAZIME_2--n8",
 			"Pitch": {
-				"Value": 221.6582184,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 132,
 			"Interval": [137.8336508,138.3444898],
-			"Label": "MULAZIME_2-n9",
+			"Label": "MULAZIME_2--n9",
 			"Pitch": {
-				"Value": 221.7862854,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 133,
 			"Interval": [138.3909297,138.5766893],
-			"Label": "MULAZIME_2-n10",
+			"Label": "MULAZIME_2--n10",
 			"Pitch": {
-				"Value": 251.2581177,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 134,
 			"Interval": [138.6695692,138.9017687],
-			"Label": "MULAZIME_2-n11",
+			"Label": "MULAZIME_2--n11",
 			"Pitch": {
-				"Value": 260.5698547,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 135,
 			"Interval": [138.9482086,139.1339683],
-			"Label": "MULAZIME_2-n12",
+			"Label": "MULAZIME_2--n12",
 			"Pitch": {
-				"Value": 254.471405,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 136,
 			"Interval": [139.1804082,139.3197279],
-			"Label": "MULAZIME_2-n13",
+			"Label": "MULAZIME_2--n13",
 			"Pitch": {
-				"Value": 224.2337646,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 137,
 			"Interval": [139.4126077,139.9234467],
-			"Label": "MULAZIME_2-n14",
+			"Label": "MULAZIME_2--n14",
 			"Pitch": {
-				"Value": 393.3563538,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 138,
 			"Interval": [139.9698866,140.0627664],
-			"Label": "MULAZIME_2-n15",
+			"Label": "MULAZIME_2--n15",
 			"Pitch": {
-				"Value": 448.9859009,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 139,
 			"Interval": [140.1556463,140.4807256],
-			"Label": "MULAZIME_2-n16",
+			"Label": "MULAZIME_2--n16",
 			"Pitch": {
-				"Value": 251.9848328,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 140,
 			"Interval": [140.5271655,140.6200454],
-			"Label": "MULAZIME_2-n17",
+			"Label": "MULAZIME_2--n17",
 			"Pitch": {
-				"Value": 246.3717499,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 141,
 			"Interval": [140.6664853,140.805805],
-			"Label": "MULAZIME_2-n18",
+			"Label": "MULAZIME_2--n18",
 			"Pitch": {
-				"Value": 393.5836182,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 142,
 			"Interval": [140.8522449,141.0380045],
-			"Label": "MULAZIME_2-n19",
+			"Label": "MULAZIME_2--n19",
 			"Pitch": {
-				"Value": 390.8649292,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 143,
 			"Interval": [141.0844444,141.2237642],
-			"Label": "MULAZIME_2-n20",
+			"Label": "MULAZIME_2--n20",
 			"Pitch": {
-				"Value": 365.5334778,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 144,
 			"Interval": [141.2702041,141.5952834],
-			"Label": "MULAZIME_2-n21",
+			"Label": "MULAZIME_2--n21",
 			"Pitch": {
-				"Value": 356.9784241,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 145,
 			"Interval": [141.7346032,141.827483],
-			"Label": "MULAZIME_2-n22",
+			"Label": "MULAZIME_2--n22",
 			"Pitch": {
-				"Value": 333.4576416,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 146,
 			"Interval": [142.0596825,143.4528798],
-			"Label": "MULAZIME_2-n23",
+			"Label": "MULAZIME_2--n23",
 			"Pitch": {
-				"Value": 181.6091461,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 147,
 			"Interval": [143.5921995,143.5921995],
-			"Label": "MULAZIME_2-n24",
+			"Label": "MULAZIME_2--n24",
 			"Pitch": {
-				"Value": 343.427002,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 148,
 			"Interval": [143.6386395,143.7779592],
-			"Label": "MULAZIME_2-n25",
+			"Label": "MULAZIME_2--n25",
 			"Pitch": {
-				"Value": 332.1120911,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 149,
 			"Interval": [143.8243991,143.9172789],
-			"Label": "MULAZIME_2-n26",
+			"Label": "MULAZIME_2--n26",
 			"Pitch": {
-				"Value": 368.2886353,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 150,
 			"Interval": [144.0101587,144.1959184],
-			"Label": "MULAZIME_2-n27",
+			"Label": "MULAZIME_2--n27",
 			"Pitch": {
-				"Value": 388.1650391,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 151,
 			"Interval": [144.2887982,144.6138776],
-			"Label": "MULAZIME_2-n28",
+			"Label": "MULAZIME_2--n28",
 			"Pitch": {
-				"Value": 443.5725708,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 152,
 			"Interval": [144.7996372,144.7996372],
-			"Label": "MULAZIME_2-n29",
+			"Label": "MULAZIME_2--n29",
 			"Pitch": {
-				"Value": 366.8025208,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 153,
 			"Interval": [144.8460771,144.9853968],
-			"Label": "MULAZIME_2-n30",
+			"Label": "MULAZIME_2--n30",
 			"Pitch": {
-				"Value": 366.16745,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 154,
 			"Interval": [145.0782766,145.3104762],
-			"Label": "MULAZIME_2-n31",
+			"Label": "MULAZIME_2--n31",
 			"Pitch": {
-				"Value": 360.2928772,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 155,
 			"Interval": [145.403356,145.4962358],
-			"Label": "MULAZIME_2-n32",
+			"Label": "MULAZIME_2--n32",
 			"Pitch": {
-				"Value": 167.2110443,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 156,
 			"Interval": [145.5426757,146.1928345],
-			"Label": "MULAZIME_2-n33",
+			"Label": "MULAZIME_2--n33",
 			"Pitch": {
-				"Value": 148.7101898,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 157,
 			"Interval": [146.2857143,146.425034],
-			"Label": "MULAZIME_2-n34",
+			"Label": "MULAZIME_2--n34",
 			"Pitch": {
-				"Value": 196.1109619,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 158,
 			"Interval": [146.5179138,146.8429932],
-			"Label": "MULAZIME_2-n35",
+			"Label": "MULAZIME_2--n35",
 			"Pitch": {
-				"Value": 185.8540649,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 159,
 			"Interval": [146.8894331,147.0287528],
-			"Label": "MULAZIME_2-n36",
+			"Label": "MULAZIME_2--n36",
 			"Pitch": {
-				"Value": 195.8845367,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 160,
 			"Interval": [147.0751927,147.957551],
-			"Label": "MULAZIME_2-n37",
+			"Label": "MULAZIME_2--n37",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 161,
 			"Interval": [148.0504308,148.5612698],
-			"Label": "MULAZIME_2-n38",
+			"Label": "MULAZIME_2--n38",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 162,
 			"Interval": [148.6541497,148.7934694],
-			"Label": "MULAZIME_2-n39",
+			"Label": "MULAZIME_2--n39",
 			"Pitch": {
-				"Value": 251.9848328,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 163,
 			"Interval": [148.8863492,149.2114286],
-			"Label": "MULAZIME_2-n40",
+			"Label": "MULAZIME_2--n40",
 			"Pitch": {
-				"Value": 264.054718,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 164,
 			"Interval": [149.3043084,149.490068],
-			"Label": "MULAZIME_2-n41",
+			"Label": "MULAZIME_2--n41",
 			"Pitch": {
-				"Value": 294.0042114,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 165,
 			"Interval": [149.5365079,149.5829478],
-			"Label": "MULAZIME_2-n42",
+			"Label": "MULAZIME_2--n42",
 			"Pitch": {
-				"Value": 272.1062622,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 166,
 			"Interval": [149.6293878,149.7222676],
-			"Label": "MULAZIME_2-n43",
+			"Label": "MULAZIME_2--n43",
 			"Pitch": {
-				"Value": 251.8393097,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 167,
 			"Interval": [149.8151474,150.0473469],
-			"Label": "MULAZIME_2-n44",
+			"Label": "MULAZIME_2--n44",
 			"Pitch": {
-				"Value": 224.2337646,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 168,
 			"Interval": [150.0937868,150.1866667],
-			"Label": "MULAZIME_2-n45",
+			"Label": "MULAZIME_2--n45",
 			"Pitch": {
-				"Value": 196.3376465,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 169,
 			"Interval": [150.3259864,150.6510658],
-			"Label": "MULAZIME_2-n46",
+			"Label": "MULAZIME_2--n46",
 			"Pitch": {
-				"Value": 368.9273682,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 170,
 			"Interval": [150.6975057,152.1835828],
-			"Label": "MULAZIME_2-n47",
+			"Label": "MULAZIME_2--n47",
 			"Pitch": {
-				"Value": 393.3563538,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 171,
 			"Interval": [152.2764626,152.2764626],
-			"Label": "MULAZIME_2-n48",
+			"Label": "MULAZIME_2--n48",
 			"Pitch": {
-				"Value": 434.1931152,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 172,
 			"Interval": [152.3229025,152.7873016],
-			"Label": "MULAZIME_2-n49",
+			"Label": "MULAZIME_2--n49",
 			"Pitch": {
-				"Value": 446.1421814,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 173,
 			"Interval": [152.8337415,152.8801814],
-			"Label": "MULAZIME_2-n50",
+			"Label": "MULAZIME_2--n50",
 			"Pitch": {
-				"Value": 422.0762024,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 174,
 			"Interval": [152.9266213,153.0195011],
-			"Label": "MULAZIME_2-n51",
+			"Label": "MULAZIME_2--n51",
 			"Pitch": {
-				"Value": 366.8025208,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 175,
 			"Interval": [153.065941,153.2517007],
-			"Label": "MULAZIME_2-n52",
+			"Label": "MULAZIME_2--n52",
 			"Pitch": {
-				"Value": 161.7019196,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 176,
 			"Interval": [153.2981406,153.6696599],
-			"Label": "MULAZIME_2-n53",
+			"Label": "MULAZIME_2--n53",
 			"Pitch": {
-				"Value": 169.4473267,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 177,
 			"Interval": [153.7625397,154.2269388],
-			"Label": "MULAZIME_2-n54",
+			"Label": "MULAZIME_2--n54",
 			"Pitch": {
-				"Value": 148.1101227,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 178,
 			"Interval": [154.2733787,155.7594558],
-			"Label": "MULAZIME_2-n55",
+			"Label": "MULAZIME_2--n55",
 			"Pitch": {
-				"Value": 167.0179901,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
 			"Interval": [155.8523356,155.8523356],
-			"Label": "MULAZIME_2-n56",
+			"Label": "MULAZIME_2--n56",
 			"Pitch": {
-				"Value": 167.0179901,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 533,
 			"Interval": [156.7811338,157.0133333],
-			"Label": "4-HANE_1-n1",
+			"Label": "4-HANE_1--n1",
 			"Pitch": {
-				"Value": 167.307663,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 534,
 			"Interval": [157.1526531,157.3848526],
-			"Label": "4-HANE_1-n2",
+			"Label": "4-HANE_1--n2",
 			"Pitch": {
-				"Value": 333.6502991,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 535,
 			"Interval": [157.4312925,157.7563719],
-			"Label": "4-HANE_1-n3",
+			"Label": "4-HANE_1--n3",
 			"Pitch": {
-				"Value": 297.0769958,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 536,
 			"Interval": [157.8028118,158.0350113],
-			"Label": "4-HANE_1-n4",
+			"Label": "4-HANE_1--n4",
 			"Pitch": {
-				"Value": 333.2650757,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 537,
 			"Interval": [158.1278912,158.2672109],
-			"Label": "4-HANE_1-n5",
+			"Label": "4-HANE_1--n5",
 			"Pitch": {
-				"Value": 297.5922241,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 538,
 			"Interval": [158.4065306,158.6387302],
-			"Label": "4-HANE_1-n6",
+			"Label": "4-HANE_1--n6",
 			"Pitch": {
-				"Value": 332.6880798,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 539,
 			"Interval": [158.73161,158.9638095],
-			"Label": "4-HANE_1-n7",
+			"Label": "4-HANE_1--n7",
 			"Pitch": {
-				"Value": 368.9273682,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 540,
 			"Interval": [159.0102494,160.2176871],
-			"Label": "4-HANE_1-n8",
+			"Label": "4-HANE_1--n8",
 			"Pitch": {
-				"Value": 394.2662354,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 541,
 			"Interval": [160.3570068,160.6356463],
-			"Label": "4-HANE_1-n9",
+			"Label": "4-HANE_1--n9",
 			"Pitch": {
-				"Value": 394.2662354,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 542,
 			"Interval": [160.7285261,160.8678458],
-			"Label": "4-HANE_1-n10",
+			"Label": "4-HANE_1--n10",
 			"Pitch": {
-				"Value": 444.5986328,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 543,
 			"Interval": [160.9607256,161.1464853],
-			"Label": "4-HANE_1-n11",
+			"Label": "4-HANE_1--n11",
 			"Pitch": {
-				"Value": 252.7136383,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 544,
 			"Interval": [161.3786848,161.7037642],
-			"Label": "4-HANE_1-n12",
+			"Label": "4-HANE_1--n12",
 			"Pitch": {
-				"Value": 261.3234863,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 545,
 			"Interval": [161.796644,161.796644],
-			"Label": "4-HANE_1-n13",
+			"Label": "4-HANE_1--n13",
 			"Pitch": {
-				"Value": 263.1411438,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 546,
 			"Interval": [161.8895238,162.0752834],
-			"Label": "4-HANE_1-n14",
+			"Label": "4-HANE_1--n14",
 			"Pitch": {
-				"Value": 222.942276,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 547,
 			"Interval": [162.1681633,162.3539229],
-			"Label": "4-HANE_1-n15",
+			"Label": "4-HANE_1--n15",
 			"Pitch": {
-				"Value": 196.9055176,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 548,
 			"Interval": [162.4468027,162.7718821],
-			"Label": "4-HANE_1-n16",
+			"Label": "4-HANE_1--n16",
 			"Pitch": {
-				"Value": 361.9616394,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 549,
 			"Interval": [162.8647619,163.2827211],
-			"Label": "4-HANE_1-n17",
+			"Label": "4-HANE_1--n17",
 			"Pitch": {
-				"Value": 335.7770386,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 550,
 			"Interval": [163.3756009,163.7471202],
-			"Label": "4-HANE_1-n18",
+			"Label": "4-HANE_1--n18",
 			"Pitch": {
-				"Value": 333.0726318,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 551,
 			"Interval": [163.84,164.5365986],
-			"Label": "4-HANE_1-n19",
+			"Label": "4-HANE_1--n19",
 			"Pitch": {
-				"Value": 250.8230896,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 552,
 			"Interval": [164.5830385,164.6759184],
-			"Label": "4-HANE_1-n20",
+			"Label": "4-HANE_1--n20",
 			"Pitch": {
-				"Value": 253.1519318,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 553,
 			"Interval": [164.7687982,165.0474376],
-			"Label": "4-HANE_1-n21",
+			"Label": "4-HANE_1--n21",
 			"Pitch": {
-				"Value": 223.3289337,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 554,
 			"Interval": [165.1403175,165.2796372],
-			"Label": "4-HANE_1-n22",
+			"Label": "4-HANE_1--n22",
 			"Pitch": {
-				"Value": 335.9710388,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 555,
 			"Interval": [165.372517,165.6047166],
-			"Label": "4-HANE_1-n23",
+			"Label": "4-HANE_1--n23",
 			"Pitch": {
-				"Value": 300.3553162,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 556,
 			"Interval": [165.6975964,165.9762358],
-			"Label": "4-HANE_1-n24",
+			"Label": "4-HANE_1--n24",
 			"Pitch": {
-				"Value": 264.9714355,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 557,
 			"Interval": [166.0226757,166.1155556],
-			"Label": "4-HANE_1-n25",
+			"Label": "4-HANE_1--n25",
 			"Pitch": {
-				"Value": 248.8029327,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 558,
 			"Interval": [166.2084354,166.394195],
-			"Label": "4-HANE_1-n26",
+			"Label": "4-HANE_1--n26",
 			"Pitch": {
-				"Value": 222.6848602,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 559,
 			"Interval": [166.4406349,166.8121542],
-			"Label": "4-HANE_1-n27",
+			"Label": "4-HANE_1--n27",
 			"Pitch": {
-				"Value": 222.942276,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 560,
 			"Interval": [167.2301134,167.2765533],
-			"Label": "4-HANE_1-n28",
+			"Label": "4-HANE_1--n28",
 			"Pitch": {
-				"Value": 368.5014343,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 561,
 			"Interval": [167.3229932,167.6016327],
-			"Label": "4-HANE_1-n29",
+			"Label": "4-HANE_1--n29",
 			"Pitch": {
-				"Value": 364.2688293,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 562,
 			"Interval": [167.6480726,167.8338322],
-			"Label": "4-HANE_1-n30",
+			"Label": "4-HANE_1--n30",
 			"Pitch": {
 				"Value": 0,
-				"Unit": "Hz"
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 563,
 			"Interval": [167.8802721,168.3446712],
-			"Label": "4-HANE_1-n31",
+			"Label": "4-HANE_1--n31",
 			"Pitch": {
-				"Value": 296.3913879,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 564,
 			"Interval": [168.437551,168.437551],
-			"Label": "4-HANE_1-n32",
+			"Label": "4-HANE_1--n32",
 			"Pitch": {
-				"Value": 243.6826477,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 565,
 			"Interval": [168.4839909,168.6233107],
-			"Label": "4-HANE_1-n33",
+			"Label": "4-HANE_1--n33",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 566,
 			"Interval": [168.6697506,168.7161905],
-			"Label": "4-HANE_1-n34",
+			"Label": "4-HANE_1--n34",
 			"Pitch": {
-				"Value": 195.9977112,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 567,
 			"Interval": [168.7626304,169.1805896],
-			"Label": "4-HANE_1-n35",
+			"Label": "4-HANE_1--n35",
 			"Pitch": {
-				"Value": 196.1109619,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 568,
 			"Interval": [169.3199093,169.5056689],
-			"Label": "4-HANE_1-n36",
+			"Label": "4-HANE_1--n36",
 			"Pitch": {
-				"Value": 366.5906982,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 569,
 			"Interval": [169.5521088,169.8771882],
-			"Label": "4-HANE_1-n37",
+			"Label": "4-HANE_1--n37",
 			"Pitch": {
-				"Value": 365.3223877,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 570,
 			"Interval": [169.9236281,169.9236281],
-			"Label": "4-HANE_1-n38",
+			"Label": "4-HANE_1--n38",
 			"Pitch": {
-				"Value": 407.698761,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 571,
 			"Interval": [169.970068,170.1093878],
-			"Label": "4-HANE_1-n39",
+			"Label": "4-HANE_1--n39",
 			"Pitch": {
-				"Value": 359.0463867,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 572,
 			"Interval": [170.2022676,170.3880272],
-			"Label": "4-HANE_1-n40",
+			"Label": "4-HANE_1--n40",
 			"Pitch": {
-				"Value": 359.6690979,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 573,
 			"Interval": [170.4344671,171.7347846],
-			"Label": "4-HANE_1-n41",
+			"Label": "4-HANE_1--n41",
 			"Pitch": {
-				"Value": 334.0359802,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 574,
 			"Interval": [171.7812245,172.2920635],
-			"Label": "4-HANE_1-n42",
+			"Label": "4-HANE_1--n42",
 			"Pitch": {
-				"Value": 334.0359802,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 575,
 			"Interval": [172.3385034,172.524263],
-			"Label": "4-HANE_1-n43",
+			"Label": "4-HANE_1--n43",
 			"Pitch": {
-				"Value": 334.6153259,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 576,
 			"Interval": [172.6171429,172.8957823],
-			"Label": "4-HANE_1-n44",
+			"Label": "4-HANE_1--n44",
 			"Pitch": {
-				"Value": 296.0491943,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 577,
 			"Interval": [172.9886621,173.1279819],
-			"Label": "4-HANE_1-n45",
+			"Label": "4-HANE_1--n45",
 			"Pitch": {
-				"Value": 332.6880798,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 578,
 			"Interval": [173.1744218,173.3137415],
-			"Label": "4-HANE_1-n46",
+			"Label": "4-HANE_1--n46",
 			"Pitch": {
-				"Value": 346.8159485,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 579,
 			"Interval": [173.3601814,173.7781406],
-			"Label": "4-HANE_1-n47",
+			"Label": "4-HANE_1--n47",
 			"Pitch": {
-				"Value": 332.6880798,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 580,
 			"Interval": [173.8710204,174.3354195],
-			"Label": "4-HANE_1-n48",
+			"Label": "4-HANE_1--n48",
 			"Pitch": {
-				"Value": 368.2886353,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 581,
 			"Interval": [174.4282993,175.635737],
-			"Label": "4-HANE_1-n49",
+			"Label": "4-HANE_1--n49",
 			"Pitch": {
-				"Value": 397.0085754,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 582,
 			"Interval": [175.7286168,176.0072562],
-			"Label": "4-HANE_1-n50",
+			"Label": "4-HANE_1--n50",
 			"Pitch": {
-				"Value": 396.5502014,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 583,
 			"Interval": [176.0536961,176.146576],
-			"Label": "4-HANE_1-n51",
+			"Label": "4-HANE_1--n51",
 			"Pitch": {
-				"Value": 397.0085754,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 584,
 			"Interval": [176.1930159,176.3787755],
-			"Label": "4-HANE_1-n52",
+			"Label": "4-HANE_1--n52",
 			"Pitch": {
-				"Value": 502.8065796,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 585,
 			"Interval": [176.4716553,176.7038549],
-			"Label": "4-HANE_1-n53",
+			"Label": "4-HANE_1--n53",
 			"Pitch": {
-				"Value": 525.067749,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 586,
 			"Interval": [176.7967347,176.8896145],
-			"Label": "4-HANE_1-n54",
+			"Label": "4-HANE_1--n54",
 			"Pitch": {
-				"Value": 515.1539307,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 587,
 			"Interval": [177.1218141,177.5862132],
-			"Label": "4-HANE_1-n55",
+			"Label": "4-HANE_1--n55",
 			"Pitch": {
-				"Value": 391.0907898,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 588,
 			"Interval": [177.6326531,177.6326531],
-			"Label": "4-HANE_1-n56",
+			"Label": "4-HANE_1--n56",
 			"Pitch": {
-				"Value": 365.7446594,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 589,
 			"Interval": [177.679093,177.9112925],
-			"Label": "4-HANE_1-n57",
+			"Label": "4-HANE_1--n57",
 			"Pitch": {
-				"Value": 360.5010681,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 590,
 			"Interval": [178.0041723,178.3292517],
-			"Label": "4-HANE_1-n58",
+			"Label": "4-HANE_1--n58",
 			"Pitch": {
-				"Value": 334.8086548,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 591,
 			"Interval": [178.3756916,178.8865306],
-			"Label": "4-HANE_1-n59",
+			"Label": "4-HANE_1--n59",
 			"Pitch": {
-				"Value": 335.0021057,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 592,
 			"Interval": [178.9794104,179.7688889],
-			"Label": "4-HANE_1-n60",
+			"Label": "4-HANE_1--n60",
 			"Pitch": {
-				"Value": 251.9848328,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 593,
 			"Interval": [179.8617687,179.8617687],
-			"Label": "4-HANE_1-n61",
+			"Label": "4-HANE_1--n61",
 			"Pitch": {
-				"Value": 225.1422577,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 594,
 			"Interval": [179.9082086,180.0939683],
-			"Label": "4-HANE_1-n62",
+			"Label": "4-HANE_1--n62",
 			"Pitch": {
-				"Value": 222.6848602,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 595,
 			"Interval": [180.233288,180.5119274],
-			"Label": "4-HANE_1-n63",
+			"Label": "4-HANE_1--n63",
 			"Pitch": {
-				"Value": 333.4576416,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 596,
 			"Interval": [180.5583673,180.744127],
-			"Label": "4-HANE_1-n64",
+			"Label": "4-HANE_1--n64",
 			"Pitch": {
-				"Value": 298.2806091,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 597,
 			"Interval": [180.8370068,181.0692063],
-			"Label": "4-HANE_1-n65",
+			"Label": "4-HANE_1--n65",
 			"Pitch": {
-				"Value": 526.890625,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 598,
 			"Interval": [181.1156463,181.3014059],
-			"Label": "4-HANE_1-n66",
+			"Label": "4-HANE_1--n66",
 			"Pitch": {
-				"Value": 499.910614,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 599,
 			"Interval": [181.3942857,181.4871655],
-			"Label": "4-HANE_1-n67",
+			"Label": "4-HANE_1--n67",
 			"Pitch": {
-				"Value": 446.1421814,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 600,
 			"Interval": [181.5336054,181.9515646],
-			"Label": "4-HANE_1-n68",
+			"Label": "4-HANE_1--n68",
 			"Pitch": {
-				"Value": 446.3999329,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 601,
 			"Interval": [182.3695238,182.3695238],
-			"Label": "4-HANE_1-n69",
+			"Label": "4-HANE_1--n69",
 			"Pitch": {
-				"Value": 183.6132507,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 602,
 			"Interval": [182.4159637,182.9268027],
-			"Label": "4-HANE_1-n70",
+			"Label": "4-HANE_1--n70",
 			"Pitch": {
-				"Value": 179.834549,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 603,
 			"Interval": [183.0196825,183.0196825],
-			"Label": "4-HANE_1-n71",
+			"Label": "4-HANE_1--n71",
 			"Pitch": {
-				"Value": 149.2264709,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 604,
 			"Interval": [183.1125624,183.5305215],
-			"Label": "4-HANE_1-n72",
+			"Label": "4-HANE_1--n72",
 			"Pitch": {
-				"Value": 148.7961121,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 605,
 			"Interval": [183.5769615,183.6234014],
-			"Label": "4-HANE_1-n73",
+			"Label": "4-HANE_1--n73",
 			"Pitch": {
-				"Value": 256.0934143,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 606,
 			"Interval": [183.6698413,183.9020408],
-			"Label": "4-HANE_1-n74",
+			"Label": "4-HANE_1--n74",
 			"Pitch": {
-				"Value": 222.8135376,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 607,
 			"Interval": [183.9484807,183.9949206],
-			"Label": "4-HANE_1-n75",
+			"Label": "4-HANE_1--n75",
 			"Pitch": {
-				"Value": 394.4940491,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 608,
 			"Interval": [184.0413605,184.4128798],
-			"Label": "4-HANE_1-n76",
+			"Label": "4-HANE_1--n76",
 			"Pitch": {
-				"Value": 393.1292114,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 609,
 			"Interval": [184.5057596,184.6915193],
-			"Label": "4-HANE_1-n77",
+			"Label": "4-HANE_1--n77",
 			"Pitch": {
-				"Value": 362.7989197,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 610,
 			"Interval": [184.7843991,185.0630385],
-			"Label": "4-HANE_1-n78",
+			"Label": "4-HANE_1--n78",
 			"Pitch": {
-				"Value": 360.5010681,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 611,
 			"Interval": [185.1559184,185.2023583],
-			"Label": "4-HANE_1-n79",
+			"Label": "4-HANE_1--n79",
 			"Pitch": {
-				"Value": 393.8110352,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 612,
 			"Interval": [185.2952381,185.3881179],
-			"Label": "4-HANE_1-n80",
+			"Label": "4-HANE_1--n80",
 			"Pitch": {
-				"Value": 357.8041687,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 613,
 			"Interval": [185.4345578,185.6203175],
-			"Label": "4-HANE_1-n81",
+			"Label": "4-HANE_1--n81",
 			"Pitch": {
-				"Value": 351.8605042,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 614,
 			"Interval": [185.6667574,186.6884354],
-			"Label": "4-HANE_1-n82",
+			"Label": "4-HANE_1--n82",
 			"Pitch": {
-				"Value": 332.8803101,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 615,
 			"Interval": [186.7813152,187.5243537],
-			"Label": "4-HANE_1-n83",
+			"Label": "4-HANE_1--n83",
 			"Pitch": {
-				"Value": 333.6502991,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 616,
 			"Interval": [187.6172336,187.6636735],
-			"Label": "4-HANE_1-n84",
+			"Label": "4-HANE_1--n84",
 			"Pitch": {
-				"Value": 293.8344421,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 617,
 			"Interval": [187.7101134,188.1280726],
-			"Label": "4-HANE_1-n85",
+			"Label": "4-HANE_1--n85",
 			"Pitch": {
-				"Value": 332.3039551,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 618,
 			"Interval": [188.2209524,188.2673923],
-			"Label": "4-HANE_1-n86",
+			"Label": "4-HANE_1--n86",
 			"Pitch": {
-				"Value": 260.7203979,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 619,
 			"Interval": [188.3138322,188.5460317],
-			"Label": "4-HANE_1-n87",
+			"Label": "4-HANE_1--n87",
 			"Pitch": {
-				"Value": 267.2772217,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 620,
 			"Interval": [188.6853515,188.7317914],
-			"Label": "4-HANE_1-n88",
+			"Label": "4-HANE_1--n88",
 			"Pitch": {
-				"Value": 251.4032898,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 621,
 			"Interval": [188.7782313,188.8711111],
-			"Label": "4-HANE_1-n89",
+			"Label": "4-HANE_1--n89",
 			"Pitch": {
-				"Value": 251.5485535,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 622,
 			"Interval": [188.917551,188.9639909],
-			"Label": "4-HANE_1-n90",
+			"Label": "4-HANE_1--n90",
 			"Pitch": {
-				"Value": 248.946701,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 623,
 			"Interval": [189.0104308,189.0104308],
-			"Label": "4-HANE_1-n91",
+			"Label": "4-HANE_1--n91",
 			"Pitch": {
-				"Value": 250.9680176,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 624,
 			"Interval": [189.0568707,190.3571882],
-			"Label": "4-HANE_1-n92",
+			"Label": "4-HANE_1--n92",
 			"Pitch": {
-				"Value": 251.1130219,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 625,
 			"Interval": [190.4036281,190.4965079],
-			"Label": "4-HANE_1-n93",
+			"Label": "4-HANE_1--n93",
 			"Pitch": {
-				"Value": 529.3309937,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 626,
 			"Interval": [190.5429478,191.471746],
-			"Label": "4-HANE_1-n94",
+			"Label": "4-HANE_1--n94",
 			"Pitch": {
-				"Value": 528.109436,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 627,
 			"Interval": [191.5181859,191.5181859],
-			"Label": "4-HANE_1-n95",
+			"Label": "4-HANE_1--n95",
 			"Pitch": {
-				"Value": 514.5591431,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 628,
 			"Interval": [191.5646259,191.8897052],
-			"Label": "4-HANE_1-n96",
+			"Label": "4-HANE_1--n96",
 			"Pitch": {
-				"Value": 514.5591431,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 629,
 			"Interval": [191.982585,192.0290249],
-			"Label": "4-HANE_1-n97",
+			"Label": "4-HANE_1--n97",
 			"Pitch": {
-				"Value": 449.2453308,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 630,
 			"Interval": [192.0754649,192.3076644],
-			"Label": "4-HANE_1-n98",
+			"Label": "4-HANE_1--n98",
 			"Pitch": {
-				"Value": 444.5986328,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 631,
 			"Interval": [192.3541043,192.6327438],
-			"Label": "4-HANE_1-n99",
+			"Label": "4-HANE_1--n99",
 			"Pitch": {
-				"Value": 396.5502014,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 632,
 			"Interval": [192.7256236,192.9578231],
-			"Label": "4-HANE_1-n100",
+			"Label": "4-HANE_1--n100",
 			"Pitch": {
-				"Value": 519.9370117,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 633,
 			"Interval": [193.004263,193.1900227],
-			"Label": "4-HANE_1-n101",
+			"Label": "4-HANE_1--n101",
 			"Pitch": {
-				"Value": 491.8903809,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 634,
 			"Interval": [193.2364626,193.2364626],
-			"Label": "4-HANE_1-n102",
+			"Label": "4-HANE_1--n102",
 			"Pitch": {
-				"Value": 225.2723389,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 635,
 			"Interval": [193.2829025,193.8401814],
-			"Label": "4-HANE_1-n103",
+			"Label": "4-HANE_1--n103",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 636,
 			"Interval": [193.9330612,193.9330612],
-			"Label": "4-HANE_1-n104",
+			"Label": "4-HANE_1--n104",
 			"Pitch": {
-				"Value": 332.1120911,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 637,
 			"Interval": [194.025941,194.4903401],
-			"Label": "4-HANE_1-n105",
+			"Label": "4-HANE_1--n105",
 			"Pitch": {
-				"Value": 298.2806091,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 638,
 			"Interval": [194.58322,195.094059],
-			"Label": "4-HANE_1-n106",
+			"Label": "4-HANE_1--n106",
 			"Pitch": {
-				"Value": 443.3164368,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 639,
 			"Interval": [195.1404989,195.3262585],
-			"Label": "4-HANE_1-n107",
+			"Label": "4-HANE_1--n107",
 			"Pitch": {
-				"Value": 504.8437195,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 640,
 			"Interval": [195.3726984,195.7906576],
-			"Label": "4-HANE_1-n108",
+			"Label": "4-HANE_1--n108",
 			"Pitch": {
-				"Value": 531.1687012,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 641,
 			"Interval": [196.0228571,196.115737],
-			"Label": "4-HANE_1-n109",
+			"Label": "4-HANE_1--n109",
 			"Pitch": {
-				"Value": 267.4316406,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 642,
 			"Interval": [196.1621769,196.2550567],
-			"Label": "4-HANE_1-n110",
+			"Label": "4-HANE_1--n110",
 			"Pitch": {
-				"Value": 262.6855469,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 643,
 			"Interval": [196.3014966,196.4408163],
-			"Label": "4-HANE_1-n111",
+			"Label": "4-HANE_1--n111",
 			"Pitch": {
-				"Value": 251.2581177,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 644,
 			"Interval": [196.5336961,196.7194558],
-			"Label": "4-HANE_1-n112",
+			"Label": "4-HANE_1--n112",
 			"Pitch": {
-				"Value": 222.8135376,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 645,
 			"Interval": [196.7658957,197.3231746],
-			"Label": "4-HANE_1-n113",
+			"Label": "4-HANE_1--n113",
 			"Pitch": {
-				"Value": 223.0710907,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 646,
 			"Interval": [197.3696145,197.5553741],
-			"Label": "4-HANE_1-n114",
+			"Label": "4-HANE_1--n114",
 			"Pitch": {
-				"Value": 200.1160431,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 647,
 			"Interval": [197.648254,198.0197732],
-			"Label": "4-HANE_1-n115",
+			"Label": "4-HANE_1--n115",
 			"Pitch": {
-				"Value": 181.8190765,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 648,
 			"Interval": [198.0662132,198.159093],
-			"Label": "4-HANE_1-n116",
+			"Label": "4-HANE_1--n116",
 			"Pitch": {
-				"Value": 177.7689667,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 649,
 			"Interval": [198.2055329,198.4841723],
-			"Label": "4-HANE_1-n117",
+			"Label": "4-HANE_1--n117",
 			"Pitch": {
-				"Value": 148.5384979,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 650,
 			"Interval": [198.5770522,198.7628118],
-			"Label": "4-HANE_1-n118",
+			"Label": "4-HANE_1--n118",
 			"Pitch": {
-				"Value": 252.2760925,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 651,
 			"Interval": [198.8092517,199.0878912],
-			"Label": "4-HANE_1-n119",
+			"Label": "4-HANE_1--n119",
 			"Pitch": {
-				"Value": 241.3014984,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 652,
 			"Interval": [199.1343311,199.2272109],
-			"Label": "4-HANE_1-n120",
+			"Label": "4-HANE_1--n120",
 			"Pitch": {
-				"Value": 395.8636169,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 653,
 			"Interval": [199.2736508,199.6451701],
-			"Label": "4-HANE_1-n121",
+			"Label": "4-HANE_1--n121",
 			"Pitch": {
-				"Value": 396.5502014,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 654,
 			"Interval": [199.7380499,199.8309297],
-			"Label": "4-HANE_1-n122",
+			"Label": "4-HANE_1--n122",
 			"Pitch": {
-				"Value": 366.8025208,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 655,
 			"Interval": [199.8773696,200.1560091],
-			"Label": "4-HANE_1-n123",
+			"Label": "4-HANE_1--n123",
 			"Pitch": {
-				"Value": 394.0385742,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 656,
 			"Interval": [200.2488889,200.2488889],
-			"Label": "4-HANE_1-n124",
+			"Label": "4-HANE_1--n124",
 			"Pitch": {
-				"Value": 363.4281616,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 657,
 			"Interval": [200.3417687,200.4810884],
-			"Label": "4-HANE_1-n125",
+			"Label": "4-HANE_1--n125",
 			"Pitch": {
-				"Value": 357.1846619,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 658,
 			"Interval": [200.5739683,200.7597279],
-			"Label": "4-HANE_1-n126",
+			"Label": "4-HANE_1--n126",
 			"Pitch": {
-				"Value": 354.9223633,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 659,
 			"Interval": [200.8061678,201.1776871],
-			"Label": "4-HANE_1-n127",
+			"Label": "4-HANE_1--n127",
 			"Pitch": {
-				"Value": 334.6153259,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 660,
 			"Interval": [201.224127,201.8278458],
-			"Label": "4-HANE_1-n128",
+			"Label": "4-HANE_1--n128",
 			"Pitch": {
-				"Value": 339.4824219,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 661,
 			"Interval": [201.8742857,202.3386848],
-			"Label": "4-HANE_1-n129",
+			"Label": "4-HANE_1--n129",
 			"Pitch": {
-				"Value": 334.8086548,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 662,
 			"Interval": [202.4780045,202.9888435],
-			"Label": "4-HANE_1-n130",
+			"Label": "4-HANE_1--n130",
 			"Pitch": {
-				"Value": 297.2486267,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 663,
 			"Interval": [203.0817234,203.0817234],
-			"Label": "4-HANE_1-n131",
+			"Label": "4-HANE_1--n131",
 			"Pitch": {
-				"Value": 537.651062,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 664,
 			"Interval": [203.1746032,203.3603628],
-			"Label": "4-HANE_1-n132",
+			"Label": "4-HANE_1--n132",
 			"Pitch": {
-				"Value": 535.4815674,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 665,
 			"Interval": [203.4532426,203.8712018],
-			"Label": "4-HANE_1-n133",
+			"Label": "4-HANE_1--n133",
 			"Pitch": {
-				"Value": 522.9489746,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 666,
 			"Interval": [203.9176417,204.1034014],
-			"Label": "4-HANE_1-n134",
+			"Label": "4-HANE_1--n134",
 			"Pitch": {
-				"Value": 508.6488953,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 667,
 			"Interval": [204.1962812,204.4749206],
-			"Label": "4-HANE_1-n135",
+			"Label": "4-HANE_1--n135",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 668,
 			"Interval": [204.5678005,204.6142404],
-			"Label": "4-HANE_1-n136",
+			"Label": "4-HANE_1--n136",
 			"Pitch": {
-				"Value": 251.6938934,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 669,
 			"Interval": [204.7071202,204.7535601],
-			"Label": "4-HANE_1-n137",
+			"Label": "4-HANE_1--n137",
 			"Pitch": {
-				"Value": 249.2344513,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 670,
 			"Interval": [204.8,205.8681179],
-			"Label": "4-HANE_1-n138",
+			"Label": "4-HANE_1--n138",
 			"Pitch": {
-				"Value": 256.9825134,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 671,
 			"Interval": [205.9609977,205.9609977],
-			"Label": "4-HANE_1-n139",
+			"Label": "4-HANE_1--n139",
 			"Pitch": {
-				"Value": 521.7421265,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 672,
 			"Interval": [206.0538776,206.6111565],
-			"Label": "4-HANE_1-n140",
+			"Label": "4-HANE_1--n140",
 			"Pitch": {
-				"Value": 524.4614868,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 673,
 			"Interval": [206.6575964,206.6575964],
-			"Label": "4-HANE_1-n141",
+			"Label": "4-HANE_1--n141",
 			"Pitch": {
-				"Value": 497.6058655,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 674,
 			"Interval": [206.7040363,206.8897959],
-			"Label": "4-HANE_1-n142",
+			"Label": "4-HANE_1--n142",
 			"Pitch": {
-				"Value": 503.0971069,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 675,
 			"Interval": [206.9826757,207.0291156],
-			"Label": "4-HANE_1-n143",
+			"Label": "4-HANE_1--n143",
 			"Pitch": {
-				"Value": 448.4675293,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 676,
 			"Interval": [207.0755556,207.4935147],
-			"Label": "4-HANE_1-n144",
+			"Label": "4-HANE_1--n144",
 			"Pitch": {
-				"Value": 448.7266541,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 677,
 			"Interval": [207.5863946,207.865034],
-			"Label": "4-HANE_1-n145",
+			"Label": "4-HANE_1--n145",
 			"Pitch": {
-				"Value": 395.8636169,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 678,
 			"Interval": [207.9579138,208.1901134],
-			"Label": "4-HANE_1-n146",
+			"Label": "4-HANE_1--n146",
 			"Pitch": {
-				"Value": 262.9891968,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 679,
 			"Interval": [208.2365533,208.2365533],
-			"Label": "4-HANE_1-n147",
+			"Label": "4-HANE_1--n147",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 680,
 			"Interval": [208.3294331,208.4223129],
-			"Label": "4-HANE_1-n148",
+			"Label": "4-HANE_1--n148",
 			"Pitch": {
-				"Value": 226.0544281,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 681,
 			"Interval": [208.4687528,209.1653515],
-			"Label": "4-HANE_1-n149",
+			"Label": "4-HANE_1--n149",
 			"Pitch": {
-				"Value": 223.1999664,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 682,
 			"Interval": [209.2582313,209.7690703],
-			"Label": "4-HANE_1-n150",
+			"Label": "4-HANE_1--n150",
 			"Pitch": {
-				"Value": 294.5141296,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 683,
 			"Interval": [209.8619501,210.1870295],
-			"Label": "4-HANE_1-n151",
+			"Label": "4-HANE_1--n151",
 			"Pitch": {
-				"Value": 390.6392212,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 684,
 			"Interval": [210.2799093,210.419229],
-			"Label": "4-HANE_1-n152",
+			"Label": "4-HANE_1--n152",
 			"Pitch": {
-				"Value": 444.0853271,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 685,
 			"Interval": [210.4656689,210.6049887],
-			"Label": "4-HANE_1-n153",
+			"Label": "4-HANE_1--n153",
 			"Pitch": {
-				"Value": 500.4884644,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 686,
 			"Interval": [210.6978685,211.3480272],
-			"Label": "4-HANE_1-n154",
+			"Label": "4-HANE_1--n154",
 			"Pitch": {
-				"Value": 530.5554199,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 687,
 			"Interval": [211.440907,211.440907],
-			"Label": "4-HANE_1-n155",
+			"Label": "4-HANE_1--n155",
 			"Pitch": {
-				"Value": 541.078125,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 688,
 			"Interval": [211.4873469,211.7659864],
-			"Label": "4-HANE_1-n156",
+			"Label": "4-HANE_1--n156",
 			"Pitch": {
-				"Value": 515.1539307,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 689,
 			"Interval": [211.9053061,211.9053061],
-			"Label": "4-HANE_1-n157",
+			"Label": "4-HANE_1--n157",
 			"Pitch": {
-				"Value": 222.5562744,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 690,
 			"Interval": [211.951746,212.0910658],
-			"Label": "4-HANE_1-n158",
+			"Label": "4-HANE_1--n158",
 			"Pitch": {
-				"Value": 223.4579773,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 691,
 			"Interval": [212.1375057,212.6019048],
-			"Label": "4-HANE_1-n159",
+			"Label": "4-HANE_1--n159",
 			"Pitch": {
-				"Value": 223.1999664,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 692,
 			"Interval": [212.7412245,212.8805442],
-			"Label": "4-HANE_1-n160",
+			"Label": "4-HANE_1--n160",
 			"Pitch": {
-				"Value": 397.6971436,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 693,
 			"Interval": [212.9269841,213.484263],
-			"Label": "4-HANE_1-n161",
+			"Label": "4-HANE_1--n161",
 			"Pitch": {
-				"Value": 362.7989197,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 694,
 			"Interval": [213.5771429,213.5771429],
-			"Label": "4-HANE_1-n162",
+			"Label": "4-HANE_1--n162",
 			"Pitch": {
-				"Value": 148.7961121,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 695,
 			"Interval": [213.6235828,213.8557823],
-			"Label": "4-HANE_1-n163",
+			"Label": "4-HANE_1--n163",
 			"Pitch": {
-				"Value": 148.6243134,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 696,
 			"Interval": [213.9486621,214.4595011],
-			"Label": "4-HANE_1-n164",
+			"Label": "4-HANE_1--n164",
 			"Pitch": {
-				"Value": 500.4884644,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 697,
 			"Interval": [214.505941,214.505941],
-			"Label": "4-HANE_1-n165",
+			"Label": "4-HANE_1--n165",
 			"Pitch": {
-				"Value": 397.0085754,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 698,
 			"Interval": [214.5988209,214.9703401],
-			"Label": "4-HANE_1-n166",
+			"Label": "4-HANE_1--n166",
 			"Pitch": {
-				"Value": 395.6350403,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 699,
 			"Interval": [215.1560998,215.1560998],
-			"Label": "4-HANE_1-n167",
+			"Label": "4-HANE_1--n167",
 			"Pitch": {
-				"Value": 363.0085449,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 700,
 			"Interval": [215.2489796,215.4347392],
-			"Label": "4-HANE_1-n168",
+			"Label": "4-HANE_1--n168",
 			"Pitch": {
-				"Value": 362.7989197,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 701,
 			"Interval": [215.527619,215.8062585],
-			"Label": "4-HANE_1-n169",
+			"Label": "4-HANE_1--n169",
 			"Pitch": {
-				"Value": 398.3869019,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 702,
 			"Interval": [215.8991383,215.8991383],
-			"Label": "4-HANE_1-n170",
+			"Label": "4-HANE_1--n170",
 			"Pitch": {
-				"Value": 366.5906982,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 703,
 			"Interval": [215.9920181,216.1777778],
-			"Label": "4-HANE_1-n171",
+			"Label": "4-HANE_1--n171",
 			"Pitch": {
-				"Value": 358.8390503,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 704,
 			"Interval": [216.2706576,216.4564172],
-			"Label": "4-HANE_1-n172",
+			"Label": "4-HANE_1--n172",
 			"Pitch": {
-				"Value": 332.4959717,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 705,
 			"Interval": [216.5492971,217.2923356],
-			"Label": "4-HANE_1-n173",
+			"Label": "4-HANE_1--n173",
 			"Pitch": {
-				"Value": 333.4576416,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 706,
 			"Interval": [217.3387755,217.2923356],
-			"Label": "4-HANE_1-n174",
+			"Label": "4-HANE_1--n174",
 			"Pitch": {
-				"Value": "_NaN_",
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A5",
 			"IndexInScore": 707,
 			"Interval": [217.3387755,217.3387755],
-			"Label": "4-HANE_1-n175",
+			"Label": "4-HANE_1--n175",
 			"Pitch": {
-				"Value": 167.7915649,
-				"Unit": "Hz"
+				"Value": 1200,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 124,
 			"Interval": [221.4719274,221.5183673],
-			"Label": "MULAZIME_2-n1",
+			"Label": "MULAZIME_2--n1",
 			"Pitch": {
-				"Value": 250.9680176,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 125,
 			"Interval": [221.5648073,221.704127],
-			"Label": "MULAZIME_2-n2",
+			"Label": "MULAZIME_2--n2",
 			"Pitch": {
-				"Value": 250.9680176,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 126,
 			"Interval": [221.7505669,221.9827664],
-			"Label": "MULAZIME_2-n3",
+			"Label": "MULAZIME_2--n3",
 			"Pitch": {
-				"Value": 249.6667175,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 127,
 			"Interval": [222.0292063,222.1220862],
-			"Label": "MULAZIME_2-n4",
+			"Label": "MULAZIME_2--n4",
 			"Pitch": {
-				"Value": 277.022583,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 128,
 			"Interval": [222.1685261,222.6329252],
-			"Label": "MULAZIME_2-n5",
+			"Label": "MULAZIME_2--n5",
 			"Pitch": {
-				"Value": 301.3980713,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 129,
 			"Interval": [222.7722449,223.0973243],
-			"Label": "MULAZIME_2-n6",
+			"Label": "MULAZIME_2--n6",
 			"Pitch": {
-				"Value": 531.475647,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 130,
 			"Interval": [223.1902041,223.4224036],
-			"Label": "MULAZIME_2-n7",
+			"Label": "MULAZIME_2--n7",
 			"Pitch": {
-				"Value": 506.596405,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 131,
 			"Interval": [223.4688435,223.8403628],
-			"Label": "MULAZIME_2-n8",
+			"Label": "MULAZIME_2--n8",
 			"Pitch": {
-				"Value": 223.4579773,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 132,
 			"Interval": [223.8868027,224.7227211],
-			"Label": "MULAZIME_2-n9",
+			"Label": "MULAZIME_2--n9",
 			"Pitch": {
-				"Value": 221.1466675,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 133,
 			"Interval": [224.8156009,225.4193197],
-			"Label": "MULAZIME_2-n10",
+			"Label": "MULAZIME_2--n10",
 			"Pitch": {
-				"Value": 509.8255005,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 134,
 			"Interval": [225.4657596,225.6979592],
-			"Label": "MULAZIME_2-n11",
+			"Label": "MULAZIME_2--n11",
 			"Pitch": {
-				"Value": 531.475647,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 135,
 			"Interval": [225.8372789,226.0694785],
-			"Label": "MULAZIME_2-n12",
+			"Label": "MULAZIME_2--n12",
 			"Pitch": {
-				"Value": 507.7682495,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 136,
 			"Interval": [226.1623583,226.4409977],
-			"Label": "MULAZIME_2-n13",
+			"Label": "MULAZIME_2--n13",
 			"Pitch": {
-				"Value": 450.0245056,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 137,
 			"Interval": [226.4874376,227.2304762],
-			"Label": "MULAZIME_2-n14",
+			"Label": "MULAZIME_2--n14",
 			"Pitch": {
-				"Value": 397.4674988,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 138,
 			"Interval": [227.2769161,227.5555556],
-			"Label": "MULAZIME_2-n15",
+			"Label": "MULAZIME_2--n15",
 			"Pitch": {
-				"Value": 449.5049133,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 139,
 			"Interval": [227.6484354,228.0663946],
-			"Label": "MULAZIME_2-n16",
+			"Label": "MULAZIME_2--n16",
 			"Pitch": {
-				"Value": 518.1381836,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 140,
 			"Interval": [228.1128345,228.2985941],
-			"Label": "MULAZIME_2-n17",
+			"Label": "MULAZIME_2--n17",
 			"Pitch": {
-				"Value": 506.8891296,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 141,
 			"Interval": [228.345034,228.4843537],
-			"Label": "MULAZIME_2-n18",
+			"Label": "MULAZIME_2--n18",
 			"Pitch": {
-				"Value": 396.7793274,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 142,
 			"Interval": [228.5307937,228.855873],
-			"Label": "MULAZIME_2-n19",
+			"Label": "MULAZIME_2--n19",
 			"Pitch": {
-				"Value": 394.7219849,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 143,
 			"Interval": [228.9487528,229.4131519],
-			"Label": "MULAZIME_2-n20",
+			"Label": "MULAZIME_2--n20",
 			"Pitch": {
-				"Value": 367.651001,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 144,
 			"Interval": [229.4595918,229.877551],
-			"Label": "MULAZIME_2-n21",
+			"Label": "MULAZIME_2--n21",
 			"Pitch": {
-				"Value": 364.9006042,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 145,
 			"Interval": [229.9704308,230.1561905],
-			"Label": "MULAZIME_2-n22",
+			"Label": "MULAZIME_2--n22",
 			"Pitch": {
-				"Value": 168.0825806,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 146,
 			"Interval": [230.2490703,231.0849887],
-			"Label": "MULAZIME_2-n23",
+			"Label": "MULAZIME_2--n23",
 			"Pitch": {
-				"Value": 182.0292358,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 147,
 			"Interval": [231.1314286,231.4565079],
-			"Label": "MULAZIME_2-n24",
+			"Label": "MULAZIME_2--n24",
 			"Pitch": {
-				"Value": 181.8190765,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 148,
 			"Interval": [231.5029478,232.0602268],
-			"Label": "MULAZIME_2-n25",
+			"Label": "MULAZIME_2--n25",
 			"Pitch": {
-				"Value": 165.8643188,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 149,
 			"Interval": [232.1531066,232.6175057],
-			"Label": "MULAZIME_2-n26",
+			"Label": "MULAZIME_2--n26",
 			"Pitch": {
-				"Value": 184.7836151,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 150,
 			"Interval": [232.7103855,232.8497052],
-			"Label": "MULAZIME_2-n27",
+			"Label": "MULAZIME_2--n27",
 			"Pitch": {
-				"Value": 197.4750214,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 151,
 			"Interval": [232.8961451,233.1283447],
-			"Label": "MULAZIME_2-n28",
+			"Label": "MULAZIME_2--n28",
 			"Pitch": {
-				"Value": 223.9748688,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 152,
 			"Interval": [233.1747846,233.3141043],
-			"Label": "MULAZIME_2-n29",
+			"Label": "MULAZIME_2--n29",
 			"Pitch": {
-				"Value": 196.7918091,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 153,
 			"Interval": [233.4069841,233.5463039],
-			"Label": "MULAZIME_2-n30",
+			"Label": "MULAZIME_2--n30",
 			"Pitch": {
-				"Value": 183.5072174,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 154,
 			"Interval": [233.5927438,233.9178231],
-			"Label": "MULAZIME_2-n31",
+			"Label": "MULAZIME_2--n31",
 			"Pitch": {
-				"Value": 355.7433777,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 155,
 			"Interval": [234.0107029,234.3357823],
-			"Label": "MULAZIME_2-n32",
+			"Label": "MULAZIME_2--n32",
 			"Pitch": {
-				"Value": 338.6989441,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 156,
 			"Interval": [234.3822222,234.8466213],
-			"Label": "MULAZIME_2-n33",
+			"Label": "MULAZIME_2--n33",
 			"Pitch": {
-				"Value": 300.7024841,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 157,
 			"Interval": [234.9395011,235.2645805],
-			"Label": "MULAZIME_2-n34",
+			"Label": "MULAZIME_2--n34",
 			"Pitch": {
-				"Value": 395.6350403,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 158,
 			"Interval": [235.4039002,235.6360998],
-			"Label": "MULAZIME_2-n35",
+			"Label": "MULAZIME_2--n35",
 			"Pitch": {
-				"Value": 374.9427185,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 159,
 			"Interval": [235.6825397,235.8682993],
-			"Label": "MULAZIME_2-n36",
+			"Label": "MULAZIME_2--n36",
 			"Pitch": {
-				"Value": 396.321228,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 160,
 			"Interval": [235.9611791,237.0292971],
-			"Label": "MULAZIME_2-n37",
+			"Label": "MULAZIME_2--n37",
 			"Pitch": {
-				"Value": 448.7266541,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 161,
 			"Interval": [237.075737,237.5401361],
-			"Label": "MULAZIME_2-n38",
+			"Label": "MULAZIME_2--n38",
 			"Pitch": {
-				"Value": 443.3164368,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 162,
 			"Interval": [237.586576,237.7723356],
-			"Label": "MULAZIME_2-n39",
+			"Label": "MULAZIME_2--n39",
 			"Pitch": {
-				"Value": 504.5521851,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 163,
 			"Interval": [237.8187755,237.9116553],
-			"Label": "MULAZIME_2-n40",
+			"Label": "MULAZIME_2--n40",
 			"Pitch": {
-				"Value": 530.8619995,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G5",
 			"IndexInScore": 164,
 			"Interval": [237.9580952,238.608254],
-			"Label": "MULAZIME_2-n41",
+			"Label": "MULAZIME_2--n41",
 			"Pitch": {
-				"Value": 522.3452148,
-				"Unit": "Hz"
+				"Value": 996.2264151,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "F5",
 			"IndexInScore": 165,
 			"Interval": [238.6546939,238.6546939],
-			"Label": "MULAZIME_2-n42",
+			"Label": "MULAZIME_2--n42",
 			"Pitch": {
-				"Value": 519.6367798,
-				"Unit": "Hz"
+				"Value": 792.4528302,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "E5",
 			"IndexInScore": 166,
 			"Interval": [238.7475737,238.9333333],
-			"Label": "MULAZIME_2-n43",
+			"Label": "MULAZIME_2--n43",
 			"Pitch": {
-				"Value": 503.3877869,
-				"Unit": "Hz"
+				"Value": 701.8867925,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 167,
 			"Interval": [238.9797732,239.2584127],
-			"Label": "MULAZIME_2-n44",
+			"Label": "MULAZIME_2--n44",
 			"Pitch": {
-				"Value": 446.1421814,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 168,
 			"Interval": [239.3048526,239.4906122],
-			"Label": "MULAZIME_2-n45",
+			"Label": "MULAZIME_2--n45",
 			"Pitch": {
-				"Value": 394.9500427,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 169,
 			"Interval": [239.5834921,239.8156916],
-			"Label": "MULAZIME_2-n46",
+			"Label": "MULAZIME_2--n46",
 			"Pitch": {
-				"Value": 371.2789612,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 170,
 			"Interval": [239.9550113,241.1160091],
-			"Label": "MULAZIME_2-n47",
+			"Label": "MULAZIME_2--n47",
 			"Pitch": {
-				"Value": 396.7793274,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 171,
 			"Interval": [241.162449,241.9519274],
-			"Label": "MULAZIME_2-n48",
+			"Label": "MULAZIME_2--n48",
 			"Pitch": {
-				"Value": 367.2265015,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "D5",
 			"IndexInScore": 172,
 			"Interval": [241.9983673,242.4163265],
-			"Label": "MULAZIME_2-n49",
+			"Label": "MULAZIME_2--n49",
 			"Pitch": {
-				"Value": 447.4325562,
-				"Unit": "Hz"
+				"Value": 498.1132075,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "C5",
 			"IndexInScore": 173,
 			"Interval": [242.5092063,242.7878458],
-			"Label": "MULAZIME_2-n50",
+			"Label": "MULAZIME_2--n50",
 			"Pitch": {
-				"Value": 394.9500427,
-				"Unit": "Hz"
+				"Value": 294.3396226,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 174,
 			"Interval": [242.8342857,243.205805],
-			"Label": "MULAZIME_2-n51",
+			"Label": "MULAZIME_2--n51",
 			"Pitch": {
-				"Value": 368.9273682,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 175,
 			"Interval": [243.3451247,244.1346032],
-			"Label": "MULAZIME_2-n52",
+			"Label": "MULAZIME_2--n52",
 			"Pitch": {
-				"Value": 178.1801758,
-				"Unit": "Hz"
+				"Value": 181.1320755,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 176,
 			"Interval": [244.1810431,244.1810431],
-			"Label": "MULAZIME_2-n53",
+			"Label": "MULAZIME_2--n53",
 			"Pitch": {
-				"Value": 297.9362183,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "G4",
 			"IndexInScore": 177,
 			"Interval": [244.2739229,245.1098413],
-			"Label": "MULAZIME_2-n54",
+			"Label": "MULAZIME_2--n54",
 			"Pitch": {
-				"Value": 296.2202454,
-				"Unit": "Hz"
+				"Value": -203.7735849,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 178,
 			"Interval": [245.2027211,246.1315193],
-			"Label": "MULAZIME_2-n55",
+			"Label": "MULAZIME_2--n55",
 			"Pitch": {
-				"Value": 335.5831299,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		},
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
 			"Interval": [246.1779592,246.1779592],
-			"Label": "MULAZIME_2-n56",
+			"Label": "MULAZIME_2--n56",
 			"Pitch": {
-				"Value": 337.722168,
-				"Unit": "Hz"
+				"Value": 0,
+				"Unit": "cent",
+				"ReferenceSymbol": "A4"
 			}
 		}
 	]

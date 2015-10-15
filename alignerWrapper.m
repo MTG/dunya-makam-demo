@@ -3,7 +3,7 @@ clear
 clc
 close all
 
-addpath('./../../code/fragmentLinker')
+addpath('/Users/sertansenturk/Documents/notaIcra/code/fragmentLinker')
 addpath('./code/alignment/')
 
 %% start experiment time
@@ -14,7 +14,7 @@ set(0,'DefaultFigureWindowStyle','docked')
 dataFolder = './data/';
 
 % default options
-sectionOptions = {'Verbose', true, 'PlotSteps', true};
+sectionOptions = {'Verbose', true, 'PlotSteps', false};
 alignerOptions = {'Verbose', true, 'PlotSteps', false};
 
 %% get the file locations
