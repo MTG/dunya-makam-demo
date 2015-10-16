@@ -3,7 +3,9 @@ clear
 clc
 close all
 
-addpath('/Users/sertansenturk/Documents/notaIcra/code/fragmentLinker')
+%addpath('/Users/sertansenturk/Documents/notaIcra/code/fragmentLinker')
+addpath('./../../code/fragmentLinker')
+
 addpath('./code/alignment/')
 
 %% start experiment time
