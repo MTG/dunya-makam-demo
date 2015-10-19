@@ -16,7 +16,7 @@ set(0,'DefaultFigureWindowStyle','docked')
 dataFolder = './data/';
 
 % default options
-sectionOptions = {'Verbose', true, 'PlotSteps', false};
+sectionOptions = {'Verbose', true, 'PlotSteps', true};
 alignerOptions = {'Verbose', true, 'PlotSteps', false};
 
 %% get the file locations
@@ -55,6 +55,4 @@ for f = 1:numel(fileLocations)
         fileLocations(f).tonic, fileLocations(f).tempo, ...
         fileLocations(f).tuning, fileLocations(f).folder,sectionOptions,...
         alignerOptions);
-    
-    sectionjson2csv(fileLocations(f).sectionJson, fileLocations(f).sectionTxt)
 end
