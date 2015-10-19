@@ -4,126 +4,147 @@
 			[
 				{
 					"noteSymbol": "D4",
+					"frequency": 442.3008387,
 					"theoretical": -498.1132075,
 					"performed": -522,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "E4",
+					"frequency": 466.5325248,
 					"theoretical": -294.3396226,
 					"performed": -297,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "F4#4",
+					"frequency": 420.1877979,
 					"theoretical": -113.2075472,
 					"performed": -123,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "G4",
+					"frequency": 901.6252871,
 					"theoretical": 0,
 					"performed": 0,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "A4b4",
+					"frequency": 491.8987236,
 					"theoretical": 113.2075472,
 					"performed": 115.2075472,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "A4",
+					"frequency": 491.8987236,
 					"theoretical": 203.7735849,
 					"performed": 204,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "A4#4",
+					"frequency": 998.6838063,
 					"theoretical": 294.3396226,
 					"performed": 296.3396226,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "B4b1",
+					"frequency": 519.9458249,
 					"theoretical": 384.9056604,
 					"performed": 388,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "B4",
+					"frequency": 552.9927946,
 					"theoretical": 407.5471698,
 					"performed": 388,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "C5",
+					"frequency": 1049.615471,
 					"theoretical": 498.1132075,
 					"performed": 484,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "C5#4",
+					"frequency": 290.8001429,
 					"theoretical": 588.6792453,
 					"performed": 590.6792453,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "D5",
+					"frequency": 591.4247606,
 					"theoretical": 701.8867925,
 					"performed": 707,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "E5b4",
+					"frequency": 1180.724363,
 					"theoretical": 815.0943396,
 					"performed": 817.0943396,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "E5",
+					"frequency": 331.1598977,
 					"theoretical": 905.6603774,
 					"performed": 913,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "F5",
+					"frequency": 666.1565749,
 					"theoretical": 996.2264151,
 					"performed": 989,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "F5#4",
+					"frequency": 630.2568651,
 					"theoretical": 1086.792453,
 					"performed": 1096,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "G5",
+					"frequency": 366.17365,
 					"theoretical": 1200,
 					"performed": 1208,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "A5",
+					"frequency": 696.0517853,
 					"theoretical": 1403.773585,
 					"performed": 1437,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "B5b1",
+					"frequency": 740.4289537,
 					"theoretical": 1584.90566,
 					"performed": 1614,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "C6",
+					"frequency": 393.1358634,
 					"theoretical": 1698.113208,
 					"performed": 1700.113208,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "D6",
+					"frequency": 789.9134814,
 					"theoretical": 1901.886792,
 					"performed": 1903.886792,
 					"isSwitched": 0
@@ -139,20 +160,6 @@
 		"unit": "cent",
 		"octaveWrapped": 0,
 		"tonicSymbol": "G4",
-		"performedTonic": {
-			"OctaveWrapped": 0,
-			"Method": {
-				"Location": "start_without_intro",
-				"Duration": {
-					"Value": 15,
-					"Unit": "seconds"
-				},
-				"TempoMethod": "none"
-			},
-			"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
-			"Value": 393.1358634,
-			"Unit": "Hz"
-		},
 		"source": "./data/rast--pesrev--devrikebir----giriftzen_asim_bey/5c14ad3d-a97a-4e04-99b6-bf27f842f909/5c14ad3d-a97a-4e04-99b6-bf27f842f909.wav"
 	}
 }

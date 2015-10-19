@@ -4,72 +4,84 @@
 			[
 				{
 					"noteSymbol": "D4",
+					"frequency": 197.0226251,
 					"theoretical": -701.8867925,
 					"performed": -701.8867925,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "E4",
+					"frequency": 394.0452503,
 					"theoretical": -498.1132075,
 					"performed": -498.1132075,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "F4#4",
+					"frequency": 214.1113554,
 					"theoretical": -316.9811321,
 					"performed": -316.9811321,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "G4",
+					"frequency": 233.6249969,
 					"theoretical": -203.7735849,
 					"performed": -218,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "A4",
+					"frequency": 131.3535918,
 					"theoretical": 0,
 					"performed": 5.684341886e-14,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "B4b1",
+					"frequency": 263.4497806,
 					"theoretical": 181.1320755,
 					"performed": 144,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "C5",
+					"frequency": 147.7611471,
 					"theoretical": 294.3396226,
 					"performed": 295,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "D5",
+					"frequency": 295.3709572,
 					"theoretical": 498.1132075,
 					"performed": 503,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "E5",
+					"frequency": 164.0585028,
 					"theoretical": 701.8867925,
 					"performed": 701,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "F5",
+					"frequency": 306.3175397,
 					"theoretical": 792.4528302,
 					"performed": 764,
 					"isSwitched": 1
 				},
 				{
 					"noteSymbol": "G5",
+					"frequency": 173.711666,
 					"theoretical": 996.2264151,
 					"performed": 996.2264151,
 					"isSwitched": 0
 				},
 				{
 					"noteSymbol": "A5",
+					"frequency": 350.2900456,
 					"theoretical": 1200,
 					"performed": 1200,
 					"isSwitched": 1
@@ -85,20 +97,6 @@
 		"unit": "cent",
 		"octaveWrapped": 0,
 		"tonicSymbol": "A4",
-		"performedTonic": {
-			"OctaveWrapped": 0,
-			"Method": {
-				"Location": "start_without_intro",
-				"Duration": {
-					"Value": 15,
-					"Unit": "seconds"
-				},
-				"TempoMethod": "none"
-			},
-			"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
-			"Value": 197.0226251,
-			"Unit": "Hz"
-		},
 		"source": "./data/ussak--sarki--aksak--bu_aksam_gun--tatyos_efendi/9c26ff74-8541-4282-8a6e-5ba9aa5cc8a1/9c26ff74-8541-4282-8a6e-5ba9aa5cc8a1.wav"
 	}
 }
