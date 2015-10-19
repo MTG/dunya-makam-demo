@@ -16,7 +16,7 @@ set(0,'DefaultFigureWindowStyle','docked')
 dataFolder = './data/';
 
 % default options
-sectionOptions = {'Verbose', true, 'PlotSteps', true};
+sectionOptions = {'Verbose', true, 'PlotSteps', false};
 alignerOptions = {'Verbose', true, 'PlotSteps', false};
 
 %% get the file locations

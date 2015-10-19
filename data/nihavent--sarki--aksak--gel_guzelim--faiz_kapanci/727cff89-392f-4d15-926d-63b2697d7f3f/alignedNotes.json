@@ -771,7 +771,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 161,
-			"IndexInAudio": 1,
+			"IndexInAudio": 65,
 			"Interval": [21.501678,21.82675737],
 			"Label": "B2--n1",
 			"Pitch": {
@@ -783,7 +783,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 162,
-			"IndexInAudio": 2,
+			"IndexInAudio": 66,
 			"Interval": [21.87319728,21.9660771],
 			"Label": "B2--n2",
 			"Pitch": {
@@ -795,7 +795,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 163,
-			"IndexInAudio": 3,
+			"IndexInAudio": 67,
 			"Interval": [22.01251701,22.19827664],
 			"Label": "B2--n3",
 			"Pitch": {
@@ -807,7 +807,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 164,
-			"IndexInAudio": 4,
+			"IndexInAudio": 68,
 			"Interval": [22.29115646,23.17351474],
 			"Label": "B2--n4",
 			"Pitch": {
@@ -819,7 +819,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 165,
-			"IndexInAudio": 5,
+			"IndexInAudio": 69,
 			"Interval": [23.26639456,24.05587302],
 			"Label": "B2--n5",
 			"Pitch": {
@@ -831,7 +831,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 166,
-			"IndexInAudio": 6,
+			"IndexInAudio": 70,
 			"Interval": [24.14875283,24.42739229],
 			"Label": "B2--n6",
 			"Pitch": {
@@ -843,7 +843,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 167,
-			"IndexInAudio": 7,
+			"IndexInAudio": 71,
 			"Interval": [24.52027211,24.79891156],
 			"Label": "B2--n7",
 			"Pitch": {
@@ -855,7 +855,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 168,
-			"IndexInAudio": 8,
+			"IndexInAudio": 72,
 			"Interval": [24.89179138,25.03111111],
 			"Label": "B2--n8",
 			"Pitch": {
@@ -867,7 +867,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 169,
-			"IndexInAudio": 9,
+			"IndexInAudio": 73,
 			"Interval": [25.07755102,25.17043084],
 			"Label": "B2--n9",
 			"Pitch": {
@@ -879,7 +879,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 170,
-			"IndexInAudio": 10,
+			"IndexInAudio": 74,
 			"Interval": [25.26331066,25.4955102],
 			"Label": "B2--n10",
 			"Pitch": {
@@ -891,7 +891,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 171,
-			"IndexInAudio": 11,
+			"IndexInAudio": 75,
 			"Interval": [25.54195011,25.91346939],
 			"Label": "B2--n11",
 			"Pitch": {
@@ -903,7 +903,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 172,
-			"IndexInAudio": 12,
+			"IndexInAudio": 76,
 			"Interval": [26.00634921,26.09922902],
 			"Label": "B2--n12",
 			"Pitch": {
@@ -915,7 +915,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 173,
-			"IndexInAudio": 13,
+			"IndexInAudio": 77,
 			"Interval": [26.19210884,26.23854875],
 			"Label": "B2--n13",
 			"Pitch": {
@@ -927,7 +927,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 174,
-			"IndexInAudio": 14,
+			"IndexInAudio": 78,
 			"Interval": [26.33142857,26.65650794],
 			"Label": "B2--n14",
 			"Pitch": {
@@ -939,7 +939,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 175,
-			"IndexInAudio": 15,
+			"IndexInAudio": 79,
 			"Interval": [26.74938776,26.88870748],
 			"Label": "B2--n15",
 			"Pitch": {
@@ -951,7 +951,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 176,
-			"IndexInAudio": 16,
+			"IndexInAudio": 80,
 			"Interval": [26.93514739,26.9815873],
 			"Label": "B2--n16",
 			"Pitch": {
@@ -963,7 +963,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 177,
-			"IndexInAudio": 17,
+			"IndexInAudio": 81,
 			"Interval": [27.02802721,27.21378685],
 			"Label": "B2--n17",
 			"Pitch": {
@@ -975,7 +975,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 178,
-			"IndexInAudio": 18,
+			"IndexInAudio": 82,
 			"Interval": [27.30666667,27.4924263],
 			"Label": "B2--n18",
 			"Pitch": {
@@ -987,7 +987,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
-			"IndexInAudio": 19,
+			"IndexInAudio": 83,
 			"Interval": [27.53886621,27.58530612],
 			"Label": "B2--n19",
 			"Pitch": {
@@ -999,7 +999,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 180,
-			"IndexInAudio": 20,
+			"IndexInAudio": 84,
 			"Interval": [27.67818594,27.81750567],
 			"Label": "B2--n20",
 			"Pitch": {
@@ -1011,7 +1011,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 181,
-			"IndexInAudio": 21,
+			"IndexInAudio": 85,
 			"Interval": [27.91038549,28.18902494],
 			"Label": "B2--n21",
 			"Pitch": {
@@ -1023,7 +1023,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 182,
-			"IndexInAudio": 22,
+			"IndexInAudio": 86,
 			"Interval": [28.23546485,28.37478458],
 			"Label": "B2--n22",
 			"Pitch": {
@@ -1035,7 +1035,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 183,
-			"IndexInAudio": 23,
+			"IndexInAudio": 87,
 			"Interval": [28.42122449,28.83918367],
 			"Label": "B2--n23",
 			"Pitch": {
@@ -1047,7 +1047,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 184,
-			"IndexInAudio": 24,
+			"IndexInAudio": 88,
 			"Interval": [28.93206349,29.81442177],
 			"Label": "B2--n24",
 			"Pitch": {
@@ -1059,7 +1059,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 185,
-			"IndexInAudio": 25,
+			"IndexInAudio": 89,
 			"Interval": [29.86086168,30.09306122],
 			"Label": "B2--n25",
 			"Pitch": {
@@ -1071,7 +1071,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 186,
-			"IndexInAudio": 26,
+			"IndexInAudio": 90,
 			"Interval": [30.18594104,30.27882086],
 			"Label": "B2--n26",
 			"Pitch": {
@@ -1083,7 +1083,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 187,
-			"IndexInAudio": 27,
+			"IndexInAudio": 91,
 			"Interval": [30.32526077,30.41814059],
 			"Label": "B2--n27",
 			"Pitch": {
@@ -1095,7 +1095,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 188,
-			"IndexInAudio": 28,
+			"IndexInAudio": 92,
 			"Interval": [30.4645805,30.83609977],
 			"Label": "B2--n28",
 			"Pitch": {
@@ -1107,7 +1107,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 189,
-			"IndexInAudio": 29,
+			"IndexInAudio": 93,
 			"Interval": [30.88253968,30.9754195],
 			"Label": "B2--n29",
 			"Pitch": {
@@ -1119,7 +1119,7 @@
 		{
 			"Symbol": "E5",
 			"IndexInScore": 190,
-			"IndexInAudio": 30,
+			"IndexInAudio": 94,
 			"Interval": [31.06829932,31.16117914],
 			"Label": "B2--n30",
 			"Pitch": {
@@ -1131,7 +1131,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 161,
-			"IndexInAudio": 1,
+			"IndexInAudio": 95,
 			"Interval": [31.4862585,31.53269841],
 			"Label": "B2--n1",
 			"Pitch": {
@@ -1143,7 +1143,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 162,
-			"IndexInAudio": 2,
+			"IndexInAudio": 96,
 			"Interval": [31.62557823,31.99709751],
 			"Label": "B2--n2",
 			"Pitch": {
@@ -1155,7 +1155,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 163,
-			"IndexInAudio": 3,
+			"IndexInAudio": 97,
 			"Interval": [32.08997732,32.41505669],
 			"Label": "B2--n3",
 			"Pitch": {
@@ -1167,7 +1167,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 164,
-			"IndexInAudio": 4,
+			"IndexInAudio": 98,
 			"Interval": [32.50793651,33.39029478],
 			"Label": "B2--n4",
 			"Pitch": {
@@ -1179,7 +1179,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 165,
-			"IndexInAudio": 5,
+			"IndexInAudio": 99,
 			"Interval": [33.4831746,34.22621315],
 			"Label": "B2--n5",
 			"Pitch": {
@@ -1191,7 +1191,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 166,
-			"IndexInAudio": 6,
+			"IndexInAudio": 100,
 			"Interval": [34.31909297,34.55129252],
 			"Label": "B2--n6",
 			"Pitch": {
@@ -1203,7 +1203,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 167,
-			"IndexInAudio": 7,
+			"IndexInAudio": 101,
 			"Interval": [34.59773243,34.82993197],
 			"Label": "B2--n7",
 			"Pitch": {
@@ -1215,7 +1215,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 168,
-			"IndexInAudio": 8,
+			"IndexInAudio": 102,
 			"Interval": [34.9692517,35.24789116],
 			"Label": "B2--n8",
 			"Pitch": {
@@ -1227,7 +1227,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 169,
-			"IndexInAudio": 9,
+			"IndexInAudio": 103,
 			"Interval": [35.29433107,35.38721088],
 			"Label": "B2--n9",
 			"Pitch": {
@@ -1239,7 +1239,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 170,
-			"IndexInAudio": 10,
+			"IndexInAudio": 104,
 			"Interval": [35.4800907,35.71229025],
 			"Label": "B2--n10",
 			"Pitch": {
@@ -1251,7 +1251,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 171,
-			"IndexInAudio": 11,
+			"IndexInAudio": 105,
 			"Interval": [35.75873016,36.17668934],
 			"Label": "B2--n11",
 			"Pitch": {
@@ -1263,7 +1263,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 172,
-			"IndexInAudio": 12,
+			"IndexInAudio": 106,
 			"Interval": [36.26956916,36.4553288],
 			"Label": "B2--n12",
 			"Pitch": {
@@ -1275,7 +1275,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 173,
-			"IndexInAudio": 13,
+			"IndexInAudio": 107,
 			"Interval": [36.54820862,36.59464853],
 			"Label": "B2--n13",
 			"Pitch": {
@@ -1287,7 +1287,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 174,
-			"IndexInAudio": 14,
+			"IndexInAudio": 108,
 			"Interval": [36.68752834,36.87328798],
 			"Label": "B2--n14",
 			"Pitch": {
@@ -1299,7 +1299,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 175,
-			"IndexInAudio": 15,
+			"IndexInAudio": 109,
 			"Interval": [36.91972789,37.01260771],
 			"Label": "B2--n15",
 			"Pitch": {
@@ -1311,7 +1311,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 176,
-			"IndexInAudio": 16,
+			"IndexInAudio": 110,
 			"Interval": [37.10548753,37.15192744],
 			"Label": "B2--n16",
 			"Pitch": {
@@ -1323,7 +1323,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 177,
-			"IndexInAudio": 17,
+			"IndexInAudio": 111,
 			"Interval": [37.19836735,37.29124717],
 			"Label": "B2--n17",
 			"Pitch": {
@@ -1335,7 +1335,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 178,
-			"IndexInAudio": 18,
+			"IndexInAudio": 112,
 			"Interval": [37.38412698,37.56988662],
 			"Label": "B2--n18",
 			"Pitch": {
@@ -1347,7 +1347,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 179,
-			"IndexInAudio": 19,
+			"IndexInAudio": 113,
 			"Interval": [37.61632653,37.66276644],
 			"Label": "B2--n19",
 			"Pitch": {
@@ -1359,7 +1359,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 180,
-			"IndexInAudio": 20,
+			"IndexInAudio": 114,
 			"Interval": [37.70920635,37.84852608],
 			"Label": "B2--n20",
 			"Pitch": {
@@ -1371,7 +1371,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 181,
-			"IndexInAudio": 21,
+			"IndexInAudio": 115,
 			"Interval": [37.89496599,38.26648526],
 			"Label": "B2--n21",
 			"Pitch": {
@@ -1383,7 +1383,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 182,
-			"IndexInAudio": 22,
+			"IndexInAudio": 116,
 			"Interval": [38.35936508,38.49868481],
 			"Label": "B2--n22",
 			"Pitch": {
@@ -1395,7 +1395,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 183,
-			"IndexInAudio": 23,
+			"IndexInAudio": 117,
 			"Interval": [38.59156463,38.91664399],
 			"Label": "B2--n23",
 			"Pitch": {
@@ -1407,7 +1407,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 184,
-			"IndexInAudio": 24,
+			"IndexInAudio": 118,
 			"Interval": [39.00952381,39.84544218],
 			"Label": "B2--n24",
 			"Pitch": {
@@ -1419,7 +1419,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 185,
-			"IndexInAudio": 25,
+			"IndexInAudio": 119,
 			"Interval": [39.938322,40.03120181],
 			"Label": "B2--n25",
 			"Pitch": {
@@ -1431,7 +1431,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 186,
-			"IndexInAudio": 26,
+			"IndexInAudio": 120,
 			"Interval": [40.07764172,40.35628118],
 			"Label": "B2--n26",
 			"Pitch": {
@@ -1443,7 +1443,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 187,
-			"IndexInAudio": 27,
+			"IndexInAudio": 121,
 			"Interval": [40.40272109,40.449161],
 			"Label": "B2--n27",
 			"Pitch": {
@@ -1455,7 +1455,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 188,
-			"IndexInAudio": 28,
+			"IndexInAudio": 122,
 			"Interval": [40.49560091,40.63492063],
 			"Label": "B2--n28",
 			"Pitch": {
@@ -1467,7 +1467,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 189,
-			"IndexInAudio": 29,
+			"IndexInAudio": 123,
 			"Interval": [40.68136054,40.77424036],
 			"Label": "B2--n29",
 			"Pitch": {
@@ -1479,7 +1479,7 @@
 		{
 			"Symbol": "E5",
 			"IndexInScore": 190,
-			"IndexInAudio": 30,
+			"IndexInAudio": 124,
 			"Interval": [40.82068027,40.91356009],
 			"Label": "B2--n30",
 			"Pitch": {
@@ -1491,7 +1491,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 308,
-			"IndexInAudio": 1,
+			"IndexInAudio": 125,
 			"Interval": [41.84235828,43.04979592],
 			"Label": "C2--n1",
 			"Pitch": {
@@ -1503,7 +1503,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 309,
-			"IndexInAudio": 2,
+			"IndexInAudio": 126,
 			"Interval": [43.09623583,43.23555556],
 			"Label": "C2--n2",
 			"Pitch": {
@@ -1515,7 +1515,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 310,
-			"IndexInAudio": 3,
+			"IndexInAudio": 127,
 			"Interval": [43.28199546,43.4677551],
 			"Label": "C2--n3",
 			"Pitch": {
@@ -1527,7 +1527,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 311,
-			"IndexInAudio": 4,
+			"IndexInAudio": 128,
 			"Interval": [43.51419501,43.74639456],
 			"Label": "C2--n4",
 			"Pitch": {
@@ -1539,7 +1539,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 312,
-			"IndexInAudio": 5,
+			"IndexInAudio": 129,
 			"Interval": [43.88571429,44.62875283],
 			"Label": "C2--n5",
 			"Pitch": {
@@ -1551,7 +1551,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 313,
-			"IndexInAudio": 6,
+			"IndexInAudio": 130,
 			"Interval": [44.67519274,45.09315193],
 			"Label": "C2--n6",
 			"Pitch": {
@@ -1563,7 +1563,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 314,
-			"IndexInAudio": 7,
+			"IndexInAudio": 131,
 			"Interval": [45.18603175,45.65043084],
 			"Label": "C2--n7",
 			"Pitch": {
@@ -1575,7 +1575,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 315,
-			"IndexInAudio": 8,
+			"IndexInAudio": 132,
 			"Interval": [45.74331066,46.02195011],
 			"Label": "C2--n8",
 			"Pitch": {
@@ -1587,7 +1587,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 316,
-			"IndexInAudio": 9,
+			"IndexInAudio": 133,
 			"Interval": [46.11482993,46.34702948],
 			"Label": "C2--n9",
 			"Pitch": {
@@ -1599,7 +1599,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 317,
-			"IndexInAudio": 10,
+			"IndexInAudio": 134,
 			"Interval": [46.4399093,46.53278912],
 			"Label": "C2--n10",
 			"Pitch": {
@@ -1611,7 +1611,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 318,
-			"IndexInAudio": 11,
+			"IndexInAudio": 135,
 			"Interval": [46.57922902,46.67210884],
 			"Label": "C2--n11",
 			"Pitch": {
@@ -1623,7 +1623,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 319,
-			"IndexInAudio": 12,
+			"IndexInAudio": 136,
 			"Interval": [46.71854875,46.9507483],
 			"Label": "C2--n12",
 			"Pitch": {
@@ -1635,7 +1635,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 320,
-			"IndexInAudio": 13,
+			"IndexInAudio": 137,
 			"Interval": [47.04362812,47.36870748],
 			"Label": "C2--n13",
 			"Pitch": {
@@ -1647,7 +1647,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 321,
-			"IndexInAudio": 14,
+			"IndexInAudio": 138,
 			"Interval": [47.4615873,47.78666667],
 			"Label": "C2--n14",
 			"Pitch": {
@@ -1659,7 +1659,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 322,
-			"IndexInAudio": 15,
+			"IndexInAudio": 139,
 			"Interval": [47.87954649,47.9724263],
 			"Label": "C2--n15",
 			"Pitch": {
@@ -1671,7 +1671,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 323,
-			"IndexInAudio": 16,
+			"IndexInAudio": 140,
 			"Interval": [48.01886621,48.11174603],
 			"Label": "C2--n16",
 			"Pitch": {
@@ -1683,7 +1683,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 324,
-			"IndexInAudio": 17,
+			"IndexInAudio": 141,
 			"Interval": [48.20462585,48.29750567],
 			"Label": "C2--n17",
 			"Pitch": {
@@ -1695,7 +1695,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 325,
-			"IndexInAudio": 18,
+			"IndexInAudio": 142,
 			"Interval": [48.34394558,48.48326531],
 			"Label": "C2--n18",
 			"Pitch": {
@@ -1707,7 +1707,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 326,
-			"IndexInAudio": 19,
+			"IndexInAudio": 143,
 			"Interval": [48.57614512,48.66902494],
 			"Label": "C2--n19",
 			"Pitch": {
@@ -1719,7 +1719,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 327,
-			"IndexInAudio": 20,
+			"IndexInAudio": 144,
 			"Interval": [48.71546485,48.76190476],
 			"Label": "C2--n20",
 			"Pitch": {
@@ -1731,7 +1731,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 328,
-			"IndexInAudio": 21,
+			"IndexInAudio": 145,
 			"Interval": [48.85478458,49.55138322],
 			"Label": "C2--n21",
 			"Pitch": {
@@ -1743,7 +1743,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 329,
-			"IndexInAudio": 22,
+			"IndexInAudio": 146,
 			"Interval": [49.64426304,49.87646259],
 			"Label": "C2--n22",
 			"Pitch": {
@@ -1755,7 +1755,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 330,
-			"IndexInAudio": 23,
+			"IndexInAudio": 147,
 			"Interval": [49.92290249,50.10866213],
 			"Label": "C2--n23",
 			"Pitch": {
@@ -1767,7 +1767,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 331,
-			"IndexInAudio": 24,
+			"IndexInAudio": 148,
 			"Interval": [50.15510204,50.34086168],
 			"Label": "C2--n24",
 			"Pitch": {
@@ -1779,7 +1779,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 332,
-			"IndexInAudio": 25,
+			"IndexInAudio": 149,
 			"Interval": [50.38730159,50.80526077],
 			"Label": "C2--n25",
 			"Pitch": {
@@ -1791,7 +1791,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 217,
-			"IndexInAudio": 1,
+			"IndexInAudio": 150,
 			"Interval": [51.40897959,51.78049887],
 			"Label": "D1--n1",
 			"Pitch": {
@@ -1803,7 +1803,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 218,
-			"IndexInAudio": 2,
+			"IndexInAudio": 151,
 			"Interval": [51.87337868,52.75573696],
 			"Label": "D1--n2",
 			"Pitch": {
@@ -1815,7 +1815,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 219,
-			"IndexInAudio": 3,
+			"IndexInAudio": 152,
 			"Interval": [52.84861678,53.17369615],
 			"Label": "D1--n3",
 			"Pitch": {
@@ -1827,7 +1827,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 220,
-			"IndexInAudio": 4,
+			"IndexInAudio": 153,
 			"Interval": [53.26657596,53.40589569],
 			"Label": "D1--n4",
 			"Pitch": {
@@ -1839,7 +1839,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 221,
-			"IndexInAudio": 5,
+			"IndexInAudio": 154,
 			"Interval": [53.49877551,53.82385488],
 			"Label": "D1--n5",
 			"Pitch": {
@@ -1851,7 +1851,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 222,
-			"IndexInAudio": 6,
+			"IndexInAudio": 155,
 			"Interval": [53.91673469,54.75265306],
 			"Label": "D1--n6",
 			"Pitch": {
@@ -1863,7 +1863,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 223,
-			"IndexInAudio": 7,
+			"IndexInAudio": 156,
 			"Interval": [54.79909297,55.21705215],
 			"Label": "D1--n7",
 			"Pitch": {
@@ -1875,7 +1875,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 224,
-			"IndexInAudio": 8,
+			"IndexInAudio": 157,
 			"Interval": [55.30993197,55.72789116],
 			"Label": "D1--n8",
 			"Pitch": {
@@ -1887,7 +1887,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 225,
-			"IndexInAudio": 9,
+			"IndexInAudio": 158,
 			"Interval": [55.82077098,56.00653061],
 			"Label": "D1--n9",
 			"Pitch": {
@@ -1899,7 +1899,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 226,
-			"IndexInAudio": 10,
+			"IndexInAudio": 159,
 			"Interval": [56.09941043,56.28517007],
 			"Label": "D1--n10",
 			"Pitch": {
@@ -1911,7 +1911,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 227,
-			"IndexInAudio": 11,
+			"IndexInAudio": 160,
 			"Interval": [56.33160998,56.51736961],
 			"Label": "D1--n11",
 			"Pitch": {
@@ -1923,7 +1923,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 228,
-			"IndexInAudio": 12,
+			"IndexInAudio": 161,
 			"Interval": [56.56380952,56.98176871],
 			"Label": "D1--n12",
 			"Pitch": {
@@ -1935,7 +1935,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 229,
-			"IndexInAudio": 13,
+			"IndexInAudio": 162,
 			"Interval": [57.12108844,57.26040816],
 			"Label": "D1--n13",
 			"Pitch": {
@@ -1947,7 +1947,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 230,
-			"IndexInAudio": 14,
+			"IndexInAudio": 163,
 			"Interval": [57.30684807,57.58548753],
 			"Label": "D1--n14",
 			"Pitch": {
@@ -1959,7 +1959,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 231,
-			"IndexInAudio": 15,
+			"IndexInAudio": 164,
 			"Interval": [57.72480726,58.09632653],
 			"Label": "D1--n15",
 			"Pitch": {
@@ -1971,7 +1971,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 232,
-			"IndexInAudio": 16,
+			"IndexInAudio": 165,
 			"Interval": [58.18920635,58.37496599],
 			"Label": "D1--n16",
 			"Pitch": {
@@ -1983,7 +1983,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 233,
-			"IndexInAudio": 17,
+			"IndexInAudio": 166,
 			"Interval": [58.4214059,58.4214059],
 			"Label": "D1--n17",
 			"Pitch": {
@@ -1995,7 +1995,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 234,
-			"IndexInAudio": 18,
+			"IndexInAudio": 167,
 			"Interval": [58.4678458,58.4678458],
 			"Label": "D1--n18",
 			"Pitch": {
@@ -2007,7 +2007,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 235,
-			"IndexInAudio": 19,
+			"IndexInAudio": 168,
 			"Interval": [58.51428571,58.56072562],
 			"Label": "D1--n19",
 			"Pitch": {
@@ -2019,7 +2019,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 236,
-			"IndexInAudio": 20,
+			"IndexInAudio": 169,
 			"Interval": [58.60716553,58.70004535],
 			"Label": "D1--n20",
 			"Pitch": {
@@ -2031,7 +2031,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 237,
-			"IndexInAudio": 21,
+			"IndexInAudio": 170,
 			"Interval": [58.79292517,58.83936508],
 			"Label": "D1--n21",
 			"Pitch": {
@@ -2043,7 +2043,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 238,
-			"IndexInAudio": 22,
+			"IndexInAudio": 171,
 			"Interval": [58.9322449,59.02512472],
 			"Label": "D1--n22",
 			"Pitch": {
@@ -2055,7 +2055,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 239,
-			"IndexInAudio": 23,
+			"IndexInAudio": 172,
 			"Interval": [59.11800454,59.76816327],
 			"Label": "D1--n23",
 			"Pitch": {
@@ -2067,7 +2067,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 240,
-			"IndexInAudio": 24,
+			"IndexInAudio": 173,
 			"Interval": [59.86104308,60.09324263],
 			"Label": "D1--n24",
 			"Pitch": {
@@ -2079,7 +2079,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 241,
-			"IndexInAudio": 25,
+			"IndexInAudio": 174,
 			"Interval": [60.18612245,60.37188209],
 			"Label": "D1--n25",
 			"Pitch": {
@@ -2091,7 +2091,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 242,
-			"IndexInAudio": 26,
+			"IndexInAudio": 175,
 			"Interval": [60.418322,60.65052154],
 			"Label": "D1--n26",
 			"Pitch": {
@@ -2103,7 +2103,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 243,
-			"IndexInAudio": 27,
+			"IndexInAudio": 176,
 			"Interval": [60.74340136,61.30068027],
 			"Label": "D1--n27",
 			"Pitch": {
@@ -2115,7 +2115,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 244,
-			"IndexInAudio": 1,
+			"IndexInAudio": 177,
 			"Interval": [61.90439909,62.18303855],
 			"Label": "E1--n1",
 			"Pitch": {
@@ -2127,7 +2127,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 245,
-			"IndexInAudio": 2,
+			"IndexInAudio": 178,
 			"Interval": [62.22947846,62.36879819],
 			"Label": "E1--n2",
 			"Pitch": {
@@ -2139,7 +2139,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 246,
-			"IndexInAudio": 3,
+			"IndexInAudio": 179,
 			"Interval": [62.461678,62.60099773],
 			"Label": "E1--n3",
 			"Pitch": {
@@ -2151,7 +2151,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 247,
-			"IndexInAudio": 4,
+			"IndexInAudio": 180,
 			"Interval": [62.64743764,62.78675737],
 			"Label": "E1--n4",
 			"Pitch": {
@@ -2163,7 +2163,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 248,
-			"IndexInAudio": 5,
+			"IndexInAudio": 181,
 			"Interval": [62.87963719,62.97251701],
 			"Label": "E1--n5",
 			"Pitch": {
@@ -2175,7 +2175,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 249,
-			"IndexInAudio": 6,
+			"IndexInAudio": 182,
 			"Interval": [63.06539683,63.25115646],
 			"Label": "E1--n6",
 			"Pitch": {
@@ -2187,7 +2187,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 250,
-			"IndexInAudio": 7,
+			"IndexInAudio": 183,
 			"Interval": [63.29759637,63.34403628],
 			"Label": "E1--n7",
 			"Pitch": {
@@ -2199,7 +2199,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 251,
-			"IndexInAudio": 8,
+			"IndexInAudio": 184,
 			"Interval": [63.4369161,63.85487528],
 			"Label": "E1--n8",
 			"Pitch": {
@@ -2211,7 +2211,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 252,
-			"IndexInAudio": 9,
+			"IndexInAudio": 185,
 			"Interval": [63.9477551,64.69079365],
 			"Label": "E1--n9",
 			"Pitch": {
@@ -2223,7 +2223,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 253,
-			"IndexInAudio": 10,
+			"IndexInAudio": 186,
 			"Interval": [64.83011338,64.96943311],
 			"Label": "E1--n10",
 			"Pitch": {
@@ -2235,7 +2235,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 254,
-			"IndexInAudio": 11,
+			"IndexInAudio": 187,
 			"Interval": [65.01587302,65.34095238],
 			"Label": "E1--n11",
 			"Pitch": {
@@ -2247,7 +2247,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 255,
-			"IndexInAudio": 12,
+			"IndexInAudio": 188,
 			"Interval": [65.38739229,65.38739229],
 			"Label": "E1--n12",
 			"Pitch": {
@@ -2259,7 +2259,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 256,
-			"IndexInAudio": 13,
+			"IndexInAudio": 189,
 			"Interval": [65.4338322,65.4338322],
 			"Label": "E1--n13",
 			"Pitch": {
@@ -2271,7 +2271,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 257,
-			"IndexInAudio": 14,
+			"IndexInAudio": 190,
 			"Interval": [65.48027211,65.66603175],
 			"Label": "E1--n14",
 			"Pitch": {
@@ -2283,7 +2283,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 258,
-			"IndexInAudio": 15,
+			"IndexInAudio": 191,
 			"Interval": [65.75891156,65.80535147],
 			"Label": "E1--n15",
 			"Pitch": {
@@ -2295,7 +2295,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 259,
-			"IndexInAudio": 16,
+			"IndexInAudio": 192,
 			"Interval": [65.89823129,66.78058957],
 			"Label": "E1--n16",
 			"Pitch": {
@@ -2307,7 +2307,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 260,
-			"IndexInAudio": 17,
+			"IndexInAudio": 193,
 			"Interval": [66.82702948,66.96634921],
 			"Label": "E1--n17",
 			"Pitch": {
@@ -2319,7 +2319,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 261,
-			"IndexInAudio": 18,
+			"IndexInAudio": 194,
 			"Interval": [67.01278912,67.10566893],
 			"Label": "E1--n18",
 			"Pitch": {
@@ -2331,7 +2331,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 262,
-			"IndexInAudio": 19,
+			"IndexInAudio": 195,
 			"Interval": [67.19854875,67.4307483],
 			"Label": "E1--n19",
 			"Pitch": {
@@ -2343,7 +2343,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 263,
-			"IndexInAudio": 20,
+			"IndexInAudio": 196,
 			"Interval": [67.52362812,67.89514739],
 			"Label": "E1--n20",
 			"Pitch": {
@@ -2355,7 +2355,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 264,
-			"IndexInAudio": 21,
+			"IndexInAudio": 197,
 			"Interval": [67.9415873,68.08090703],
 			"Label": "E1--n21",
 			"Pitch": {
@@ -2367,7 +2367,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 265,
-			"IndexInAudio": 22,
+			"IndexInAudio": 198,
 			"Interval": [68.12734694,68.22022676],
 			"Label": "E1--n22",
 			"Pitch": {
@@ -2379,7 +2379,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 266,
-			"IndexInAudio": 23,
+			"IndexInAudio": 199,
 			"Interval": [68.26666667,68.26666667],
 			"Label": "E1--n23",
 			"Pitch": {
@@ -2391,7 +2391,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 267,
-			"IndexInAudio": 24,
+			"IndexInAudio": 200,
 			"Interval": [68.31310658,68.40598639],
 			"Label": "E1--n24",
 			"Pitch": {
@@ -2403,7 +2403,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 268,
-			"IndexInAudio": 25,
+			"IndexInAudio": 201,
 			"Interval": [68.4524263,68.77750567],
 			"Label": "E1--n25",
 			"Pitch": {
@@ -2415,7 +2415,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 269,
-			"IndexInAudio": 26,
+			"IndexInAudio": 202,
 			"Interval": [68.87038549,69.10258503],
 			"Label": "E1--n26",
 			"Pitch": {
@@ -2427,7 +2427,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 270,
-			"IndexInAudio": 27,
+			"IndexInAudio": 203,
 			"Interval": [69.14902494,69.9385034],
 			"Label": "E1--n27",
 			"Pitch": {
@@ -2439,7 +2439,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 271,
-			"IndexInAudio": 28,
+			"IndexInAudio": 204,
 			"Interval": [69.98494331,70.26358277],
 			"Label": "E1--n28",
 			"Pitch": {
@@ -2451,7 +2451,7 @@
 		{
 			"Symbol": "E5b1",
 			"IndexInScore": 272,
-			"IndexInAudio": 29,
+			"IndexInAudio": 205,
 			"Interval": [70.31002268,70.49578231],
 			"Label": "E1--n29",
 			"Pitch": {
@@ -2463,7 +2463,7 @@
 		{
 			"Symbol": "G5b4",
 			"IndexInScore": 273,
-			"IndexInAudio": 30,
+			"IndexInAudio": 206,
 			"Interval": [70.58866213,70.72798186],
 			"Label": "E1--n30",
 			"Pitch": {
@@ -2475,7 +2475,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 274,
-			"IndexInAudio": 31,
+			"IndexInAudio": 207,
 			"Interval": [70.77442177,71.37814059],
 			"Label": "E1--n31",
 			"Pitch": {
@@ -2487,7 +2487,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 275,
-			"IndexInAudio": 1,
+			"IndexInAudio": 208,
 			"Interval": [71.9354195,72.07473923],
 			"Label": "F1--n1",
 			"Pitch": {
@@ -2499,7 +2499,7 @@
 		{
 			"Symbol": "E5b1",
 			"IndexInScore": 276,
-			"IndexInAudio": 2,
+			"IndexInAudio": 209,
 			"Interval": [72.12117914,72.35337868],
 			"Label": "F1--n2",
 			"Pitch": {
@@ -2511,7 +2511,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 277,
-			"IndexInAudio": 3,
+			"IndexInAudio": 210,
 			"Interval": [72.39981859,72.81777778],
 			"Label": "F1--n3",
 			"Pitch": {
@@ -2523,7 +2523,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 278,
-			"IndexInAudio": 4,
+			"IndexInAudio": 211,
 			"Interval": [72.86421769,73.09641723],
 			"Label": "F1--n4",
 			"Pitch": {
@@ -2535,7 +2535,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 280,
-			"IndexInAudio": 5,
+			"IndexInAudio": 212,
 			"Interval": [73.18929705,73.4214966],
 			"Label": "F1--n5",
 			"Pitch": {
@@ -2547,7 +2547,7 @@
 		{
 			"Symbol": "E5b1",
 			"IndexInScore": 281,
-			"IndexInAudio": 6,
+			"IndexInAudio": 213,
 			"Interval": [73.46793651,73.65369615],
 			"Label": "F1--n6",
 			"Pitch": {
@@ -2559,7 +2559,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 282,
-			"IndexInAudio": 7,
+			"IndexInAudio": 214,
 			"Interval": [73.74657596,74.25741497],
 			"Label": "F1--n7",
 			"Pitch": {
@@ -2571,7 +2571,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 283,
-			"IndexInAudio": 8,
+			"IndexInAudio": 215,
 			"Interval": [74.35029478,75.04689342],
 			"Label": "F1--n8",
 			"Pitch": {
@@ -2583,7 +2583,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 284,
-			"IndexInAudio": 9,
+			"IndexInAudio": 216,
 			"Interval": [75.09333333,75.4184127],
 			"Label": "F1--n9",
 			"Pitch": {
@@ -2595,7 +2595,7 @@
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 285,
-			"IndexInAudio": 10,
+			"IndexInAudio": 217,
 			"Interval": [75.51129252,75.78993197],
 			"Label": "F1--n10",
 			"Pitch": {
@@ -2607,7 +2607,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 286,
-			"IndexInAudio": 11,
+			"IndexInAudio": 218,
 			"Interval": [75.83637188,75.88281179],
 			"Label": "F1--n11",
 			"Pitch": {
@@ -2619,7 +2619,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 287,
-			"IndexInAudio": 12,
+			"IndexInAudio": 219,
 			"Interval": [75.9292517,76.02213152],
 			"Label": "F1--n12",
 			"Pitch": {
@@ -2631,7 +2631,7 @@
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 288,
-			"IndexInAudio": 13,
+			"IndexInAudio": 220,
 			"Interval": [76.11501134,76.16145125],
 			"Label": "F1--n13",
 			"Pitch": {
@@ -2643,7 +2643,7 @@
 		{
 			"Symbol": "A4#4",
 			"IndexInScore": 289,
-			"IndexInAudio": 14,
+			"IndexInAudio": 221,
 			"Interval": [76.20789116,76.25433107],
 			"Label": "F1--n14",
 			"Pitch": {
@@ -2655,7 +2655,7 @@
 		{
 			"Symbol": "B4b1",
 			"IndexInScore": 290,
-			"IndexInAudio": 15,
+			"IndexInAudio": 222,
 			"Interval": [76.34721088,77.87972789],
 			"Label": "F1--n15",
 			"Pitch": {
@@ -2667,7 +2667,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 291,
-			"IndexInAudio": 16,
+			"IndexInAudio": 223,
 			"Interval": [77.9261678,78.01904762],
 			"Label": "F1--n16",
 			"Pitch": {
@@ -2679,7 +2679,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 292,
-			"IndexInAudio": 17,
+			"IndexInAudio": 224,
 			"Interval": [78.06548753,78.11192744],
 			"Label": "F1--n17",
 			"Pitch": {
@@ -2691,7 +2691,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 293,
-			"IndexInAudio": 18,
+			"IndexInAudio": 225,
 			"Interval": [78.15836735,78.25124717],
 			"Label": "F1--n18",
 			"Pitch": {
@@ -2703,7 +2703,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 294,
-			"IndexInAudio": 19,
+			"IndexInAudio": 226,
 			"Interval": [78.29768707,78.39056689],
 			"Label": "F1--n19",
 			"Pitch": {
@@ -2715,7 +2715,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 295,
-			"IndexInAudio": 20,
+			"IndexInAudio": 227,
 			"Interval": [78.48344671,78.80852608],
 			"Label": "F1--n20",
 			"Pitch": {
@@ -2727,7 +2727,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 296,
-			"IndexInAudio": 21,
+			"IndexInAudio": 228,
 			"Interval": [78.9014059,79.08716553],
 			"Label": "F1--n21",
 			"Pitch": {
@@ -2739,7 +2739,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 297,
-			"IndexInAudio": 22,
+			"IndexInAudio": 229,
 			"Interval": [79.18004535,79.50512472],
 			"Label": "F1--n22",
 			"Pitch": {
@@ -2751,7 +2751,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 298,
-			"IndexInAudio": 23,
+			"IndexInAudio": 230,
 			"Interval": [79.59800454,79.73732426],
 			"Label": "F1--n23",
 			"Pitch": {
@@ -2763,7 +2763,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 299,
-			"IndexInAudio": 24,
+			"IndexInAudio": 231,
 			"Interval": [79.78376417,79.83020408],
 			"Label": "F1--n24",
 			"Pitch": {
@@ -2775,7 +2775,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 300,
-			"IndexInAudio": 25,
+			"IndexInAudio": 232,
 			"Interval": [79.9230839,79.9230839],
 			"Label": "F1--n25",
 			"Pitch": {
@@ -2787,7 +2787,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 301,
-			"IndexInAudio": 26,
+			"IndexInAudio": 233,
 			"Interval": [79.96952381,80.898322],
 			"Label": "F1--n26",
 			"Pitch": {
@@ -2799,7 +2799,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 302,
-			"IndexInAudio": 27,
+			"IndexInAudio": 234,
 			"Interval": [80.99120181,81.13052154],
 			"Label": "F1--n27",
 			"Pitch": {
@@ -2811,7 +2811,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 303,
-			"IndexInAudio": 28,
+			"IndexInAudio": 235,
 			"Interval": [81.22340136,81.54848073],
 			"Label": "F1--n28",
 			"Pitch": {
@@ -2823,7 +2823,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 304,
-			"IndexInAudio": 29,
+			"IndexInAudio": 236,
 			"Interval": [81.64136054,81.73424036],
 			"Label": "F1--n29",
 			"Pitch": {
@@ -2835,7 +2835,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 305,
-			"IndexInAudio": 30,
+			"IndexInAudio": 237,
 			"Interval": [81.78068027,82.15219955],
 			"Label": "F1--n30",
 			"Pitch": {
@@ -2847,7 +2847,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 306,
-			"IndexInAudio": 31,
+			"IndexInAudio": 238,
 			"Interval": [82.24507937,82.70947846],
 			"Label": "F1--n31",
 			"Pitch": {
@@ -2859,7 +2859,7 @@
 		{
 			"Symbol": "E5",
 			"IndexInScore": 307,
-			"IndexInAudio": 32,
+			"IndexInAudio": 239,
 			"Interval": [82.80235828,82.80235828],
 			"Label": "F1--n32",
 			"Pitch": {
@@ -2871,7 +2871,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 191,
-			"IndexInAudio": 1,
+			"IndexInAudio": 240,
 			"Interval": [82.8952381,83.73115646],
 			"Label": "C1--n1",
 			"Pitch": {
@@ -2883,7 +2883,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 192,
-			"IndexInAudio": 2,
+			"IndexInAudio": 241,
 			"Interval": [83.77759637,84.00979592],
 			"Label": "C1--n2",
 			"Pitch": {
@@ -2895,7 +2895,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 193,
-			"IndexInAudio": 3,
+			"IndexInAudio": 242,
 			"Interval": [84.10267574,84.52063492],
 			"Label": "C1--n3",
 			"Pitch": {
@@ -2907,7 +2907,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 194,
-			"IndexInAudio": 4,
+			"IndexInAudio": 243,
 			"Interval": [84.61351474,84.84571429],
 			"Label": "C1--n4",
 			"Pitch": {
@@ -2919,7 +2919,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 195,
-			"IndexInAudio": 5,
+			"IndexInAudio": 244,
 			"Interval": [84.8921542,85.26367347],
 			"Label": "C1--n5",
 			"Pitch": {
@@ -2931,7 +2931,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 196,
-			"IndexInAudio": 6,
+			"IndexInAudio": 245,
 			"Interval": [85.35655329,86.23891156],
 			"Label": "C1--n6",
 			"Pitch": {
@@ -2943,7 +2943,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 197,
-			"IndexInAudio": 7,
+			"IndexInAudio": 246,
 			"Interval": [86.28535147,86.65687075],
 			"Label": "C1--n7",
 			"Pitch": {
@@ -2955,7 +2955,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 198,
-			"IndexInAudio": 8,
+			"IndexInAudio": 247,
 			"Interval": [86.74975057,87.16770975],
 			"Label": "C1--n8",
 			"Pitch": {
@@ -2967,7 +2967,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 199,
-			"IndexInAudio": 9,
+			"IndexInAudio": 248,
 			"Interval": [87.26058957,87.53922902],
 			"Label": "C1--n9",
 			"Pitch": {
@@ -2979,7 +2979,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 200,
-			"IndexInAudio": 10,
+			"IndexInAudio": 249,
 			"Interval": [87.63210884,87.95718821],
 			"Label": "C1--n10",
 			"Pitch": {
@@ -2991,7 +2991,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 201,
-			"IndexInAudio": 11,
+			"IndexInAudio": 250,
 			"Interval": [88.05006803,88.14294785],
 			"Label": "C1--n11",
 			"Pitch": {
@@ -3003,7 +3003,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 202,
-			"IndexInAudio": 12,
+			"IndexInAudio": 251,
 			"Interval": [88.18938776,88.28226757],
 			"Label": "C1--n12",
 			"Pitch": {
@@ -3015,7 +3015,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 203,
-			"IndexInAudio": 13,
+			"IndexInAudio": 252,
 			"Interval": [88.32870748,88.60734694],
 			"Label": "C1--n13",
 			"Pitch": {
@@ -3027,7 +3027,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 204,
-			"IndexInAudio": 14,
+			"IndexInAudio": 253,
 			"Interval": [88.70022676,88.9324263],
 			"Label": "C1--n14",
 			"Pitch": {
@@ -3039,7 +3039,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 205,
-			"IndexInAudio": 15,
+			"IndexInAudio": 254,
 			"Interval": [89.02530612,89.44326531],
 			"Label": "C1--n15",
 			"Pitch": {
@@ -3051,7 +3051,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 206,
-			"IndexInAudio": 16,
+			"IndexInAudio": 255,
 			"Interval": [89.53614512,89.62902494],
 			"Label": "C1--n16",
 			"Pitch": {
@@ -3063,7 +3063,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 207,
-			"IndexInAudio": 17,
+			"IndexInAudio": 256,
 			"Interval": [89.67546485,89.76834467],
 			"Label": "C1--n17",
 			"Pitch": {
@@ -3075,7 +3075,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 208,
-			"IndexInAudio": 18,
+			"IndexInAudio": 257,
 			"Interval": [89.81478458,90.00054422],
 			"Label": "C1--n18",
 			"Pitch": {
@@ -3087,7 +3087,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 209,
-			"IndexInAudio": 19,
+			"IndexInAudio": 258,
 			"Interval": [90.09342404,90.18630385],
 			"Label": "C1--n19",
 			"Pitch": {
@@ -3099,7 +3099,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 210,
-			"IndexInAudio": 20,
+			"IndexInAudio": 259,
 			"Interval": [90.23274376,90.37206349],
 			"Label": "C1--n20",
 			"Pitch": {
@@ -3111,7 +3111,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 211,
-			"IndexInAudio": 21,
+			"IndexInAudio": 260,
 			"Interval": [90.4185034,90.51138322],
 			"Label": "C1--n21",
 			"Pitch": {
@@ -3123,7 +3123,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 212,
-			"IndexInAudio": 22,
+			"IndexInAudio": 261,
 			"Interval": [90.55782313,91.25442177],
 			"Label": "C1--n22",
 			"Pitch": {
@@ -3135,7 +3135,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 213,
-			"IndexInAudio": 23,
+			"IndexInAudio": 262,
 			"Interval": [91.34730159,91.53306122],
 			"Label": "C1--n23",
 			"Pitch": {
@@ -3147,7 +3147,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 214,
-			"IndexInAudio": 24,
+			"IndexInAudio": 263,
 			"Interval": [91.62594104,91.81170068],
 			"Label": "C1--n24",
 			"Pitch": {
@@ -3159,7 +3159,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 215,
-			"IndexInAudio": 25,
+			"IndexInAudio": 264,
 			"Interval": [91.9045805,92.09034014],
 			"Label": "C1--n25",
 			"Pitch": {
@@ -3171,7 +3171,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 216,
-			"IndexInAudio": 26,
+			"IndexInAudio": 265,
 			"Interval": [92.18321995,92.83337868],
 			"Label": "C1--n26",
 			"Pitch": {
@@ -3183,7 +3183,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 333,
-			"IndexInAudio": 1,
+			"IndexInAudio": 266,
 			"Interval": [93.15845805,94.55165533],
 			"Label": "D2--n1",
 			"Pitch": {
@@ -3195,7 +3195,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 334,
-			"IndexInAudio": 2,
+			"IndexInAudio": 267,
 			"Interval": [94.64453515,94.96961451],
 			"Label": "D2--n2",
 			"Pitch": {
@@ -3207,7 +3207,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 335,
-			"IndexInAudio": 3,
+			"IndexInAudio": 268,
 			"Interval": [95.06249433,95.24825397],
 			"Label": "D2--n3",
 			"Pitch": {
@@ -3219,7 +3219,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 336,
-			"IndexInAudio": 4,
+			"IndexInAudio": 269,
 			"Interval": [95.34113379,95.66621315],
 			"Label": "D2--n4",
 			"Pitch": {
@@ -3231,7 +3231,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 337,
-			"IndexInAudio": 5,
+			"IndexInAudio": 270,
 			"Interval": [95.75909297,96.54857143],
 			"Label": "D2--n5",
 			"Pitch": {
@@ -3243,7 +3243,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 338,
-			"IndexInAudio": 6,
+			"IndexInAudio": 271,
 			"Interval": [96.59501134,96.96653061],
 			"Label": "D2--n6",
 			"Pitch": {
@@ -3255,7 +3255,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 339,
-			"IndexInAudio": 7,
+			"IndexInAudio": 272,
 			"Interval": [97.05941043,97.47736961],
 			"Label": "D2--n7",
 			"Pitch": {
@@ -3267,7 +3267,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 340,
-			"IndexInAudio": 8,
+			"IndexInAudio": 273,
 			"Interval": [97.57024943,97.70956916],
 			"Label": "D2--n8",
 			"Pitch": {
@@ -3279,7 +3279,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 341,
-			"IndexInAudio": 9,
+			"IndexInAudio": 274,
 			"Interval": [97.80244898,97.8953288],
 			"Label": "D2--n9",
 			"Pitch": {
@@ -3291,7 +3291,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 342,
-			"IndexInAudio": 10,
+			"IndexInAudio": 275,
 			"Interval": [97.98820862,98.26684807],
 			"Label": "D2--n10",
 			"Pitch": {
@@ -3303,7 +3303,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 343,
-			"IndexInAudio": 11,
+			"IndexInAudio": 276,
 			"Interval": [98.31328798,98.73124717],
 			"Label": "D2--n11",
 			"Pitch": {
@@ -3315,7 +3315,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 344,
-			"IndexInAudio": 12,
+			"IndexInAudio": 277,
 			"Interval": [98.77768707,98.9170068],
 			"Label": "D2--n12",
 			"Pitch": {
@@ -3327,7 +3327,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 345,
-			"IndexInAudio": 13,
+			"IndexInAudio": 278,
 			"Interval": [99.00988662,99.19564626],
 			"Label": "D2--n13",
 			"Pitch": {
@@ -3339,7 +3339,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 346,
-			"IndexInAudio": 14,
+			"IndexInAudio": 279,
 			"Interval": [99.33496599,99.4278458],
 			"Label": "D2--n14",
 			"Pitch": {
@@ -3351,7 +3351,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 347,
-			"IndexInAudio": 15,
+			"IndexInAudio": 280,
 			"Interval": [99.47428571,99.56716553],
 			"Label": "D2--n15",
 			"Pitch": {
@@ -3363,7 +3363,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 348,
-			"IndexInAudio": 16,
+			"IndexInAudio": 281,
 			"Interval": [99.61360544,99.61360544],
 			"Label": "D2--n16",
 			"Pitch": {
@@ -3375,7 +3375,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 349,
-			"IndexInAudio": 17,
+			"IndexInAudio": 282,
 			"Interval": [99.66004535,99.84580499],
 			"Label": "D2--n17",
 			"Pitch": {
@@ -3387,7 +3387,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 350,
-			"IndexInAudio": 18,
+			"IndexInAudio": 283,
 			"Interval": [99.93868481,100.1244444],
 			"Label": "D2--n18",
 			"Pitch": {
@@ -3399,7 +3399,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 351,
-			"IndexInAudio": 19,
+			"IndexInAudio": 284,
 			"Interval": [100.2173243,100.4030839],
 			"Label": "D2--n19",
 			"Pitch": {
@@ -3411,7 +3411,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 352,
-			"IndexInAudio": 20,
+			"IndexInAudio": 285,
 			"Interval": [100.4959637,100.6352834],
 			"Label": "D2--n20",
 			"Pitch": {
@@ -3423,7 +3423,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 353,
-			"IndexInAudio": 21,
+			"IndexInAudio": 286,
 			"Interval": [100.7281633,100.8210431],
 			"Label": "D2--n21",
 			"Pitch": {
@@ -3435,7 +3435,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 354,
-			"IndexInAudio": 22,
+			"IndexInAudio": 287,
 			"Interval": [100.867483,101.5176417],
 			"Label": "D2--n22",
 			"Pitch": {
@@ -3447,7 +3447,7 @@
 		{
 			"Symbol": "D4",
 			"IndexInScore": 355,
-			"IndexInAudio": 23,
+			"IndexInAudio": 288,
 			"Interval": [101.6105215,101.9820408],
 			"Label": "D2--n23",
 			"Pitch": {
@@ -3459,7 +3459,7 @@
 		{
 			"Symbol": "E4b5",
 			"IndexInScore": 356,
-			"IndexInAudio": 24,
+			"IndexInAudio": 289,
 			"Interval": [102.0749206,102.5393197],
 			"Label": "D2--n24",
 			"Pitch": {
@@ -3471,7 +3471,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 357,
-			"IndexInAudio": 25,
+			"IndexInAudio": 290,
 			"Interval": [102.6321995,102.910839],
 			"Label": "D2--n25",
 			"Pitch": {
@@ -3483,7 +3483,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 358,
-			"IndexInAudio": 26,
+			"IndexInAudio": 291,
 			"Interval": [103.0037188,103.0037188],
 			"Label": "D2--n26",
 			"Pitch": {
@@ -3495,7 +3495,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 191,
-			"IndexInAudio": 1,
+			"IndexInAudio": 292,
 			"Interval": [173.8710204,174.4747392],
 			"Label": "C1--n1",
 			"Pitch": {
@@ -3507,7 +3507,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 192,
-			"IndexInAudio": 2,
+			"IndexInAudio": 293,
 			"Interval": [174.5211791,175.4035374],
 			"Label": "C1--n2",
 			"Pitch": {
@@ -3519,7 +3519,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 193,
-			"IndexInAudio": 3,
+			"IndexInAudio": 294,
 			"Interval": [175.4964172,175.9608163],
 			"Label": "C1--n3",
 			"Pitch": {
@@ -3531,7 +3531,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 194,
-			"IndexInAudio": 4,
+			"IndexInAudio": 295,
 			"Interval": [176.0536961,176.2394558],
 			"Label": "C1--n4",
 			"Pitch": {
@@ -3543,7 +3543,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 195,
-			"IndexInAudio": 5,
+			"IndexInAudio": 296,
 			"Interval": [176.2858957,176.6109751],
 			"Label": "C1--n5",
 			"Pitch": {
@@ -3555,7 +3555,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 196,
-			"IndexInAudio": 6,
+			"IndexInAudio": 297,
 			"Interval": [176.7038549,177.7719728],
 			"Label": "C1--n6",
 			"Pitch": {
@@ -3567,7 +3567,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 197,
-			"IndexInAudio": 7,
+			"IndexInAudio": 298,
 			"Interval": [177.8184127,178.189932],
 			"Label": "C1--n7",
 			"Pitch": {
@@ -3579,7 +3579,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 198,
-			"IndexInAudio": 8,
+			"IndexInAudio": 299,
 			"Interval": [178.2828118,178.7472109],
 			"Label": "C1--n8",
 			"Pitch": {
@@ -3591,7 +3591,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 199,
-			"IndexInAudio": 9,
+			"IndexInAudio": 300,
 			"Interval": [178.8400907,179.21161],
 			"Label": "C1--n9",
 			"Pitch": {
@@ -3603,7 +3603,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 200,
-			"IndexInAudio": 10,
+			"IndexInAudio": 301,
 			"Interval": [179.2580499,179.4902494],
 			"Label": "C1--n10",
 			"Pitch": {
@@ -3615,7 +3615,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 201,
-			"IndexInAudio": 11,
+			"IndexInAudio": 302,
 			"Interval": [179.5366893,179.6295692],
 			"Label": "C1--n11",
 			"Pitch": {
@@ -3627,7 +3627,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 202,
-			"IndexInAudio": 12,
+			"IndexInAudio": 303,
 			"Interval": [179.6760091,179.7688889],
 			"Label": "C1--n12",
 			"Pitch": {
@@ -3639,7 +3639,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 203,
-			"IndexInAudio": 13,
+			"IndexInAudio": 304,
 			"Interval": [179.8153288,180.0939683],
 			"Label": "C1--n13",
 			"Pitch": {
@@ -3651,7 +3651,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 204,
-			"IndexInAudio": 14,
+			"IndexInAudio": 305,
 			"Interval": [180.1868481,180.4654875],
 			"Label": "C1--n14",
 			"Pitch": {
@@ -3663,7 +3663,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 205,
-			"IndexInAudio": 15,
+			"IndexInAudio": 306,
 			"Interval": [180.5583673,181.0227664],
 			"Label": "C1--n15",
 			"Pitch": {
@@ -3675,7 +3675,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 206,
-			"IndexInAudio": 16,
+			"IndexInAudio": 307,
 			"Interval": [181.0692063,181.254966],
 			"Label": "C1--n16",
 			"Pitch": {
@@ -3687,7 +3687,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 207,
-			"IndexInAudio": 17,
+			"IndexInAudio": 308,
 			"Interval": [181.3014059,181.3942857],
 			"Label": "C1--n17",
 			"Pitch": {
@@ -3699,7 +3699,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 208,
-			"IndexInAudio": 18,
+			"IndexInAudio": 309,
 			"Interval": [181.4871655,181.6729252],
 			"Label": "C1--n18",
 			"Pitch": {
@@ -3711,7 +3711,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 209,
-			"IndexInAudio": 19,
+			"IndexInAudio": 310,
 			"Interval": [181.765805,181.8122449],
 			"Label": "C1--n19",
 			"Pitch": {
@@ -3723,7 +3723,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 210,
-			"IndexInAudio": 20,
+			"IndexInAudio": 311,
 			"Interval": [181.8586848,181.9980045],
 			"Label": "C1--n20",
 			"Pitch": {
@@ -3735,7 +3735,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 211,
-			"IndexInAudio": 21,
+			"IndexInAudio": 312,
 			"Interval": [182.0908844,182.1373243],
 			"Label": "C1--n21",
 			"Pitch": {
@@ -3747,7 +3747,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 212,
-			"IndexInAudio": 22,
+			"IndexInAudio": 313,
 			"Interval": [182.1837642,183.0196825],
 			"Label": "C1--n22",
 			"Pitch": {
@@ -3759,7 +3759,7 @@
 		{
 			"Symbol": "F5",
 			"IndexInScore": 213,
-			"IndexInAudio": 23,
+			"IndexInAudio": 314,
 			"Interval": [183.1125624,183.3447619],
 			"Label": "C1--n23",
 			"Pitch": {
@@ -3771,7 +3771,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 214,
-			"IndexInAudio": 24,
+			"IndexInAudio": 315,
 			"Interval": [183.3912018,183.4840816],
 			"Label": "C1--n24",
 			"Pitch": {
@@ -3783,7 +3783,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 215,
-			"IndexInAudio": 25,
+			"IndexInAudio": 316,
 			"Interval": [183.6698413,183.8556009],
 			"Label": "C1--n25",
 			"Pitch": {
@@ -3795,7 +3795,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 216,
-			"IndexInAudio": 26,
+			"IndexInAudio": 317,
 			"Interval": [183.9020408,184.4593197],
 			"Label": "C1--n26",
 			"Pitch": {
@@ -3807,7 +3807,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 217,
-			"IndexInAudio": 1,
+			"IndexInAudio": 318,
 			"Interval": [184.9237188,185.8060771],
 			"Label": "D1--n1",
 			"Pitch": {
@@ -3819,7 +3819,7 @@
 		{
 			"Symbol": "B5b5",
 			"IndexInScore": 218,
-			"IndexInAudio": 2,
+			"IndexInAudio": 319,
 			"Interval": [185.8989569,186.4097959],
 			"Label": "D1--n2",
 			"Pitch": {
@@ -3831,7 +3831,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 219,
-			"IndexInAudio": 3,
+			"IndexInAudio": 320,
 			"Interval": [186.5026757,186.8277551],
 			"Label": "D1--n3",
 			"Pitch": {
@@ -3843,7 +3843,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 220,
-			"IndexInAudio": 4,
+			"IndexInAudio": 321,
 			"Interval": [186.9206349,187.1063946],
 			"Label": "D1--n4",
 			"Pitch": {
@@ -3855,7 +3855,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 221,
-			"IndexInAudio": 5,
+			"IndexInAudio": 322,
 			"Interval": [187.1992744,187.5243537],
 			"Label": "D1--n5",
 			"Pitch": {
@@ -3867,7 +3867,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 222,
-			"IndexInAudio": 6,
+			"IndexInAudio": 323,
 			"Interval": [187.5707937,188.4531519],
 			"Label": "D1--n6",
 			"Pitch": {
@@ -3879,7 +3879,7 @@
 		{
 			"Symbol": "A5",
 			"IndexInScore": 223,
-			"IndexInAudio": 7,
+			"IndexInAudio": 324,
 			"Interval": [188.4995918,188.7317914],
 			"Label": "D1--n7",
 			"Pitch": {
@@ -3891,7 +3891,7 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 224,
-			"IndexInAudio": 8,
+			"IndexInAudio": 325,
 			"Interval": [188.8246712,189.1961905],
 			"Label": "D1--n8",
 			"Pitch": {
@@ -3903,7 +3903,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 225,
-			"IndexInAudio": 9,
+			"IndexInAudio": 326,
 			"Interval": [189.42839,189.7070295],
 			"Label": "D1--n9",
 			"Pitch": {
@@ -3915,7 +3915,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 226,
-			"IndexInAudio": 10,
+			"IndexInAudio": 327,
 			"Interval": [189.7534694,189.8463492],
 			"Label": "D1--n10",
 			"Pitch": {
@@ -3927,7 +3927,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 227,
-			"IndexInAudio": 11,
+			"IndexInAudio": 328,
 			"Interval": [189.8927891,190.2178685],
 			"Label": "D1--n11",
 			"Pitch": {
@@ -3939,7 +3939,7 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 228,
-			"IndexInAudio": 12,
+			"IndexInAudio": 329,
 			"Interval": [190.2643084,190.5429478],
 			"Label": "D1--n12",
 			"Pitch": {
@@ -3951,7 +3951,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 229,
-			"IndexInAudio": 13,
+			"IndexInAudio": 330,
 			"Interval": [190.6358277,191.0537868],
 			"Label": "D1--n13",
 			"Pitch": {
@@ -3963,7 +3963,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 230,
-			"IndexInAudio": 14,
+			"IndexInAudio": 331,
 			"Interval": [191.1466667,191.3788662],
 			"Label": "D1--n14",
 			"Pitch": {
@@ -3975,7 +3975,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 231,
-			"IndexInAudio": 15,
+			"IndexInAudio": 332,
 			"Interval": [191.471746,191.8432653],
 			"Label": "D1--n15",
 			"Pitch": {
@@ -3987,7 +3987,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 232,
-			"IndexInAudio": 16,
+			"IndexInAudio": 333,
 			"Interval": [191.9361451,192.4005442],
 			"Label": "D1--n16",
 			"Pitch": {
@@ -3999,7 +3999,7 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 233,
-			"IndexInAudio": 17,
+			"IndexInAudio": 334,
 			"Interval": [192.4469841,192.4469841],
 			"Label": "D1--n17",
 			"Pitch": {
@@ -4011,7 +4011,7 @@
 		{
 			"Symbol": "C5",
 			"IndexInScore": 234,
-			"IndexInAudio": 18,
+			"IndexInAudio": 335,
 			"Interval": [192.493424,192.5863039],
 			"Label": "D1--n18",
 			"Pitch": {
@@ -4023,7 +4023,7 @@
 		{
 			"Symbol": "B4b5",
 			"IndexInScore": 235,
-			"IndexInAudio": 19,
+			"IndexInAudio": 336,
 			"Interval": [192.6327438,192.7256236],
 			"Label": "D1--n19",
 			"Pitch": {
@@ -4035,7 +4035,7 @@
 		{
 			"Symbol": "A4",
 			"IndexInScore": 236,
-			"IndexInAudio": 20,
+			"IndexInAudio": 337,
 			"Interval": [192.7720635,192.8185034],
 			"Label": "D1--n20",
 			"Pitch": {
@@ -4047,7 +4047,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 237,
-			"IndexInAudio": 21,
+			"IndexInAudio": 338,
 			"Interval": [192.9113832,193.004263],
 			"Label": "D1--n21",
 			"Pitch": {
@@ -4059,7 +4059,7 @@
 		{
 			"Symbol": "F4#4",
 			"IndexInScore": 238,
-			"IndexInAudio": 22,
+			"IndexInAudio": 339,
 			"Interval": [193.0971429,193.1435828],
 			"Label": "D1--n22",
 			"Pitch": {
@@ -4071,7 +4071,7 @@
 		{
 			"Symbol": "G4",
 			"IndexInScore": 239,
-			"IndexInAudio": 23,
+			"IndexInAudio": 340,
 			"Interval": [193.1900227,194.53678],
 			"Label": "D1--n23",
 			"Pitch": {
@@ -4083,8 +4083,8 @@
 		{
 			"Symbol": "D5",
 			"IndexInScore": 240,
-			"IndexInAudio": 24,
-			"Interval": [194.6296599,194.53678],
+			"IndexInAudio": 341,
+			"Interval": [194.53678,194.53678],
 			"Label": "D1--n24",
 			"Pitch": {
 				"Value": 701.8867925,
@@ -4095,8 +4095,8 @@
 		{
 			"Symbol": "E5b5",
 			"IndexInScore": 241,
-			"IndexInAudio": 25,
-			"Interval": [194.6296599,194.53678],
+			"IndexInAudio": 342,
+			"Interval": [194.53678,194.53678],
 			"Label": "D1--n25",
 			"Pitch": {
 				"Value": 792.4528302,
@@ -4107,8 +4107,8 @@
 		{
 			"Symbol": "F5#4",
 			"IndexInScore": 242,
-			"IndexInAudio": 26,
-			"Interval": [194.6296599,194.53678],
+			"IndexInAudio": 343,
+			"Interval": [194.53678,194.53678],
 			"Label": "D1--n26",
 			"Pitch": {
 				"Value": 1086.792453,
@@ -4119,7 +4119,7 @@
 		{
 			"Symbol": "G5",
 			"IndexInScore": 243,
-			"IndexInAudio": 27,
+			"IndexInAudio": 344,
 			"Interval": [194.6296599,194.6296599],
 			"Label": "D1--n27",
 			"Pitch": {
