@@ -6,11 +6,15 @@
 			"IndexInAudio": 1,
 			"Interval": [2.414875283,2.461315193],
 			"Label": "C1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.2077484,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -18,11 +22,15 @@
 			"IndexInAudio": 2,
 			"Interval": [2.507755102,2.693514739],
 			"Label": "C1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.0180206,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -30,11 +38,15 @@
 			"IndexInAudio": 3,
 			"Interval": [2.786394558,2.925714286],
 			"Label": "C1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.5646362,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -42,11 +54,15 @@
 			"IndexInAudio": 4,
 			"Interval": [2.972154195,3.29723356],
 			"Label": "C1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.1109619,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -54,11 +70,15 @@
 			"IndexInAudio": 5,
 			"Interval": [3.343673469,4.086712018],
 			"Label": "C1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.5078506,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -66,11 +86,15 @@
 			"IndexInAudio": 6,
 			"Interval": [4.179591837,4.504671202],
 			"Label": "C1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.3117981,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -78,11 +102,15 @@
 			"IndexInAudio": 7,
 			"Interval": [4.59755102,4.922630385],
 			"Label": "C1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 218.354187,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -90,11 +118,15 @@
 			"IndexInAudio": 8,
 			"Interval": [4.969070295,5.015510204],
 			"Label": "C1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.3644257,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -102,11 +134,15 @@
 			"IndexInAudio": 9,
 			"Interval": [5.061950113,5.29414966],
 			"Label": "C1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.6210327,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -114,11 +150,15 @@
 			"IndexInAudio": 10,
 			"Interval": [5.340589569,5.387029478],
 			"Label": "C1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.5440063,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -126,11 +166,15 @@
 			"IndexInAudio": 11,
 			"Interval": [5.433469388,5.758548753],
 			"Label": "C1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.2165527,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -138,11 +182,15 @@
 			"IndexInAudio": 12,
 			"Interval": [3.900952381,4.086712018],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.5646057,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -150,11 +198,15 @@
 			"IndexInAudio": 13,
 			"Interval": [4.133151927,4.226031746],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.4079742,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -162,11 +214,15 @@
 			"IndexInAudio": 14,
 			"Interval": [4.272471655,4.365351474],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.614151,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -174,11 +230,15 @@
 			"IndexInAudio": 15,
 			"Interval": [4.411791383,4.551111111],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.3594894,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -186,11 +246,15 @@
 			"IndexInAudio": 16,
 			"Interval": [4.59755102,5.29414966],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.7455521,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -198,11 +262,15 @@
 			"IndexInAudio": 17,
 			"Interval": [5.387029478,5.665668934],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.6210327,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -210,11 +278,15 @@
 			"IndexInAudio": 18,
 			"Interval": [5.712108844,6.130068027],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 235.1785507,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -222,11 +294,15 @@
 			"IndexInAudio": 19,
 			"Interval": [6.222947846,6.222947846],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -234,11 +310,15 @@
 			"IndexInAudio": 20,
 			"Interval": [6.269387755,6.780226757],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.3621521,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -246,11 +326,15 @@
 			"IndexInAudio": 21,
 			"Interval": [6.873106576,8.034104308],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.4453125,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -258,11 +342,15 @@
 			"IndexInAudio": 22,
 			"Interval": [12.86385488,12.91029478],
 			"Label": "ARANAGME_1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.5439758,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -270,11 +358,15 @@
 			"IndexInAudio": 23,
 			"Interval": [12.95673469,13.04961451],
 			"Label": "ARANAGME_1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.8605194,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -282,11 +374,15 @@
 			"IndexInAudio": 24,
 			"Interval": [13.14249433,13.18893424],
 			"Label": "ARANAGME_1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.4469757,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -294,11 +390,15 @@
 			"IndexInAudio": 25,
 			"Interval": [13.23537415,13.37469388],
 			"Label": "ARANAGME_1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.0602646,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -306,11 +406,15 @@
 			"IndexInAudio": 26,
 			"Interval": [13.42113379,13.42113379],
 			"Label": "ARANAGME_1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E4",
@@ -318,11 +422,15 @@
 			"IndexInAudio": 27,
 			"Interval": [13.4675737,13.60689342],
 			"Label": "ARANAGME_1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 147.7611471,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 295.7929077,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D4",
@@ -330,11 +438,15 @@
 			"IndexInAudio": 28,
 			"Interval": [13.69977324,14.07129252],
 			"Label": "ARANAGME_1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 131.3535918,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 261.0217896,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -342,11 +454,15 @@
 			"IndexInAudio": 29,
 			"Interval": [14.11773243,14.30349206],
 			"Label": "ARANAGME_1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.1577454,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -354,11 +470,15 @@
 			"IndexInAudio": 30,
 			"Interval": [14.39637188,14.53569161],
 			"Label": "ARANAGME_1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 167.6949234,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -366,11 +486,15 @@
 			"IndexInAudio": 31,
 			"Interval": [14.58213152,14.67501134],
 			"Label": "ARANAGME_1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.8159485,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -378,11 +502,15 @@
 			"IndexInAudio": 32,
 			"Interval": [14.76789116,16.06820862],
 			"Label": "ARANAGME_1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.7714233,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -390,11 +518,15 @@
 			"IndexInAudio": 33,
 			"Interval": [16.20752834,16.34684807],
 			"Label": "ARANAGME_1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.809082,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -402,11 +534,15 @@
 			"IndexInAudio": 34,
 			"Interval": [16.43972789,16.53260771],
 			"Label": "ARANAGME_1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.9055176,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -414,11 +550,15 @@
 			"IndexInAudio": 35,
 			"Interval": [16.62548753,16.85768707],
 			"Label": "ARANAGME_1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 217.9761734,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -426,11 +566,15 @@
 			"IndexInAudio": 36,
 			"Interval": [16.95056689,18.06512472],
 			"Label": "ARANAGME_1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.8910828,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -438,11 +582,15 @@
 			"IndexInAudio": 37,
 			"Interval": [18.11156463,18.25088435],
 			"Label": "ARANAGME_1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 0,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -450,11 +598,15 @@
 			"IndexInAudio": 38,
 			"Interval": [18.29732426,18.39020408],
 			"Label": "ARANAGME_1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.9060211,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -462,11 +614,15 @@
 			"IndexInAudio": 39,
 			"Interval": [18.43664399,18.4830839],
 			"Label": "ARANAGME_1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 178.5407715,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -474,11 +630,15 @@
 			"IndexInAudio": 40,
 			"Interval": [18.62240363,19.969161],
 			"Label": "ARANAGME_1--n19",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.6855469,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -486,11 +646,15 @@
 			"IndexInAudio": 41,
 			"Interval": [20.01560091,20.06204082],
 			"Label": "ARANAGME_1--n20",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 264.5127106,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -498,11 +662,15 @@
 			"IndexInAudio": 42,
 			"Interval": [20.15492063,20.57287982],
 			"Label": "ARANAGME_1--n21",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.3096466,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -510,11 +678,15 @@
 			"IndexInAudio": 43,
 			"Interval": [20.61931973,20.85151927],
 			"Label": "ARANAGME_1--n22",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 392.2219238,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -522,11 +694,15 @@
 			"IndexInAudio": 44,
 			"Interval": [21.31591837,21.40879819],
 			"Label": "ARANAGME_1--n23",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.4725037,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -534,11 +710,15 @@
 			"IndexInAudio": 45,
 			"Interval": [21.501678,21.64099773],
 			"Label": "ARANAGME_1--n24",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 235.585968,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -546,11 +726,15 @@
 			"IndexInAudio": 46,
 			"Interval": [21.68743764,21.68743764],
 			"Label": "ARANAGME_1--n25",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -558,11 +742,15 @@
 			"IndexInAudio": 47,
 			"Interval": [21.73387755,21.73387755],
 			"Label": "ARANAGME_1--n26",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -570,11 +758,15 @@
 			"IndexInAudio": 48,
 			"Interval": [21.78031746,21.82675737],
 			"Label": "ARANAGME_1--n27",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 211.8931732,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -582,11 +774,15 @@
 			"IndexInAudio": 49,
 			"Interval": [21.87319728,21.91963719],
 			"Label": "ARANAGME_1--n28",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.2933197,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -594,11 +790,15 @@
 			"IndexInAudio": 50,
 			"Interval": [21.9660771,22.10539683],
 			"Label": "ARANAGME_1--n29",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 254.6184387,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -606,11 +806,15 @@
 			"IndexInAudio": 51,
 			"Interval": [22.15183673,22.33759637],
 			"Label": "ARANAGME_1--n30",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.2598953,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -618,11 +822,15 @@
 			"IndexInAudio": 52,
 			"Interval": [22.38403628,22.66267574],
 			"Label": "ARANAGME_1--n31",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 166.7769852,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -630,11 +838,15 @@
 			"IndexInAudio": 53,
 			"Interval": [22.75555556,23.03419501],
 			"Label": "ARANAGME_1--n32",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.5078506,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -642,11 +854,15 @@
 			"IndexInAudio": 54,
 			"Interval": [23.12707483,23.4985941],
 			"Label": "ARANAGME_1--n33",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.658371,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -654,11 +870,15 @@
 			"IndexInAudio": 55,
 			"Interval": [23.59147392,24.61315193],
 			"Label": "ARANAGME_1--n34",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -666,11 +886,15 @@
 			"IndexInAudio": 56,
 			"Interval": [24.61315193,24.61315193],
 			"Label": "ARANAGME_1--n35",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -678,11 +902,15 @@
 			"IndexInAudio": 57,
 			"Interval": [24.61315193,24.61315193],
 			"Label": "ARANAGME_1--n36",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -690,11 +918,15 @@
 			"IndexInAudio": 58,
 			"Interval": [24.61315193,24.61315193],
 			"Label": "ARANAGME_1--n37",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -702,11 +934,15 @@
 			"IndexInAudio": 59,
 			"Interval": [24.61315193,24.61315193],
 			"Label": "ARANAGME_1--n38",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -714,11 +950,15 @@
 			"IndexInAudio": 60,
 			"Interval": [24.70603175,24.70603175],
 			"Label": "ARANAGME_1--n39",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -726,11 +966,15 @@
 			"IndexInAudio": 61,
 			"Interval": [24.9846712,24.9846712],
 			"Label": "B1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -738,11 +982,15 @@
 			"IndexInAudio": 62,
 			"Interval": [24.9846712,25.21687075],
 			"Label": "B1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 164.1487503,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -750,11 +998,15 @@
 			"IndexInAudio": 63,
 			"Interval": [25.30975057,25.82058957],
 			"Label": "B1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 180.981308,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -762,11 +1014,15 @@
 			"IndexInAudio": 64,
 			"Interval": [25.86702948,26.33142857],
 			"Label": "B1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.1900711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -774,11 +1030,15 @@
 			"IndexInAudio": 65,
 			"Interval": [26.37786848,27.07446712],
 			"Label": "B1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -786,11 +1046,15 @@
 			"IndexInAudio": 66,
 			"Interval": [27.12090703,27.44598639],
 			"Label": "B1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 194.138588,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -798,11 +1062,15 @@
 			"IndexInAudio": 67,
 			"Interval": [27.53886621,27.67818594],
 			"Label": "B1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.8911285,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -810,11 +1078,15 @@
 			"IndexInAudio": 68,
 			"Interval": [27.72462585,27.86394558],
 			"Label": "B1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.1078644,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -822,11 +1094,15 @@
 			"IndexInAudio": 69,
 			"Interval": [27.9568254,28.18902494],
 			"Label": "B1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6213913,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -834,11 +1110,15 @@
 			"IndexInAudio": 70,
 			"Interval": [28.28190476,28.32834467],
 			"Label": "B1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 200.174057,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -846,11 +1126,15 @@
 			"IndexInAudio": 71,
 			"Interval": [28.37478458,28.37478458],
 			"Label": "B1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -858,11 +1142,15 @@
 			"IndexInAudio": 72,
 			"Interval": [28.42122449,28.42122449],
 			"Label": "B1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -870,11 +1158,15 @@
 			"IndexInAudio": 73,
 			"Interval": [28.4676644,28.4676644],
 			"Label": "B1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -882,11 +1174,15 @@
 			"IndexInAudio": 74,
 			"Interval": [28.51410431,28.60698413],
 			"Label": "B1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 194.8127823,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -894,11 +1190,15 @@
 			"IndexInAudio": 75,
 			"Interval": [28.9785034,29.07138322],
 			"Label": "B1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 177.2051086,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -906,11 +1206,15 @@
 			"IndexInAudio": 76,
 			"Interval": [29.11782313,29.11782313],
 			"Label": "B1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E4",
@@ -918,11 +1222,15 @@
 			"IndexInAudio": 77,
 			"Interval": [29.21070295,29.21070295],
 			"Label": "B1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 147.7611471,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D4",
@@ -930,11 +1238,15 @@
 			"IndexInAudio": 78,
 			"Interval": [29.25714286,29.30358277],
 			"Label": "B1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 131.3535918,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 261.1726074,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -942,11 +1254,15 @@
 			"IndexInAudio": 79,
 			"Interval": [29.58222222,29.58222222],
 			"Label": "C1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -954,11 +1270,15 @@
 			"IndexInAudio": 80,
 			"Interval": [29.58222222,30.09306122],
 			"Label": "C1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.0602646,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -966,11 +1286,15 @@
 			"IndexInAudio": 81,
 			"Interval": [30.18594104,30.27882086],
 			"Label": "C1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -978,11 +1302,15 @@
 			"IndexInAudio": 82,
 			"Interval": [30.32526077,30.78965986],
 			"Label": "C1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -990,11 +1318,15 @@
 			"IndexInAudio": 83,
 			"Interval": [30.88253968,31.53269841],
 			"Label": "C1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.9977112,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1002,11 +1334,15 @@
 			"IndexInAudio": 84,
 			"Interval": [31.62557823,31.85777778],
 			"Label": "C1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.9095154,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1014,11 +1350,15 @@
 			"IndexInAudio": 85,
 			"Interval": [31.9506576,32.41505669],
 			"Label": "C1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 230.8709946,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1026,11 +1366,15 @@
 			"IndexInAudio": 86,
 			"Interval": [32.4614966,32.64725624],
 			"Label": "C1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 225.5979614,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1038,11 +1382,15 @@
 			"IndexInAudio": 87,
 			"Interval": [32.69369615,32.74013605],
 			"Label": "C1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 209.0967178,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1050,11 +1398,15 @@
 			"IndexInAudio": 88,
 			"Interval": [32.83301587,32.9723356],
 			"Label": "C1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 194.925148,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1062,11 +1414,15 @@
 			"IndexInAudio": 89,
 			"Interval": [33.06521542,33.52961451],
 			"Label": "C1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.6753159,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1074,11 +1430,15 @@
 			"IndexInAudio": 90,
 			"Interval": [33.34385488,33.99401361],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 206.2180252,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1086,11 +1446,15 @@
 			"IndexInAudio": 91,
 			"Interval": [34.08689342,34.41197279],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.3579025,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1098,11 +1462,15 @@
 			"IndexInAudio": 92,
 			"Interval": [34.4584127,34.50485261],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.4079971,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1110,11 +1478,15 @@
 			"IndexInAudio": 93,
 			"Interval": [34.59773243,35.24789116],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.8080292,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1122,11 +1494,15 @@
 			"IndexInAudio": 94,
 			"Interval": [35.34077098,35.89804989],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 222.4920197,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1134,11 +1510,15 @@
 			"IndexInAudio": 95,
 			"Interval": [35.9444898,35.99092971],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 236.882309,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1146,11 +1526,15 @@
 			"IndexInAudio": 96,
 			"Interval": [36.08380952,36.40888889],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.1206207,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1158,11 +1542,15 @@
 			"IndexInAudio": 97,
 			"Interval": [36.4553288,36.50176871],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.0762711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1170,11 +1558,15 @@
 			"IndexInAudio": 98,
 			"Interval": [36.59464853,36.78040816],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.4079742,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1182,11 +1574,15 @@
 			"IndexInAudio": 99,
 			"Interval": [36.87328798,37.66276644],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.5338745,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1194,11 +1590,15 @@
 			"IndexInAudio": 100,
 			"Interval": [42.53895692,42.86403628],
 			"Label": "F1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 294.0042114,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1206,11 +1606,15 @@
 			"IndexInAudio": 101,
 			"Interval": [42.9569161,43.09623583],
 			"Label": "F1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 229.0778275,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1218,11 +1622,15 @@
 			"IndexInAudio": 102,
 			"Interval": [43.14267574,43.23555556],
 			"Label": "F1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 259.9685516,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1230,11 +1638,15 @@
 			"IndexInAudio": 103,
 			"Interval": [43.32843537,43.88571429],
 			"Label": "F1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 296.0491943,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1242,11 +1654,15 @@
 			"IndexInAudio": 104,
 			"Interval": [43.9785941,44.30367347],
 			"Label": "F1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 308.7102814,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1254,11 +1670,15 @@
 			"IndexInAudio": 105,
 			"Interval": [44.39655329,44.62875283],
 			"Label": "F1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 260.1938629,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1266,11 +1686,15 @@
 			"IndexInAudio": 106,
 			"Interval": [44.67519274,44.86095238],
 			"Label": "F1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 293.2410278,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -1278,11 +1702,15 @@
 			"IndexInAudio": 107,
 			"Interval": [44.9538322,45.04671202],
 			"Label": "F1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 310.7678223,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G5",
@@ -1290,11 +1718,15 @@
 			"IndexInAudio": 108,
 			"Interval": [45.13959184,45.13959184],
 			"Label": "F1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 350.2900455,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1302,11 +1734,15 @@
 			"IndexInAudio": 109,
 			"Interval": [45.18603175,45.37179138],
 			"Label": "F1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 306.1367493,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1314,11 +1750,15 @@
 			"IndexInAudio": 110,
 			"Interval": [45.41823129,45.51111111],
 			"Label": "F1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 266.7374268,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1326,11 +1766,15 @@
 			"IndexInAudio": 111,
 			"Interval": [45.55755102,45.60399093],
 			"Label": "F1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 265.661087,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1338,11 +1782,15 @@
 			"IndexInAudio": 112,
 			"Interval": [45.69687075,45.88263039],
 			"Label": "F1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 305.9587402,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1350,11 +1798,15 @@
 			"IndexInAudio": 113,
 			"Interval": [45.9755102,46.16126984],
 			"Label": "F1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 267.4316406,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1362,11 +1814,15 @@
 			"IndexInAudio": 114,
 			"Interval": [46.25414966,46.71854875],
 			"Label": "F1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 260.8710632,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1374,11 +1830,15 @@
 			"IndexInAudio": 115,
 			"Interval": [47.09006803,47.27582766],
 			"Label": "G1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.2307434,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1386,11 +1846,15 @@
 			"IndexInAudio": 116,
 			"Interval": [47.32226757,47.41514739],
 			"Label": "G1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 235.2460403,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1398,11 +1862,15 @@
 			"IndexInAudio": 117,
 			"Interval": [47.60090703,47.78666667],
 			"Label": "G1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.9891968,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1410,11 +1878,15 @@
 			"IndexInAudio": 118,
 			"Interval": [47.87954649,47.9724263],
 			"Label": "G1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 296.7340393,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -1422,11 +1894,15 @@
 			"IndexInAudio": 119,
 			"Interval": [48.01886621,48.25106576],
 			"Label": "G1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 317.8480225,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A5",
@@ -1434,11 +1910,15 @@
 			"IndexInAudio": 120,
 			"Interval": [48.29750567,48.29750567],
 			"Label": "G1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 394.0452502,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G5",
@@ -1446,11 +1926,15 @@
 			"IndexInAudio": 121,
 			"Interval": [48.39038549,48.52970522],
 			"Label": "G1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 350.2900455,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 357.0833282,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -1458,11 +1942,15 @@
 			"IndexInAudio": 122,
 			"Interval": [48.57614512,48.66902494],
 			"Label": "G1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 338.8960571,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1470,11 +1958,15 @@
 			"IndexInAudio": 123,
 			"Interval": [48.71546485,48.71546485],
 			"Label": "G1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -1482,11 +1974,15 @@
 			"IndexInAudio": 124,
 			"Interval": [48.76190476,49.04054422],
 			"Label": "G1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 338.2102203,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1494,11 +1990,15 @@
 			"IndexInAudio": 125,
 			"Interval": [49.08698413,49.17986395],
 			"Label": "G1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.2171631,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1506,11 +2006,15 @@
 			"IndexInAudio": 126,
 			"Interval": [49.22630385,49.50494331],
 			"Label": "G1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 265.277771,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1518,11 +2022,15 @@
 			"IndexInAudio": 127,
 			"Interval": [49.59782313,49.73714286],
 			"Label": "G1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 228.8792877,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1530,11 +2038,15 @@
 			"IndexInAudio": 128,
 			"Interval": [49.78358277,50.15510204],
 			"Label": "G1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.3513412,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1542,11 +2054,15 @@
 			"IndexInAudio": 129,
 			"Interval": [50.24798186,50.29442177],
 			"Label": "G1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.4171371,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1554,11 +2070,15 @@
 			"IndexInAudio": 130,
 			"Interval": [50.38730159,50.4337415],
 			"Label": "G1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 200.9268646,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1566,11 +2086,15 @@
 			"IndexInAudio": 131,
 			"Interval": [50.52662132,50.89814059],
 			"Label": "G1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 417.9530029,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1578,11 +2102,15 @@
 			"IndexInAudio": 132,
 			"Interval": [51.31609977,51.36253968],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 427.2272797,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1590,11 +2118,15 @@
 			"IndexInAudio": 133,
 			"Interval": [51.64117914,51.87337868],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 169.1051102,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1602,11 +2134,15 @@
 			"IndexInAudio": 134,
 			"Interval": [51.9662585,52.24489796],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.4079742,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1614,11 +2150,15 @@
 			"IndexInAudio": 135,
 			"Interval": [52.33777778,52.70929705],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.2709579,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1626,11 +2166,15 @@
 			"IndexInAudio": 136,
 			"Interval": [52.80217687,53.31301587],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 227.8899155,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1638,11 +2182,15 @@
 			"IndexInAudio": 137,
 			"Interval": [53.35945578,53.49877551],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 224.363472,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1650,11 +2198,15 @@
 			"IndexInAudio": 138,
 			"Interval": [53.59165533,53.77741497],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 208.2532501,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1662,11 +2214,15 @@
 			"IndexInAudio": 139,
 			"Interval": [53.87029478,54.14893424],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 210.9163818,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1674,11 +2230,15 @@
 			"IndexInAudio": 140,
 			"Interval": [54.19537415,54.33469388],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.5637054,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1686,11 +2246,15 @@
 			"IndexInAudio": 141,
 			"Interval": [54.4275737,55.17061224],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 261.7011566,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1698,11 +2262,15 @@
 			"IndexInAudio": 142,
 			"Interval": [60.04680272,60.09324263],
 			"Label": "ARANAGME_1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 466.5678558,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1710,11 +2278,15 @@
 			"IndexInAudio": 143,
 			"Interval": [60.13968254,60.23256236],
 			"Label": "ARANAGME_1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 431.8170624,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1722,11 +2294,15 @@
 			"IndexInAudio": 144,
 			"Interval": [60.32544218,60.37188209],
 			"Label": "ARANAGME_1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 395.0641479,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1734,11 +2310,15 @@
 			"IndexInAudio": 145,
 			"Interval": [60.4647619,60.51120181],
 			"Label": "ARANAGME_1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 349.8339233,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -1746,11 +2326,15 @@
 			"IndexInAudio": 146,
 			"Interval": [60.60408163,60.65052154],
 			"Label": "ARANAGME_1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 321.0773163,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E4",
@@ -1758,11 +2342,15 @@
 			"IndexInAudio": 147,
 			"Interval": [60.69696145,60.74340136],
 			"Label": "ARANAGME_1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 147.7611471,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 316.5653992,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D4",
@@ -1770,11 +2358,15 @@
 			"IndexInAudio": 148,
 			"Interval": [60.78984127,60.929161],
 			"Label": "ARANAGME_1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 131.3535918,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 294.3440552,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1782,11 +2374,15 @@
 			"IndexInAudio": 149,
 			"Interval": [60.97560091,61.48643991],
 			"Label": "ARANAGME_1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 85.90635681,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -1794,11 +2390,15 @@
 			"IndexInAudio": 150,
 			"Interval": [61.57931973,61.81151927],
 			"Label": "ARANAGME_1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 166.0562897,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1806,11 +2406,15 @@
 			"IndexInAudio": 151,
 			"Interval": [61.90439909,62.04371882],
 			"Label": "ARANAGME_1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.4228668,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1818,11 +2422,15 @@
 			"IndexInAudio": 152,
 			"Interval": [62.13659864,63.11183673],
 			"Label": "ARANAGME_1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 193.9704437,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1830,11 +2438,15 @@
 			"IndexInAudio": 153,
 			"Interval": [63.20471655,63.57623583],
 			"Label": "ARANAGME_1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.7082367,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1842,11 +2454,15 @@
 			"IndexInAudio": 154,
 			"Interval": [63.66911565,63.90131519],
 			"Label": "ARANAGME_1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.708725,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1854,11 +2470,15 @@
 			"IndexInAudio": 155,
 			"Interval": [63.99419501,64.31927438],
 			"Label": "ARANAGME_1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 217.3475037,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1866,11 +2486,15 @@
 			"IndexInAudio": 156,
 			"Interval": [64.36571429,65.34095238],
 			"Label": "ARANAGME_1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.3513031,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1878,11 +2502,15 @@
 			"IndexInAudio": 157,
 			"Interval": [65.38739229,65.52671202],
 			"Label": "ARANAGME_1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 255.428627,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1890,11 +2518,15 @@
 			"IndexInAudio": 158,
 			"Interval": [65.57315193,65.71247166],
 			"Label": "ARANAGME_1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 171.317215,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -1902,11 +2534,15 @@
 			"IndexInAudio": 159,
 			"Interval": [65.80535147,66.17687075],
 			"Label": "ARANAGME_1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.9597549,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -1914,11 +2550,15 @@
 			"IndexInAudio": 160,
 			"Interval": [66.26975057,67.75582766],
 			"Label": "ARANAGME_1--n19",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.3822632,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1926,11 +2566,15 @@
 			"IndexInAudio": 161,
 			"Interval": [67.80226757,67.84870748],
 			"Label": "ARANAGME_1--n20",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 256.9825439,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1938,11 +2582,15 @@
 			"IndexInAudio": 162,
 			"Interval": [67.89514739,68.03446712],
 			"Label": "ARANAGME_1--n21",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.0373001,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1950,11 +2598,15 @@
 			"IndexInAudio": 163,
 			"Interval": [68.08090703,68.40598639],
 			"Label": "ARANAGME_1--n22",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.941124,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1962,11 +2614,15 @@
 			"IndexInAudio": 164,
 			"Interval": [68.54530612,68.54530612],
 			"Label": "ARANAGME_1--n23",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -1974,11 +2630,15 @@
 			"IndexInAudio": 165,
 			"Interval": [68.59174603,68.59174603],
 			"Label": "ARANAGME_1--n24",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -1986,11 +2646,15 @@
 			"IndexInAudio": 166,
 			"Interval": [68.63818594,68.68462585],
 			"Label": "ARANAGME_1--n25",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.0997238,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -1998,11 +2662,15 @@
 			"IndexInAudio": 167,
 			"Interval": [68.73106576,68.73106576],
 			"Label": "ARANAGME_1--n26",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2010,11 +2678,15 @@
 			"IndexInAudio": 168,
 			"Interval": [68.82394558,68.96326531],
 			"Label": "ARANAGME_1--n27",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.9223022,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2022,11 +2694,15 @@
 			"IndexInAudio": 169,
 			"Interval": [69.05614512,69.28834467],
 			"Label": "ARANAGME_1--n28",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 236.0627518,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2034,11 +2710,15 @@
 			"IndexInAudio": 170,
 			"Interval": [69.38122449,69.52054422],
 			"Label": "ARANAGME_1--n29",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.7269897,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2046,11 +2726,15 @@
 			"IndexInAudio": 171,
 			"Interval": [69.56698413,69.65986395],
 			"Label": "ARANAGME_1--n30",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.7918091,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2058,11 +2742,15 @@
 			"IndexInAudio": 172,
 			"Interval": [69.75274376,69.89206349],
 			"Label": "ARANAGME_1--n31",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.6084137,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -2070,11 +2758,15 @@
 			"IndexInAudio": 173,
 			"Interval": [69.98494331,70.12426304],
 			"Label": "ARANAGME_1--n32",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 166.1519775,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2082,11 +2774,15 @@
 			"IndexInAudio": 174,
 			"Interval": [70.17070295,70.35646259],
 			"Label": "ARANAGME_1--n33",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.1604233,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2094,11 +2790,15 @@
 			"IndexInAudio": 175,
 			"Interval": [70.4493424,71.19238095],
 			"Label": "ARANAGME_1--n34",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.3376465,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2106,11 +2806,15 @@
 			"IndexInAudio": 176,
 			"Interval": [71.23882086,71.28526077],
 			"Label": "ARANAGME_1--n35",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.2470245,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2118,11 +2822,15 @@
 			"IndexInAudio": 177,
 			"Interval": [71.33170068,71.47102041],
 			"Label": "ARANAGME_1--n36",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.2243042,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2130,11 +2838,15 @@
 			"IndexInAudio": 178,
 			"Interval": [71.51746032,71.56390023],
 			"Label": "ARANAGME_1--n37",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 199.5392227,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2142,11 +2854,15 @@
 			"IndexInAudio": 179,
 			"Interval": [71.61034014,71.88897959],
 			"Label": "ARANAGME_1--n38",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.3376465,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2154,11 +2870,15 @@
 			"IndexInAudio": 180,
 			"Interval": [71.9354195,71.98185941],
 			"Label": "ARANAGME_1--n39",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.2810287,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2166,11 +2886,15 @@
 			"IndexInAudio": 181,
 			"Interval": [72.58557823,72.63201814],
 			"Label": "ARANAGME_1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.4187164,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2178,11 +2902,15 @@
 			"IndexInAudio": 182,
 			"Interval": [72.72489796,72.77133787],
 			"Label": "ARANAGME_1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.4902496,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2190,11 +2918,15 @@
 			"IndexInAudio": 183,
 			"Interval": [72.86421769,72.9106576],
 			"Label": "ARANAGME_1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.7032928,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2202,11 +2934,15 @@
 			"IndexInAudio": 184,
 			"Interval": [73.00353741,73.04997732],
 			"Label": "ARANAGME_1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.8162231,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -2214,11 +2950,15 @@
 			"IndexInAudio": 185,
 			"Interval": [73.14285714,73.23573696],
 			"Label": "ARANAGME_1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 318.7673187,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E4",
@@ -2226,11 +2966,15 @@
 			"IndexInAudio": 186,
 			"Interval": [73.28217687,73.37505669],
 			"Label": "ARANAGME_1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 147.7611471,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 297.5063019,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D4",
@@ -2238,11 +2982,15 @@
 			"IndexInAudio": 187,
 			"Interval": [73.46793651,73.79301587],
 			"Label": "ARANAGME_1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 131.3535918,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 130.360199,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2250,11 +2998,15 @@
 			"IndexInAudio": 188,
 			"Interval": [73.9323356,74.07165533],
 			"Label": "ARANAGME_1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.0577545,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -2262,11 +3014,15 @@
 			"IndexInAudio": 189,
 			"Interval": [74.16453515,74.30385488],
 			"Label": "ARANAGME_1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 164.6234894,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2274,11 +3030,15 @@
 			"IndexInAudio": 190,
 			"Interval": [74.39673469,74.53605442],
 			"Label": "ARANAGME_1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.3722229,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2286,11 +3046,15 @@
 			"IndexInAudio": 191,
 			"Interval": [74.62893424,75.88281179],
 			"Label": "ARANAGME_1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.3376465,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2298,11 +3062,15 @@
 			"IndexInAudio": 192,
 			"Interval": [75.97569161,76.20789116],
 			"Label": "ARANAGME_1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.2577896,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2310,11 +3078,15 @@
 			"IndexInAudio": 193,
 			"Interval": [76.30077098,76.4400907],
 			"Label": "ARANAGME_1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.9624023,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2322,11 +3094,15 @@
 			"IndexInAudio": 194,
 			"Interval": [76.53297052,76.71873016],
 			"Label": "ARANAGME_1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.5969696,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2334,11 +3110,15 @@
 			"IndexInAudio": 195,
 			"Interval": [76.76517007,77.97260771],
 			"Label": "ARANAGME_1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 231.8063736,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2346,11 +3126,15 @@
 			"IndexInAudio": 196,
 			"Interval": [78.01904762,78.25124717],
 			"Label": "ARANAGME_1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 259.4434662,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2358,11 +3142,15 @@
 			"IndexInAudio": 197,
 			"Interval": [78.34412698,78.4370068],
 			"Label": "ARANAGME_1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 202.2666397,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2370,11 +3158,15 @@
 			"IndexInAudio": 198,
 			"Interval": [78.52988662,78.76208617],
 			"Label": "ARANAGME_1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.3117981,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -2382,11 +3174,15 @@
 			"IndexInAudio": 199,
 			"Interval": [78.85496599,80.4339229],
 			"Label": "ARANAGME_1--n19",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.0793152,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2394,11 +3190,15 @@
 			"IndexInAudio": 200,
 			"Interval": [80.48036281,80.52680272],
 			"Label": "ARANAGME_1--n20",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 254.9863892,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2406,11 +3206,15 @@
 			"IndexInAudio": 201,
 			"Interval": [80.61968254,80.71256236],
 			"Label": "ARANAGME_1--n21",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.3669739,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2418,11 +3222,15 @@
 			"IndexInAudio": 202,
 			"Interval": [80.80544218,81.08408163],
 			"Label": "ARANAGME_1--n22",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.6763687,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2430,11 +3238,15 @@
 			"IndexInAudio": 203,
 			"Interval": [81.13052154,81.13052154],
 			"Label": "ARANAGME_1--n23",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2442,11 +3254,15 @@
 			"IndexInAudio": 204,
 			"Interval": [81.17696145,81.17696145],
 			"Label": "ARANAGME_1--n24",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2454,11 +3270,15 @@
 			"IndexInAudio": 205,
 			"Interval": [81.22340136,81.26984127],
 			"Label": "ARANAGME_1--n25",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.7516327,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2466,11 +3286,15 @@
 			"IndexInAudio": 206,
 			"Interval": [81.31628118,81.31628118],
 			"Label": "ARANAGME_1--n26",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2478,11 +3302,15 @@
 			"IndexInAudio": 207,
 			"Interval": [81.409161,81.64136054],
 			"Label": "ARANAGME_1--n27",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.1077576,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2490,11 +3318,15 @@
 			"IndexInAudio": 208,
 			"Interval": [81.68780045,81.82712018],
 			"Label": "ARANAGME_1--n28",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.4998398,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2502,11 +3334,15 @@
 			"IndexInAudio": 209,
 			"Interval": [81.87356009,81.96643991],
 			"Label": "ARANAGME_1--n29",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.4446411,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2514,11 +3350,15 @@
 			"IndexInAudio": 210,
 			"Interval": [82.29151927,82.38439909],
 			"Label": "ARANAGME_1--n30",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.5891571,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2526,11 +3366,15 @@
 			"IndexInAudio": 211,
 			"Interval": [82.430839,82.61659864],
 			"Label": "ARANAGME_1--n31",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.0099945,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -2538,11 +3382,15 @@
 			"IndexInAudio": 212,
 			"Interval": [82.66303855,82.80235828],
 			"Label": "ARANAGME_1--n32",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 166.0560455,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2550,11 +3398,15 @@
 			"IndexInAudio": 213,
 			"Interval": [82.84879819,83.08099773],
 			"Label": "ARANAGME_1--n33",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.1577454,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2562,11 +3414,15 @@
 			"IndexInAudio": 214,
 			"Interval": [83.12743764,83.9169161],
 			"Label": "ARANAGME_1--n34",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.394371,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2574,11 +3430,15 @@
 			"IndexInAudio": 215,
 			"Interval": [84.00979592,84.19555556],
 			"Label": "ARANAGME_1--n35",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 524.0072937,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2586,11 +3446,15 @@
 			"IndexInAudio": 216,
 			"Interval": [84.24199546,84.33487528],
 			"Label": "ARANAGME_1--n36",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 430.8204956,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2598,11 +3462,15 @@
 			"IndexInAudio": 217,
 			"Interval": [84.38131519,84.4277551],
 			"Label": "ARANAGME_1--n37",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 434.1931152,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2610,11 +3478,15 @@
 			"IndexInAudio": 218,
 			"Interval": [84.47419501,84.56707483],
 			"Label": "ARANAGME_1--n38",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 176.5920334,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2622,11 +3494,15 @@
 			"IndexInAudio": 219,
 			"Interval": [84.65995465,84.65995465],
 			"Label": "ARANAGME_1--n39",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2634,11 +3510,15 @@
 			"IndexInAudio": 220,
 			"Interval": [85.35655329,85.54231293],
 			"Label": "B1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.76548,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2646,11 +3526,15 @@
 			"IndexInAudio": 221,
 			"Interval": [85.63519274,86.00671202],
 			"Label": "B1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 192.8535538,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2658,11 +3542,15 @@
 			"IndexInAudio": 222,
 			"Interval": [86.05315193,86.4246712],
 			"Label": "B1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 194.8688889,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2670,11 +3558,15 @@
 			"IndexInAudio": 223,
 			"Interval": [86.47111111,86.9355102],
 			"Label": "B1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 199.0784149,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2682,11 +3574,15 @@
 			"IndexInAudio": 224,
 			"Interval": [86.98195011,87.49278912],
 			"Label": "B1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.5891266,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2694,11 +3590,15 @@
 			"IndexInAudio": 225,
 			"Interval": [87.58566893,87.86430839],
 			"Label": "B1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.1331177,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2706,11 +3606,15 @@
 			"IndexInAudio": 226,
 			"Interval": [87.95718821,88.09650794],
 			"Label": "B1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.6783295,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2718,11 +3622,15 @@
 			"IndexInAudio": 227,
 			"Interval": [88.18938776,88.32870748],
 			"Label": "B1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.2940445,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2730,11 +3638,15 @@
 			"IndexInAudio": 228,
 			"Interval": [88.4215873,88.79310658],
 			"Label": "B1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 200.0582657,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2742,11 +3654,15 @@
 			"IndexInAudio": 229,
 			"Interval": [88.83954649,88.83954649],
 			"Label": "B1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2754,11 +3670,15 @@
 			"IndexInAudio": 230,
 			"Interval": [88.9324263,88.9324263],
 			"Label": "B1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2766,11 +3686,15 @@
 			"IndexInAudio": 231,
 			"Interval": [88.97886621,89.02530612],
 			"Label": "B1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.1331177,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2778,11 +3702,15 @@
 			"IndexInAudio": 232,
 			"Interval": [89.21106576,89.21106576],
 			"Label": "B1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2790,11 +3718,15 @@
 			"IndexInAudio": 233,
 			"Interval": [89.21106576,89.21106576],
 			"Label": "B1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2802,11 +3734,15 @@
 			"IndexInAudio": 234,
 			"Interval": [89.21106576,89.21106576],
 			"Label": "B1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F4#4",
@@ -2814,11 +3750,15 @@
 			"IndexInAudio": 235,
 			"Interval": [89.21106576,89.21106576],
 			"Label": "B1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 164.0585028,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E4",
@@ -2826,11 +3766,15 @@
 			"IndexInAudio": 236,
 			"Interval": [89.21106576,89.21106576],
 			"Label": "B1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 147.7611471,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D4",
@@ -2838,11 +3782,15 @@
 			"IndexInAudio": 237,
 			"Interval": [89.30394558,89.30394558],
 			"Label": "B1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 131.3535918,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2850,11 +3798,15 @@
 			"IndexInAudio": 238,
 			"Interval": [90.04698413,90.13986395],
 			"Label": "C1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.2077484,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2862,11 +3814,15 @@
 			"IndexInAudio": 239,
 			"Interval": [90.23274376,90.55782313],
 			"Label": "C1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.524231,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2874,11 +3830,15 @@
 			"IndexInAudio": 240,
 			"Interval": [90.60426304,90.97578231],
 			"Label": "C1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.2068329,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2886,11 +3846,15 @@
 			"IndexInAudio": 241,
 			"Interval": [91.06866213,91.53306122],
 			"Label": "C1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2898,11 +3862,15 @@
 			"IndexInAudio": 242,
 			"Interval": [91.57950113,92.13678005],
 			"Label": "C1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.5646057,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2910,11 +3878,15 @@
 			"IndexInAudio": 243,
 			"Interval": [92.22965986,92.60117914],
 			"Label": "C1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 170.9218597,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -2922,11 +3894,15 @@
 			"IndexInAudio": 244,
 			"Interval": [92.69405896,92.97269841],
 			"Label": "C1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.7708969,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2934,11 +3910,15 @@
 			"IndexInAudio": 245,
 			"Interval": [93.01913832,93.15845805],
 			"Label": "C1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 237.5675583,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2946,11 +3926,15 @@
 			"IndexInAudio": 246,
 			"Interval": [93.20489796,93.25133787],
 			"Label": "C1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 220.4456711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -2958,11 +3942,15 @@
 			"IndexInAudio": 247,
 			"Interval": [93.34421769,93.48353741],
 			"Label": "C1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.8845367,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2970,11 +3958,15 @@
 			"IndexInAudio": 248,
 			"Interval": [93.57641723,93.99437642],
 			"Label": "C1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.3552475,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -2982,11 +3974,15 @@
 			"IndexInAudio": 249,
 			"Interval": [94.4123356,94.69097506],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.9751892,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -2994,11 +3990,15 @@
 			"IndexInAudio": 250,
 			"Interval": [94.73741497,95.01605442],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 171.5152817,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3006,11 +4006,15 @@
 			"IndexInAudio": 251,
 			"Interval": [95.06249433,95.20181406],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.261467,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3018,11 +4022,15 @@
 			"IndexInAudio": 252,
 			"Interval": [95.29469388,95.75909297],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.8159485,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3030,11 +4038,15 @@
 			"IndexInAudio": 253,
 			"Interval": [95.85197279,96.26993197],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.9223022,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3042,11 +4054,15 @@
 			"IndexInAudio": 254,
 			"Interval": [96.31637188,96.36281179],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.0262299,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3054,11 +4070,15 @@
 			"IndexInAudio": 255,
 			"Interval": [96.45569161,96.87365079],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 218.6697388,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3066,11 +4086,15 @@
 			"IndexInAudio": 256,
 			"Interval": [96.96653061,97.05941043],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 201.8575897,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3078,11 +4102,15 @@
 			"IndexInAudio": 257,
 			"Interval": [97.15229025,97.3844898],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.5081635,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3090,11 +4118,15 @@
 			"IndexInAudio": 258,
 			"Interval": [97.43092971,98.22040816],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 260.8710632,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3102,11 +4134,15 @@
 			"IndexInAudio": 259,
 			"Interval": [98.87056689,99.10276644],
 			"Label": "E1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.1411438,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3114,11 +4150,15 @@
 			"IndexInAudio": 260,
 			"Interval": [99.19564626,99.33496599],
 			"Label": "E1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 225.9238892,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3126,11 +4166,15 @@
 			"IndexInAudio": 261,
 			"Interval": [99.3814059,99.47428571],
 			"Label": "E1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.5443192,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3138,11 +4182,15 @@
 			"IndexInAudio": 262,
 			"Interval": [99.52072562,99.70648526],
 			"Label": "E1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 216.2205353,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3150,11 +4198,15 @@
 			"IndexInAudio": 263,
 			"Interval": [99.79936508,99.93868481],
 			"Label": "E1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 202.5582581,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3162,11 +4214,15 @@
 			"IndexInAudio": 264,
 			"Interval": [99.98512472,100.0780045],
 			"Label": "E1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.2470245,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3174,11 +4230,15 @@
 			"IndexInAudio": 265,
 			"Interval": [100.1708844,100.5424036],
 			"Label": "E1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.8461761,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3186,11 +4246,15 @@
 			"IndexInAudio": 266,
 			"Interval": [100.6352834,100.867483],
 			"Label": "E1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 229.4087219,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3198,11 +4262,15 @@
 			"IndexInAudio": 267,
 			"Interval": [100.9603628,101.2854422],
 			"Label": "E1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.1206207,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3210,11 +4278,15 @@
 			"IndexInAudio": 268,
 			"Interval": [101.3318821,101.3318821],
 			"Label": "E1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3222,11 +4294,15 @@
 			"IndexInAudio": 269,
 			"Interval": [101.378322,101.5176417],
 			"Label": "E1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 185.7475128,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3234,11 +4310,15 @@
 			"IndexInAudio": 270,
 			"Interval": [101.6105215,101.7498413],
 			"Label": "E1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.3055801,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3246,11 +4326,15 @@
 			"IndexInAudio": 271,
 			"Interval": [101.8427211,101.8427211],
 			"Label": "E1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3258,11 +4342,15 @@
 			"IndexInAudio": 272,
 			"Interval": [101.889161,102.4928798],
 			"Label": "E1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.8175201,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3270,11 +4358,15 @@
 			"IndexInAudio": 273,
 			"Interval": [102.5393197,102.5393197],
 			"Label": "E1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -3282,11 +4374,15 @@
 			"IndexInAudio": 274,
 			"Interval": [102.5857596,102.5857596],
 			"Label": "E1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3294,11 +4390,15 @@
 			"IndexInAudio": 275,
 			"Interval": [102.6321995,102.7250794],
 			"Label": "E1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 132.5622711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3306,11 +4406,15 @@
 			"IndexInAudio": 276,
 			"Interval": [102.7715193,102.8179592],
 			"Label": "E1--n18",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 131.1155701,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3318,11 +4422,15 @@
 			"IndexInAudio": 277,
 			"Interval": [102.8643991,102.8643991],
 			"Label": "E1--n19",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3330,11 +4438,15 @@
 			"IndexInAudio": 278,
 			"Interval": [102.910839,102.9572789],
 			"Label": "E1--n20",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 130.0593796,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3342,11 +4454,15 @@
 			"IndexInAudio": 279,
 			"Interval": [103.2359184,103.4681179],
 			"Label": "F1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 147.0445786,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3354,11 +4470,15 @@
 			"IndexInAudio": 280,
 			"Interval": [103.5609977,103.7931973],
 			"Label": "F1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 219.8094711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3366,11 +4486,15 @@
 			"IndexInAudio": 281,
 			"Interval": [103.8860771,104.0718367],
 			"Label": "F1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.6855469,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3378,11 +4502,15 @@
 			"IndexInAudio": 282,
 			"Interval": [104.1647166,104.5362358],
 			"Label": "F1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 297.7641602,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3390,11 +4518,15 @@
 			"IndexInAudio": 283,
 			"Interval": [104.6291156,105.1863946],
 			"Label": "F1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 304.0208435,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3402,11 +4534,15 @@
 			"IndexInAudio": 284,
 			"Interval": [105.2792744,105.6043537],
 			"Label": "F1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 204.0871811,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3414,11 +4550,15 @@
 			"IndexInAudio": 285,
 			"Interval": [105.6972336,106.1616327],
 			"Label": "F1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 301.2240753,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -3426,11 +4566,15 @@
 			"IndexInAudio": 286,
 			"Interval": [106.2545125,106.3473923],
 			"Label": "F1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 264.5890808,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G5",
@@ -3438,11 +4582,15 @@
 			"IndexInAudio": 287,
 			"Interval": [106.3938322,106.3938322],
 			"Label": "F1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 350.2900455,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3450,11 +4598,15 @@
 			"IndexInAudio": 288,
 			"Interval": [106.4402721,106.6724717],
 			"Label": "F1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 292.9870911,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3462,11 +4614,15 @@
 			"IndexInAudio": 289,
 			"Interval": [106.8117914,107.2761905],
 			"Label": "F1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.9022217,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3474,11 +4630,15 @@
 			"IndexInAudio": 290,
 			"Interval": [107.3226304,107.50839],
 			"Label": "F1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.8373413,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3486,11 +4646,15 @@
 			"IndexInAudio": 291,
 			"Interval": [107.50839,107.50839],
 			"Label": "F1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3498,11 +4662,15 @@
 			"IndexInAudio": 292,
 			"Interval": [107.50839,107.50839],
 			"Label": "F1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3510,11 +4678,15 @@
 			"IndexInAudio": 293,
 			"Interval": [107.6012698,107.6012698],
 			"Label": "F1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3522,11 +4694,15 @@
 			"IndexInAudio": 294,
 			"Interval": [107.6012698,107.9727891],
 			"Label": "G1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.4453125,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3534,11 +4710,15 @@
 			"IndexInAudio": 295,
 			"Interval": [108.0656689,108.2978685],
 			"Label": "G1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 222.5563126,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3546,11 +4726,15 @@
 			"IndexInAudio": 296,
 			"Interval": [108.3443084,108.530068],
 			"Label": "G1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.9784698,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3558,11 +4742,15 @@
 			"IndexInAudio": 297,
 			"Interval": [108.6229478,108.8087075],
 			"Label": "G1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 293.4951782,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -3570,11 +4758,15 @@
 			"IndexInAudio": 298,
 			"Interval": [108.9015873,109.0873469],
 			"Label": "G1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 312.7490997,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A5",
@@ -3582,11 +4774,15 @@
 			"IndexInAudio": 299,
 			"Interval": [109.1337868,109.1337868],
 			"Label": "G1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 394.0452502,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G5",
@@ -3594,11 +4790,15 @@
 			"IndexInAudio": 300,
 			"Interval": [109.1802268,109.2731066],
 			"Label": "G1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 350.2900455,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 346.716156,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -3606,11 +4806,15 @@
 			"IndexInAudio": 301,
 			"Interval": [109.3659864,109.4124263],
 			"Label": "G1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 315.6524353,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3618,11 +4822,15 @@
 			"IndexInAudio": 302,
 			"Interval": [109.5053061,109.551746],
 			"Label": "G1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 291.8065338,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -3630,11 +4838,15 @@
 			"IndexInAudio": 303,
 			"Interval": [109.5981859,109.6446259],
 			"Label": "G1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 325.8419495,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3642,11 +4854,15 @@
 			"IndexInAudio": 304,
 			"Interval": [109.6910658,110.1554649],
 			"Label": "G1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.4453125,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3654,11 +4870,15 @@
 			"IndexInAudio": 305,
 			"Interval": [110.2483447,110.8985034],
 			"Label": "G1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 258.4711914,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3666,11 +4886,15 @@
 			"IndexInAudio": 306,
 			"Interval": [110.9449433,111.1771429],
 			"Label": "G1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 218.8592682,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3678,11 +4902,15 @@
 			"IndexInAudio": 307,
 			"Interval": [111.2700227,111.4557823],
 			"Label": "G1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 219.4289017,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3690,11 +4918,15 @@
 			"IndexInAudio": 308,
 			"Interval": [111.5486621,111.7344218],
 			"Label": "G1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.7516327,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3702,11 +4934,15 @@
 			"IndexInAudio": 309,
 			"Interval": [111.8273016,111.8273016],
 			"Label": "G1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3714,11 +4950,15 @@
 			"IndexInAudio": 310,
 			"Interval": [111.8737415,112.0595011],
 			"Label": "G1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 205.1153564,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3726,11 +4966,15 @@
 			"IndexInAudio": 311,
 			"Interval": [112.0595011,112.3381406],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.5059967,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3738,11 +4982,15 @@
 			"IndexInAudio": 312,
 			"Interval": [112.4310204,112.7560998],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 171.317215,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3750,11 +4998,15 @@
 			"IndexInAudio": 313,
 			"Interval": [112.8489796,112.8954195],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.1105347,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3762,11 +5014,15 @@
 			"IndexInAudio": 314,
 			"Interval": [112.9418594,113.5920181],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 173.1077423,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3774,11 +5030,15 @@
 			"IndexInAudio": 315,
 			"Interval": [113.684898,114.0099773],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 224.1690216,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3786,11 +5046,15 @@
 			"IndexInAudio": 316,
 			"Interval": [114.0564172,114.3814966],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.2968979,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3798,11 +5062,15 @@
 			"IndexInAudio": 317,
 			"Interval": [114.4279365,114.5208163],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 226.6507263,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3810,11 +5078,15 @@
 			"IndexInAudio": 318,
 			"Interval": [114.5672562,114.5672562],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3822,11 +5094,15 @@
 			"IndexInAudio": 319,
 			"Interval": [114.7994558,115.1709751],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 176.4900589,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3834,11 +5110,15 @@
 			"IndexInAudio": 320,
 			"Interval": [115.3102948,115.9140136],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 259.8183899,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -3846,11 +5126,15 @@
 			"IndexInAudio": 321,
 			"Interval": [116.4248526,116.7963719],
 			"Label": "E2--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.2931824,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3858,11 +5142,15 @@
 			"IndexInAudio": 322,
 			"Interval": [117.1214512,117.2143311],
 			"Label": "E2--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 234.161438,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3870,11 +5158,15 @@
 			"IndexInAudio": 323,
 			"Interval": [117.260771,117.3072109],
 			"Label": "E2--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.409729,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3882,11 +5174,15 @@
 			"IndexInAudio": 324,
 			"Interval": [117.3536508,117.7251701],
 			"Label": "E2--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 210.4902802,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3894,11 +5190,15 @@
 			"IndexInAudio": 325,
 			"Interval": [117.77161,117.9109297],
 			"Label": "E2--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 211.099144,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3906,11 +5206,15 @@
 			"IndexInAudio": 326,
 			"Interval": [118.0038095,118.2360091],
 			"Label": "E2--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 204.3800049,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3918,11 +5222,15 @@
 			"IndexInAudio": 327,
 			"Interval": [118.3288889,118.4682086],
 			"Label": "E2--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.7269897,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -3930,11 +5238,15 @@
 			"IndexInAudio": 328,
 			"Interval": [118.5610884,118.8861678],
 			"Label": "E2--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.6210327,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3942,11 +5254,15 @@
 			"IndexInAudio": 329,
 			"Interval": [118.9326077,119.1648073],
 			"Label": "E2--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.5969696,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3954,11 +5270,15 @@
 			"IndexInAudio": 330,
 			"Interval": [119.2112472,119.304127],
 			"Label": "E2--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 200.6368942,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -3966,11 +5286,15 @@
 			"IndexInAudio": 331,
 			"Interval": [119.3505669,119.4434467],
 			"Label": "E2--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.5133133,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -3978,11 +5302,15 @@
 			"IndexInAudio": 332,
 			"Interval": [119.4898866,119.6292063],
 			"Label": "E2--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.1993484,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -3990,11 +5318,15 @@
 			"IndexInAudio": 333,
 			"Interval": [119.7220862,119.814966],
 			"Label": "E2--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 195.4327621,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4002,11 +5334,15 @@
 			"IndexInAudio": 334,
 			"Interval": [119.9078458,120.6044444],
 			"Label": "E2--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.3376465,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4014,11 +5350,15 @@
 			"IndexInAudio": 335,
 			"Interval": [132.4466213,132.6788209],
 			"Label": "E2--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 523.1000671,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4026,11 +5366,15 @@
 			"IndexInAudio": 336,
 			"Interval": [132.8181406,132.9574603],
 			"Label": "E2--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 469.1351318,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4038,11 +5382,15 @@
 			"IndexInAudio": 337,
 			"Interval": [133.0039002,133.2360998],
 			"Label": "E2--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 534.0914917,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4050,11 +5398,15 @@
 			"IndexInAudio": 338,
 			"Interval": [133.2825397,133.3289796],
 			"Label": "E2--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 528.4146423,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4062,11 +5414,15 @@
 			"IndexInAudio": 339,
 			"Interval": [133.3754195,133.7469388],
 			"Label": "E2--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.394371,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4074,11 +5430,15 @@
 			"IndexInAudio": 340,
 			"Interval": [133.7933787,134.0720181],
 			"Label": "E2--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.6781769,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4086,11 +5446,15 @@
 			"IndexInAudio": 341,
 			"Interval": [134.164898,134.2577778],
 			"Label": "E2--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 428.2155151,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4098,11 +5462,15 @@
 			"IndexInAudio": 342,
 			"Interval": [134.3042177,134.3970975],
 			"Label": "E2--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 462.1425171,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4110,11 +5478,15 @@
 			"IndexInAudio": 343,
 			"Interval": [134.5364172,135.3258957],
 			"Label": "E2--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 397.0085754,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4122,11 +5494,15 @@
 			"IndexInAudio": 344,
 			"Interval": [135.4187755,135.4187755],
 			"Label": "E2--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4134,11 +5510,15 @@
 			"IndexInAudio": 345,
 			"Interval": [135.4652154,135.697415],
 			"Label": "E2--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.1608963,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4146,11 +5526,15 @@
 			"IndexInAudio": 346,
 			"Interval": [135.7438549,135.7438549],
 			"Label": "E2--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4158,11 +5542,15 @@
 			"IndexInAudio": 347,
 			"Interval": [135.7902948,135.8831746],
 			"Label": "E2--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.9318085,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4170,11 +5558,15 @@
 			"IndexInAudio": 348,
 			"Interval": [135.9296145,136.8119728],
 			"Label": "E2--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 394.2662354,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4182,11 +5574,15 @@
 			"IndexInAudio": 349,
 			"Interval": [188.4531519,188.5924717],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.9318085,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4194,11 +5590,15 @@
 			"IndexInAudio": 350,
 			"Interval": [188.6389116,188.917551],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 166.1040649,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4206,11 +5606,15 @@
 			"IndexInAudio": 351,
 			"Interval": [188.9639909,189.1033107],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 170.9218597,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4218,11 +5622,15 @@
 			"IndexInAudio": 352,
 			"Interval": [189.1961905,189.6141497],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.9810715,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4230,11 +5638,15 @@
 			"IndexInAudio": 353,
 			"Interval": [189.7070295,190.0321088],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 227.9557953,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4242,11 +5654,15 @@
 			"IndexInAudio": 354,
 			"Interval": [190.0785488,190.2178685],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.0818787,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4254,11 +5670,15 @@
 			"IndexInAudio": 355,
 			"Interval": [190.2643084,190.4965079],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.6651993,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4266,11 +5686,15 @@
 			"IndexInAudio": 356,
 			"Interval": [190.5893878,190.6822676],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.160614,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4278,11 +5702,15 @@
 			"IndexInAudio": 357,
 			"Interval": [190.7751474,191.1002268],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 176.9494019,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4290,11 +5718,15 @@
 			"IndexInAudio": 358,
 			"Interval": [191.2395465,191.9361451],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.2931824,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4302,11 +5734,15 @@
 			"IndexInAudio": 359,
 			"Interval": [192.493424,192.7720635],
 			"Label": "E2--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 264.2072754,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4314,11 +5750,15 @@
 			"IndexInAudio": 360,
 			"Interval": [192.8649433,192.9578231],
 			"Label": "E2--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 237.3616562,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4326,11 +5766,15 @@
 			"IndexInAudio": 361,
 			"Interval": [193.004263,193.0507029],
 			"Label": "E2--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.68853,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4338,11 +5782,15 @@
 			"IndexInAudio": 362,
 			"Interval": [193.0971429,193.4222222],
 			"Label": "E2--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.73703,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4350,11 +5798,15 @@
 			"IndexInAudio": 363,
 			"Interval": [193.515102,193.6544218],
 			"Label": "E2--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.9064102,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4362,11 +5814,15 @@
 			"IndexInAudio": 364,
 			"Interval": [193.7008617,193.9330612],
 			"Label": "E2--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.1900711,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4374,11 +5830,15 @@
 			"IndexInAudio": 365,
 			"Interval": [194.025941,194.1652608],
 			"Label": "E2--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 218.6698074,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4386,11 +5846,15 @@
 			"IndexInAudio": 366,
 			"Interval": [194.2581406,194.4903401],
 			"Label": "E2--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 235.8582764,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4398,11 +5862,15 @@
 			"IndexInAudio": 367,
 			"Interval": [194.58322,194.8154195],
 			"Label": "E2--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 212.1380615,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4410,11 +5878,15 @@
 			"IndexInAudio": 368,
 			"Interval": [194.9082993,194.9547392],
 			"Label": "E2--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.1606369,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4422,11 +5894,15 @@
 			"IndexInAudio": 369,
 			"Interval": [195.0011791,195.1404989],
 			"Label": "E2--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.1105652,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4434,11 +5910,15 @@
 			"IndexInAudio": 370,
 			"Interval": [195.2333787,195.3262585],
 			"Label": "E2--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.5519257,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4446,11 +5926,15 @@
 			"IndexInAudio": 371,
 			"Interval": [195.3726984,195.4655782],
 			"Label": "E2--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.2470245,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4458,11 +5942,15 @@
 			"IndexInAudio": 372,
 			"Interval": [195.558458,196.1621769],
 			"Label": "E2--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 198.5042877,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4470,11 +5958,15 @@
 			"IndexInAudio": 373,
 			"Interval": [201.1312472,201.3170068],
 			"Label": "G1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 263.9022217,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4482,11 +5974,15 @@
 			"IndexInAudio": 374,
 			"Interval": [201.4098866,201.5492063],
 			"Label": "G1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.8127747,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4494,11 +5990,15 @@
 			"IndexInAudio": 375,
 			"Interval": [201.5956463,201.7814059],
 			"Label": "G1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 266.5064087,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -4506,11 +6006,15 @@
 			"IndexInAudio": 376,
 			"Interval": [201.8742857,201.9671655],
 			"Label": "G1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 300.6157837,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -4518,11 +6022,15 @@
 			"IndexInAudio": 377,
 			"Interval": [202.0136054,202.245805],
 			"Label": "G1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 318.399231,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A5",
@@ -4530,11 +6038,15 @@
 			"IndexInAudio": 378,
 			"Interval": [202.3386848,202.3386848],
 			"Label": "G1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 394.0452502,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G5",
@@ -4542,11 +6054,15 @@
 			"IndexInAudio": 379,
 			"Interval": [202.3851247,202.5244444],
 			"Label": "G1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 350.2900455,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 360.7122955,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "F5",
@@ -4554,11 +6070,15 @@
 			"IndexInAudio": 380,
 			"Interval": [202.5708844,202.6173243],
 			"Label": "G1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 311.3934654,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 316.3834381,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -4566,11 +6086,15 @@
 			"IndexInAudio": 381,
 			"Interval": [202.7102041,202.756644],
 			"Label": "G1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 291.9733887,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "E5",
@@ -4578,11 +6102,15 @@
 			"IndexInAudio": 382,
 			"Interval": [202.9424036,203.0352834],
 			"Label": "G1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 295.5222942,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 327.0682526,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4590,11 +6118,15 @@
 			"IndexInAudio": 383,
 			"Interval": [203.0817234,203.3139229],
 			"Label": "G1--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 265.8145905,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4602,11 +6134,15 @@
 			"IndexInAudio": 384,
 			"Interval": [203.3603628,203.7318821],
 			"Label": "G1--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 265.1245422,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4614,11 +6150,15 @@
 			"IndexInAudio": 385,
 			"Interval": [203.8247619,204.1034014],
 			"Label": "G1--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 226.5776749,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4626,11 +6166,15 @@
 			"IndexInAudio": 386,
 			"Interval": [204.1498413,204.3820408],
 			"Label": "G1--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 236.7454834,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4638,11 +6182,15 @@
 			"IndexInAudio": 387,
 			"Interval": [204.5213605,204.5678005],
 			"Label": "G1--n15",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 218.0391083,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4650,11 +6198,15 @@
 			"IndexInAudio": 388,
 			"Interval": [204.6142404,204.6142404],
 			"Label": "G1--n16",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4662,11 +6214,15 @@
 			"IndexInAudio": 389,
 			"Interval": [204.7071202,204.8928798],
 			"Label": "G1--n17",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 217.8502655,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4674,11 +6230,15 @@
 			"IndexInAudio": 390,
 			"Interval": [205.0786395,205.2643991],
 			"Label": "D1--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.851059,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4686,11 +6246,15 @@
 			"IndexInAudio": 391,
 			"Interval": [205.310839,205.6359184],
 			"Label": "D1--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 172.4092102,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4698,11 +6262,15 @@
 			"IndexInAudio": 392,
 			"Interval": [205.7287982,205.8681179],
 			"Label": "D1--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 176.2353668,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4710,11 +6278,15 @@
 			"IndexInAudio": 393,
 			"Interval": [205.9609977,206.6575964],
 			"Label": "D1--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.6141205,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4722,11 +6294,15 @@
 			"IndexInAudio": 394,
 			"Interval": [206.7504762,207.0755556],
 			"Label": "D1--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 226.2504578,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4734,11 +6310,15 @@
 			"IndexInAudio": 395,
 			"Interval": [207.1219955,207.3077551],
 			"Label": "D1--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.4187927,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4746,11 +6326,15 @@
 			"IndexInAudio": 396,
 			"Interval": [207.4006349,207.6792744],
 			"Label": "D1--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 211.6484833,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4758,11 +6342,15 @@
 			"IndexInAudio": 397,
 			"Interval": [207.8185941,207.8185941],
 			"Label": "D1--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": "_NaN_",
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4770,11 +6358,15 @@
 			"IndexInAudio": 398,
 			"Interval": [207.865034,208.1436735],
 			"Label": "D1--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 174.311821,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4782,11 +6374,15 @@
 			"IndexInAudio": 399,
 			"Interval": [208.2365533,209.3046712],
 			"Label": "D1--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 262.9891968,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "D5",
@@ -4794,11 +6390,15 @@
 			"IndexInAudio": 400,
 			"Interval": [209.7226304,210.2799093],
 			"Label": "E2--n1",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 262.7071836,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 271.4784851,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4806,11 +6406,15 @@
 			"IndexInAudio": 401,
 			"Interval": [210.3263492,210.419229],
 			"Label": "E2--n2",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 233.2169037,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4818,11 +6422,15 @@
 			"IndexInAudio": 402,
 			"Interval": [210.4656689,210.6049887],
 			"Label": "E2--n3",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 228.5493469,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4830,11 +6438,15 @@
 			"IndexInAudio": 403,
 			"Interval": [210.6514286,210.8836281],
 			"Label": "E2--n4",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.7269897,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4842,11 +6454,15 @@
 			"IndexInAudio": 404,
 			"Interval": [210.9765079,211.1622676],
 			"Label": "E2--n5",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 196.8486633,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4854,11 +6470,15 @@
 			"IndexInAudio": 405,
 			"Interval": [211.2551474,211.5337868],
 			"Label": "E2--n6",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 201.9161758,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4866,11 +6486,15 @@
 			"IndexInAudio": 406,
 			"Interval": [211.6266667,211.8124263],
 			"Label": "E2--n7",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 215.6592484,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "C5",
@@ -4878,11 +6502,15 @@
 			"IndexInAudio": 407,
 			"Interval": [211.8588662,212.3232653],
 			"Label": "E2--n8",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 233.5358978,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 232.4768295,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4890,11 +6518,15 @@
 			"IndexInAudio": 408,
 			"Interval": [212.4161451,212.7412245],
 			"Label": "E2--n9",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 213.8605194,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4902,11 +6534,15 @@
 			"IndexInAudio": 409,
 			"Interval": [212.8341043,213.0198639],
 			"Label": "E2--n10",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.3609924,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "G4",
@@ -4914,11 +6550,15 @@
 			"IndexInAudio": 410,
 			"Interval": [213.0663039,213.1591837],
 			"Label": "E2--n11",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 175.1450227,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 175.1697464,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "B4b1",
@@ -4926,11 +6566,15 @@
 			"IndexInAudio": 411,
 			"Interval": [213.2520635,213.4378231],
 			"Label": "E2--n12",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 218.7532889,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 214.8510895,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4938,11 +6582,15 @@
 			"IndexInAudio": 412,
 			"Interval": [213.5307029,213.8093424],
 			"Label": "E2--n13",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 200.2897186,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		},
 		{
 			"Symbol": "A4",
@@ -4950,11 +6598,15 @@
 			"IndexInAudio": 413,
 			"Interval": [213.9022222,214.8774603],
 			"Label": "E2--n14",
-			"Pitch": {
+			"TheoreticalPitch": {
 				"Value": 197.0226251,
-				"Unit": "Hz",
-				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
-			}
+				"Unit": "Hz"
+			},
+			"PerformedPitch": {
+				"Value": 197.7032928,
+				"Unit": "Hz"
+			},
+			"PitchTrajectory": "not_assigned"
 		}
 	]
 }
