@@ -8,7 +8,8 @@
 			"Label": "B1--n1",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -19,7 +20,8 @@
 			"Label": "B1--n2",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -30,7 +32,8 @@
 			"Label": "B1--n3",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -41,7 +44,8 @@
 			"Label": "B1--n4",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -52,7 +56,8 @@
 			"Label": "B1--n5",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -63,7 +68,8 @@
 			"Label": "B1--n6",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -74,7 +80,8 @@
 			"Label": "B1--n7",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -85,7 +92,8 @@
 			"Label": "B1--n8",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -96,7 +104,8 @@
 			"Label": "B1--n9",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -107,7 +116,8 @@
 			"Label": "B1--n10",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -118,7 +128,8 @@
 			"Label": "B1--n11",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -129,7 +140,8 @@
 			"Label": "B1--n12",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -140,7 +152,8 @@
 			"Label": "B1--n13",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -151,7 +164,8 @@
 			"Label": "B1--n14",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -162,7 +176,8 @@
 			"Label": "B1--n15",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -173,7 +188,8 @@
 			"Label": "B1--n16",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -184,7 +200,8 @@
 			"Label": "B1--n17",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -195,7 +212,8 @@
 			"Label": "B1--n18",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -206,7 +224,8 @@
 			"Label": "B1--n19",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -217,7 +236,8 @@
 			"Label": "B1--n20",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -228,7 +248,8 @@
 			"Label": "B1--n21",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -239,7 +260,8 @@
 			"Label": "B1--n22",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -250,7 +272,8 @@
 			"Label": "B1--n23",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -261,7 +284,8 @@
 			"Label": "B1--n24",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -272,7 +296,8 @@
 			"Label": "B1--n25",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -283,7 +308,8 @@
 			"Label": "B1--n26",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -294,7 +320,8 @@
 			"Label": "B1--n27",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -305,7 +332,8 @@
 			"Label": "B1--n28",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -316,7 +344,8 @@
 			"Label": "B1--n29",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -327,7 +356,8 @@
 			"Label": "B1--n30",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -338,7 +368,8 @@
 			"Label": "B1--n31",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -349,7 +380,8 @@
 			"Label": "B1--n32",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -360,7 +392,8 @@
 			"Label": "B1--n33",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -371,7 +404,8 @@
 			"Label": "B1--n34",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -382,7 +416,8 @@
 			"Label": "B1--n35",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -393,7 +428,8 @@
 			"Label": "B1--n36",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -404,7 +440,8 @@
 			"Label": "B1--n37",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -415,7 +452,8 @@
 			"Label": "B1--n38",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -426,7 +464,8 @@
 			"Label": "B1--n39",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -437,7 +476,8 @@
 			"Label": "B1--n40",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -448,7 +488,8 @@
 			"Label": "B1--n41",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -459,7 +500,8 @@
 			"Label": "B1--n42",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -470,7 +512,8 @@
 			"Label": "B1--n43",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -481,7 +524,8 @@
 			"Label": "B1--n44",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -492,7 +536,8 @@
 			"Label": "B1--n45",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -503,7 +548,8 @@
 			"Label": "B1--n46",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -514,7 +560,8 @@
 			"Label": "B1--n47",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -525,7 +572,8 @@
 			"Label": "B1--n48",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -536,7 +584,8 @@
 			"Label": "B1--n49",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -547,7 +596,8 @@
 			"Label": "B1--n50",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -558,7 +608,8 @@
 			"Label": "B1--n51",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -569,7 +620,8 @@
 			"Label": "B1--n52",
 			"Pitch": {
 				"Value": 236.3267101,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -580,7 +632,8 @@
 			"Label": "B1--n53",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -591,7 +644,8 @@
 			"Label": "B1--n54",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -602,7 +656,8 @@
 			"Label": "B1--n55",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -613,7 +668,8 @@
 			"Label": "B1--n56",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -624,7 +680,8 @@
 			"Label": "B1--n57",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -635,7 +692,8 @@
 			"Label": "B1--n58",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -646,7 +704,8 @@
 			"Label": "B1--n59",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -657,7 +716,8 @@
 			"Label": "B1--n60",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -668,7 +728,8 @@
 			"Label": "B1--n61",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -679,7 +740,8 @@
 			"Label": "B1--n62",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -690,7 +752,8 @@
 			"Label": "B1--n63",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -701,7 +764,8 @@
 			"Label": "B1--n64",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -712,7 +776,8 @@
 			"Label": "B1--n65",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -723,7 +788,8 @@
 			"Label": "B1--n66",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -734,7 +800,8 @@
 			"Label": "B1--n67",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -745,7 +812,8 @@
 			"Label": "B1--n68",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -756,7 +824,8 @@
 			"Label": "B1--n69",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -767,7 +836,8 @@
 			"Label": "B1--n70",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -778,7 +848,8 @@
 			"Label": "C2--n1",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -789,7 +860,8 @@
 			"Label": "C2--n2",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -800,7 +872,8 @@
 			"Label": "C2--n3",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -811,7 +884,8 @@
 			"Label": "C2--n4",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -822,7 +896,8 @@
 			"Label": "C2--n5",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -833,7 +908,8 @@
 			"Label": "C2--n6",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -844,7 +920,8 @@
 			"Label": "C2--n7",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -855,7 +932,8 @@
 			"Label": "C2--n8",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -866,7 +944,8 @@
 			"Label": "C2--n9",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -877,7 +956,8 @@
 			"Label": "C2--n10",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -888,7 +968,8 @@
 			"Label": "C2--n11",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -899,7 +980,8 @@
 			"Label": "C2--n12",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -910,7 +992,8 @@
 			"Label": "C2--n13",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -921,7 +1004,8 @@
 			"Label": "C2--n14",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -932,7 +1016,8 @@
 			"Label": "C2--n15",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -943,7 +1028,8 @@
 			"Label": "C2--n16",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -954,7 +1040,8 @@
 			"Label": "C2--n17",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -965,7 +1052,8 @@
 			"Label": "C2--n18",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -976,7 +1064,8 @@
 			"Label": "C2--n19",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -987,7 +1076,8 @@
 			"Label": "C2--n20",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -998,7 +1088,8 @@
 			"Label": "C2--n21",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1009,7 +1100,8 @@
 			"Label": "C2--n22",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1020,7 +1112,8 @@
 			"Label": "C2--n23",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1031,7 +1124,8 @@
 			"Label": "C2--n24",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1042,7 +1136,8 @@
 			"Label": "C2--n25",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1053,7 +1148,8 @@
 			"Label": "C2--n26",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1064,7 +1160,8 @@
 			"Label": "C2--n27",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1075,7 +1172,8 @@
 			"Label": "C2--n28",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1086,7 +1184,8 @@
 			"Label": "C2--n29",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1097,7 +1196,8 @@
 			"Label": "C2--n30",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1108,7 +1208,8 @@
 			"Label": "C2--n31",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1119,7 +1220,8 @@
 			"Label": "C2--n32",
 			"Pitch": {
 				"Value": 265.8466,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1130,7 +1232,8 @@
 			"Label": "C2--n33",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1141,7 +1244,8 @@
 			"Label": "C2--n34",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1152,7 +1256,8 @@
 			"Label": "C2--n35",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1163,7 +1268,8 @@
 			"Label": "C2--n36",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1174,7 +1280,8 @@
 			"Label": "C2--n37",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1185,7 +1292,8 @@
 			"Label": "C2--n38",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1196,7 +1304,8 @@
 			"Label": "C2--n39",
 			"Pitch": {
 				"Value": 202.0017232,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1207,7 +1316,8 @@
 			"Label": "C2--n40",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1218,7 +1328,8 @@
 			"Label": "C2--n41",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1229,7 +1340,8 @@
 			"Label": "C2--n42",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1240,7 +1352,8 @@
 			"Label": "C2--n43",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1251,7 +1364,8 @@
 			"Label": "C2--n44",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1262,7 +1376,8 @@
 			"Label": "C2--n45",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1273,7 +1388,8 @@
 			"Label": "C2--n46",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1284,7 +1400,8 @@
 			"Label": "C2--n47",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1295,7 +1412,8 @@
 			"Label": "C2--n48",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1306,7 +1424,8 @@
 			"Label": "C2--n49",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1317,7 +1436,8 @@
 			"Label": "C2--n50",
 			"Pitch": {
 				"Value": 168.2045413,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1328,7 +1448,8 @@
 			"Label": "C2--n51",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1339,7 +1460,8 @@
 			"Label": "C2--n52",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1350,7 +1472,8 @@
 			"Label": "C2--n53",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1361,7 +1484,8 @@
 			"Label": "C2--n54",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1372,7 +1496,8 @@
 			"Label": "C2--n55",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1383,7 +1508,8 @@
 			"Label": "C2--n56",
 			"Pitch": {
 				"Value": 315.114695,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1394,7 +1520,8 @@
 			"Label": "C2--n57",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1405,7 +1532,8 @@
 			"Label": "C2--n58",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1416,7 +1544,8 @@
 			"Label": "C2--n59",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1427,7 +1556,8 @@
 			"Label": "C2--n60",
 			"Pitch": {
 				"Value": 315.114695,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1438,7 +1568,8 @@
 			"Label": "C2--n61",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1449,7 +1580,8 @@
 			"Label": "C2--n62",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1460,7 +1592,8 @@
 			"Label": "C2--n63",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1471,7 +1604,8 @@
 			"Label": "C2--n64",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1482,7 +1616,8 @@
 			"Label": "C2--n65",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1493,7 +1628,8 @@
 			"Label": "C2--n66",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1504,7 +1640,8 @@
 			"Label": "C2--n67",
 			"Pitch": {
 				"Value": 448.5631159,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1515,7 +1652,8 @@
 			"Label": "C2--n68",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1526,7 +1664,8 @@
 			"Label": "C2--n69",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1537,7 +1676,8 @@
 			"Label": "D1--n1",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1548,7 +1688,8 @@
 			"Label": "D1--n2",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1559,7 +1700,8 @@
 			"Label": "D1--n3",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1570,7 +1712,8 @@
 			"Label": "D1--n4",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1581,7 +1724,8 @@
 			"Label": "D1--n5",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1592,7 +1736,8 @@
 			"Label": "D1--n6",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1603,7 +1748,8 @@
 			"Label": "D1--n7",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1614,7 +1760,8 @@
 			"Label": "D1--n8",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1625,7 +1772,8 @@
 			"Label": "D1--n9",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1636,7 +1784,8 @@
 			"Label": "D1--n10",
 			"Pitch": {
 				"Value": 448.5631159,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1647,7 +1796,8 @@
 			"Label": "D1--n11",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1658,7 +1808,8 @@
 			"Label": "D1--n12",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1669,7 +1820,8 @@
 			"Label": "D1--n13",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1680,7 +1832,8 @@
 			"Label": "D1--n14",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1691,7 +1844,8 @@
 			"Label": "D1--n15",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1702,7 +1856,8 @@
 			"Label": "D1--n16",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1713,7 +1868,8 @@
 			"Label": "D1--n17",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1724,7 +1880,8 @@
 			"Label": "D1--n18",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1735,7 +1892,8 @@
 			"Label": "D1--n19",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1746,7 +1904,8 @@
 			"Label": "D1--n20",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1757,7 +1916,8 @@
 			"Label": "D1--n21",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1768,7 +1928,8 @@
 			"Label": "D1--n22",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1779,7 +1940,8 @@
 			"Label": "D1--n23",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1790,7 +1952,8 @@
 			"Label": "D1--n24",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1801,7 +1964,8 @@
 			"Label": "D1--n25",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1812,7 +1976,8 @@
 			"Label": "D1--n26",
 			"Pitch": {
 				"Value": 315.114695,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1823,7 +1988,8 @@
 			"Label": "D1--n27",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1834,7 +2000,8 @@
 			"Label": "D1--n28",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1845,7 +2012,8 @@
 			"Label": "D1--n29",
 			"Pitch": {
 				"Value": 404.0034465,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1856,7 +2024,8 @@
 			"Label": "D1--n30",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1867,7 +2036,8 @@
 			"Label": "D1--n31",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1878,7 +2048,8 @@
 			"Label": "D1--n32",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1889,7 +2060,8 @@
 			"Label": "D1--n33",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1900,7 +2072,8 @@
 			"Label": "D1--n34",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1911,7 +2084,8 @@
 			"Label": "D1--n35",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1922,7 +2096,8 @@
 			"Label": "D1--n36",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1933,7 +2108,8 @@
 			"Label": "D1--n37",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1944,7 +2120,8 @@
 			"Label": "D1--n38",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1955,7 +2132,8 @@
 			"Label": "D1--n39",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1966,7 +2144,8 @@
 			"Label": "D1--n40",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1977,7 +2156,8 @@
 			"Label": "D1--n41",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1988,7 +2168,8 @@
 			"Label": "D1--n42",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -1999,7 +2180,8 @@
 			"Label": "D1--n43",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2010,7 +2192,8 @@
 			"Label": "D1--n44",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2021,7 +2204,8 @@
 			"Label": "D1--n45",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2032,7 +2216,8 @@
 			"Label": "D1--n46",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2043,7 +2228,8 @@
 			"Label": "D1--n47",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2054,7 +2240,8 @@
 			"Label": "D1--n48",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2065,7 +2252,8 @@
 			"Label": "D1--n49",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2076,7 +2264,8 @@
 			"Label": "D1--n50",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2087,7 +2276,8 @@
 			"Label": "D1--n51",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2098,7 +2288,8 @@
 			"Label": "D1--n52",
 			"Pitch": {
 				"Value": 236.3267101,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2109,7 +2300,8 @@
 			"Label": "D1--n53",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2120,7 +2312,8 @@
 			"Label": "D1--n54",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2131,7 +2324,8 @@
 			"Label": "D1--n55",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2142,7 +2336,8 @@
 			"Label": "D1--n56",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2153,7 +2348,8 @@
 			"Label": "D1--n57",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2164,7 +2360,8 @@
 			"Label": "D1--n58",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2175,7 +2372,8 @@
 			"Label": "D1--n59",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2186,7 +2384,8 @@
 			"Label": "D1--n60",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2197,7 +2396,8 @@
 			"Label": "D1--n61",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2208,7 +2408,8 @@
 			"Label": "D1--n62",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2219,7 +2420,8 @@
 			"Label": "D1--n63",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2230,7 +2432,8 @@
 			"Label": "D1--n64",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2241,7 +2444,8 @@
 			"Label": "D1--n65",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2252,7 +2456,8 @@
 			"Label": "D1--n66",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2263,7 +2468,8 @@
 			"Label": "D1--n67",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2274,7 +2480,8 @@
 			"Label": "D1--n68",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2285,7 +2492,8 @@
 			"Label": "D1--n69",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2296,7 +2504,8 @@
 			"Label": "D1--n70",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2307,7 +2516,8 @@
 			"Label": "C2--n1",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2318,7 +2528,8 @@
 			"Label": "C2--n2",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2329,7 +2540,8 @@
 			"Label": "C2--n3",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2340,7 +2552,8 @@
 			"Label": "C2--n4",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2351,7 +2564,8 @@
 			"Label": "C2--n5",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2362,7 +2576,8 @@
 			"Label": "C2--n6",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2373,7 +2588,8 @@
 			"Label": "C2--n7",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2384,7 +2600,8 @@
 			"Label": "C2--n8",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2395,7 +2612,8 @@
 			"Label": "C2--n9",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2406,7 +2624,8 @@
 			"Label": "C2--n10",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2417,7 +2636,8 @@
 			"Label": "C2--n11",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2428,7 +2648,8 @@
 			"Label": "C2--n12",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2439,7 +2660,8 @@
 			"Label": "C2--n13",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2450,7 +2672,8 @@
 			"Label": "C2--n14",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2461,7 +2684,8 @@
 			"Label": "C2--n15",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2472,7 +2696,8 @@
 			"Label": "C2--n16",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2483,7 +2708,8 @@
 			"Label": "C2--n17",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2494,7 +2720,8 @@
 			"Label": "C2--n18",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2505,7 +2732,8 @@
 			"Label": "C2--n19",
 			"Pitch": {
 				"Value": 299.0538594,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2516,7 +2744,8 @@
 			"Label": "C2--n20",
 			"Pitch": {
 				"Value": 283.811616,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2527,7 +2756,8 @@
 			"Label": "C2--n21",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2538,7 +2768,8 @@
 			"Label": "C2--n22",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2549,7 +2780,8 @@
 			"Label": "C2--n23",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2560,7 +2792,8 @@
 			"Label": "C2--n24",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2571,7 +2804,8 @@
 			"Label": "C2--n25",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2582,7 +2816,8 @@
 			"Label": "C2--n26",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2593,7 +2828,8 @@
 			"Label": "C2--n27",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2604,7 +2840,8 @@
 			"Label": "C2--n28",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2615,7 +2852,8 @@
 			"Label": "C2--n29",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2626,7 +2864,8 @@
 			"Label": "C2--n30",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2637,7 +2876,8 @@
 			"Label": "C2--n31",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2648,7 +2888,8 @@
 			"Label": "C2--n32",
 			"Pitch": {
 				"Value": 265.8466,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2659,7 +2900,8 @@
 			"Label": "C2--n33",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2670,7 +2912,8 @@
 			"Label": "C2--n34",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2681,7 +2924,8 @@
 			"Label": "C2--n35",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2692,7 +2936,8 @@
 			"Label": "C2--n36",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2703,7 +2948,8 @@
 			"Label": "C2--n37",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2714,7 +2960,8 @@
 			"Label": "C2--n38",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2725,7 +2972,8 @@
 			"Label": "C2--n39",
 			"Pitch": {
 				"Value": 202.0017232,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2736,7 +2984,8 @@
 			"Label": "C2--n40",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2747,7 +2996,8 @@
 			"Label": "C2--n41",
 			"Pitch": {
 				"Value": 210.0847402,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2758,7 +3008,8 @@
 			"Label": "C2--n42",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2769,7 +3020,8 @@
 			"Label": "C2--n43",
 			"Pitch": {
 				"Value": 252.2968716,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2780,7 +3032,8 @@
 			"Label": "C2--n44",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2791,7 +3044,8 @@
 			"Label": "C2--n45",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2802,7 +3056,8 @@
 			"Label": "C2--n46",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2813,7 +3068,8 @@
 			"Label": "C2--n47",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2824,7 +3080,8 @@
 			"Label": "C2--n48",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2835,7 +3092,8 @@
 			"Label": "C2--n49",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2846,7 +3104,8 @@
 			"Label": "C2--n50",
 			"Pitch": {
 				"Value": 168.2045413,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2857,7 +3116,8 @@
 			"Label": "C2--n51",
 			"Pitch": {
 				"Value": 224.281558,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2868,7 +3128,8 @@
 			"Label": "C2--n52",
 			"Pitch": {
 				"Value": 199.3770946,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2879,7 +3140,8 @@
 			"Label": "C2--n53",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2890,7 +3152,8 @@
 			"Label": "C2--n54",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2901,7 +3164,8 @@
 			"Label": "C2--n55",
 			"Pitch": {
 				"Value": 189.2151987,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2912,7 +3176,8 @@
 			"Label": "C2--n56",
 			"Pitch": {
 				"Value": 315.114695,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2923,7 +3188,8 @@
 			"Label": "C2--n57",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2934,7 +3200,8 @@
 			"Label": "C2--n58",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2945,7 +3212,8 @@
 			"Label": "C2--n59",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2956,7 +3224,8 @@
 			"Label": "C2--n60",
 			"Pitch": {
 				"Value": 315.114695,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2967,7 +3236,8 @@
 			"Label": "C2--n61",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2978,7 +3248,8 @@
 			"Label": "C2--n62",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -2989,7 +3260,8 @@
 			"Label": "C2--n63",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3000,7 +3272,8 @@
 			"Label": "C2--n64",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3011,7 +3284,8 @@
 			"Label": "C2--n65",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3022,7 +3296,8 @@
 			"Label": "C2--n66",
 			"Pitch": {
 				"Value": 336.4090826,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3033,7 +3308,8 @@
 			"Label": "C2--n67",
 			"Pitch": {
 				"Value": 448.5631159,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3044,7 +3320,8 @@
 			"Label": "C2--n68",
 			"Pitch": {
 				"Value": 398.7541893,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		},
 		{
@@ -3055,7 +3332,8 @@
 			"Label": "C2--n69",
 			"Pitch": {
 				"Value": 378.4303974,
-				"Unit": "Hz"
+				"Unit": "Hz",
+				"comment": "Theoretical frequency of the note symbol according to the performed ftonic frequency."
 			}
 		}
 	]
