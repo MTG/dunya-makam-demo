@@ -7,9 +7,8 @@
 			"Interval": [1.718276644,1.9969161],
 			"Label": "1-HANE_1--n1",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -19,9 +18,8 @@
 			"Interval": [2.043356009,2.275555556],
 			"Label": "1-HANE_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -31,9 +29,8 @@
 			"Interval": [2.321995465,2.507755102],
 			"Label": "1-HANE_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -43,9 +40,8 @@
 			"Interval": [2.554195011,2.554195011],
 			"Label": "1-HANE_1--n4",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -55,9 +51,8 @@
 			"Interval": [2.600634921,2.693514739],
 			"Label": "1-HANE_1--n5",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -67,9 +62,8 @@
 			"Interval": [2.786394558,2.832834467],
 			"Label": "1-HANE_1--n6",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -79,9 +73,8 @@
 			"Interval": [2.925714286,3.065034014],
 			"Label": "1-HANE_1--n7",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -91,9 +84,8 @@
 			"Interval": [3.111473923,3.157913832],
 			"Label": "1-HANE_1--n8",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -103,9 +95,8 @@
 			"Interval": [3.250793651,3.436553288],
 			"Label": "1-HANE_1--n9",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -115,9 +106,8 @@
 			"Interval": [3.529433107,3.715192744],
 			"Label": "1-HANE_1--n10",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -127,9 +117,8 @@
 			"Interval": [3.808072562,4.458231293],
 			"Label": "1-HANE_1--n11",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -139,9 +128,8 @@
 			"Interval": [4.551111111,4.736870748],
 			"Label": "1-HANE_1--n12",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -151,9 +139,8 @@
 			"Interval": [4.783310658,4.922630385],
 			"Label": "1-HANE_1--n13",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -163,9 +150,8 @@
 			"Interval": [4.969070295,5.247709751],
 			"Label": "1-HANE_1--n14",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -175,9 +161,8 @@
 			"Interval": [5.29414966,5.572789116],
 			"Label": "1-HANE_1--n15",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -187,9 +172,8 @@
 			"Interval": [5.897868481,6.130068027],
 			"Label": "1-HANE_1--n16",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -199,9 +183,8 @@
 			"Interval": [6.222947846,6.269387755],
 			"Label": "1-HANE_1--n17",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -211,9 +194,8 @@
 			"Interval": [6.315827664,6.501587302],
 			"Label": "1-HANE_1--n18",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -223,9 +205,8 @@
 			"Interval": [6.780226757,6.965986395],
 			"Label": "1-HANE_1--n19",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -235,9 +216,8 @@
 			"Interval": [7.012426304,7.24462585],
 			"Label": "1-HANE_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -247,9 +227,8 @@
 			"Interval": [7.337505669,7.616145125],
 			"Label": "1-HANE_1--n21",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -259,9 +238,8 @@
 			"Interval": [7.709024943,8.312743764],
 			"Label": "1-HANE_1--n22",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -271,9 +249,8 @@
 			"Interval": [8.544943311,9.055782313],
 			"Label": "1-HANE_1--n23",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -283,9 +260,8 @@
 			"Interval": [9.102222222,9.102222222],
 			"Label": "1-HANE_1--n24",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -295,9 +271,8 @@
 			"Interval": [9.148662132,9.195102041],
 			"Label": "1-HANE_1--n25",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -307,9 +282,8 @@
 			"Interval": [9.287981859,9.613061224],
 			"Label": "1-HANE_1--n26",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -319,9 +293,8 @@
 			"Interval": [9.659501134,9.798820862],
 			"Label": "1-HANE_1--n27",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -331,9 +304,8 @@
 			"Interval": [9.89170068,10.21678005],
 			"Label": "1-HANE_1--n28",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -343,9 +315,8 @@
 			"Interval": [10.30965986,10.44897959],
 			"Label": "1-HANE_1--n29",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -355,9 +326,8 @@
 			"Interval": [10.58829932,10.86693878],
 			"Label": "1-HANE_1--n30",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -367,9 +337,8 @@
 			"Interval": [10.95981859,11.28489796],
 			"Label": "1-HANE_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -379,9 +348,8 @@
 			"Interval": [11.33133787,11.65641723],
 			"Label": "1-HANE_1--n32",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -391,9 +359,8 @@
 			"Interval": [11.74929705,12.53877551],
 			"Label": "1-HANE_1--n33",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -403,9 +370,8 @@
 			"Interval": [12.58521542,12.77097506],
 			"Label": "1-HANE_1--n34",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -415,9 +381,8 @@
 			"Interval": [12.86385488,13.04961451],
 			"Label": "1-HANE_1--n35",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -427,9 +392,8 @@
 			"Interval": [13.14249433,13.32825397],
 			"Label": "1-HANE_1--n36",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -439,9 +403,8 @@
 			"Interval": [13.42113379,13.65333333],
 			"Label": "1-HANE_1--n37",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -451,9 +414,8 @@
 			"Interval": [13.74621315,13.93197279],
 			"Label": "1-HANE_1--n38",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -463,9 +425,8 @@
 			"Interval": [14.02485261,14.16417234],
 			"Label": "1-HANE_1--n39",
 			"Pitch": {
-				"Value": 815.0943396,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 197.0333618,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -475,9 +436,8 @@
 			"Interval": [14.25705215,14.44281179],
 			"Label": "1-HANE_1--n40",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -487,9 +447,8 @@
 			"Interval": [14.4892517,14.4892517],
 			"Label": "1-HANE_1--n41",
 			"Pitch": {
-				"Value": 815.0943396,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 197.0333618,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -499,9 +458,8 @@
 			"Interval": [14.53569161,14.81433107],
 			"Label": "1-HANE_1--n42",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -511,9 +469,8 @@
 			"Interval": [14.90721088,14.90721088],
 			"Label": "1-HANE_1--n43",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -523,9 +480,8 @@
 			"Interval": [15.0000907,15.0000907],
 			"Label": "1-HANE_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -535,9 +491,8 @@
 			"Interval": [15.83600907,16.02176871],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -547,9 +502,8 @@
 			"Interval": [16.11464853,16.53260771],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -559,9 +513,8 @@
 			"Interval": [16.57904762,16.9970068],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -571,9 +524,8 @@
 			"Interval": [17.08988662,17.22920635],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -583,9 +535,8 @@
 			"Interval": [17.32208617,17.36852608],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -595,9 +546,8 @@
 			"Interval": [17.41496599,17.4614059],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -607,9 +557,8 @@
 			"Interval": [17.5078458,17.55428571],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -619,9 +568,8 @@
 			"Interval": [17.60072562,17.87936508],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -631,9 +579,8 @@
 			"Interval": [17.92580499,18.06512472],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -643,9 +590,8 @@
 			"Interval": [18.11156463,18.15800454],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -655,9 +601,8 @@
 			"Interval": [18.20444444,18.25088435],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -667,9 +612,8 @@
 			"Interval": [18.66884354,18.66884354],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -679,9 +623,8 @@
 			"Interval": [18.71528345,18.76172336],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -691,9 +634,8 @@
 			"Interval": [18.80816327,18.94748299],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -703,9 +645,8 @@
 			"Interval": [19.04036281,19.31900227],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -715,9 +656,8 @@
 			"Interval": [19.41188209,19.73696145],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -727,9 +667,8 @@
 			"Interval": [19.78340136,19.82984127],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -739,9 +678,8 @@
 			"Interval": [20.01560091,20.06204082],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -751,9 +689,8 @@
 			"Interval": [20.15492063,20.43356009],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -763,9 +700,8 @@
 			"Interval": [20.52643991,20.61931973],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -775,9 +711,8 @@
 			"Interval": [20.71219955,20.75863946],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -787,9 +722,8 @@
 			"Interval": [20.80507937,21.13015873],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -799,9 +733,8 @@
 			"Interval": [21.22303855,21.40879819],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -811,9 +744,8 @@
 			"Interval": [21.4552381,21.501678],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -823,9 +755,8 @@
 			"Interval": [21.54811791,21.64099773],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -835,9 +766,8 @@
 			"Interval": [21.68743764,21.82675737],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -847,9 +777,8 @@
 			"Interval": [21.91963719,22.19827664],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -859,9 +788,8 @@
 			"Interval": [22.29115646,22.56979592],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -871,9 +799,8 @@
 			"Interval": [22.61623583,22.61623583],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -883,9 +810,8 @@
 			"Interval": [22.66267574,22.75555556],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -895,9 +821,8 @@
 			"Interval": [22.84843537,23.03419501],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -907,9 +832,8 @@
 			"Interval": [23.12707483,24.00943311],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -919,9 +843,8 @@
 			"Interval": [24.05587302,24.24163265],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -931,9 +854,8 @@
 			"Interval": [24.33451247,24.38095238],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -943,9 +865,8 @@
 			"Interval": [24.42739229,24.61315193],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -955,9 +876,8 @@
 			"Interval": [24.65959184,24.70603175],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -967,9 +887,8 @@
 			"Interval": [24.75247166,25.17043084],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -979,9 +898,8 @@
 			"Interval": [25.21687075,25.54195011],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -991,9 +909,8 @@
 			"Interval": [25.63482993,25.91346939],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1003,9 +920,8 @@
 			"Interval": [25.9599093,26.23854875],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1015,9 +931,8 @@
 			"Interval": [26.33142857,26.61006803],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1027,9 +942,8 @@
 			"Interval": [26.70294785,27.02802721],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1039,9 +953,8 @@
 			"Interval": [27.07446712,27.53886621],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1051,9 +964,8 @@
 			"Interval": [27.58530612,27.77106576],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1063,9 +975,8 @@
 			"Interval": [27.86394558,28.14258503],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1075,9 +986,8 @@
 			"Interval": [28.18902494,28.51410431],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1087,9 +997,8 @@
 			"Interval": [28.60698413,28.93206349],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1099,9 +1008,8 @@
 			"Interval": [28.9785034,29.21070295],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1111,9 +1019,8 @@
 			"Interval": [29.30358277,29.4893424],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1123,9 +1030,8 @@
 			"Interval": [29.58222222,30.00018141],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1135,9 +1041,8 @@
 			"Interval": [30.09306122,30.32526077],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1147,9 +1052,8 @@
 			"Interval": [30.41814059,30.55746032],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1159,9 +1063,8 @@
 			"Interval": [30.65034014,30.78965986],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1171,9 +1074,8 @@
 			"Interval": [30.83609977,30.88253968],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1183,9 +1085,8 @@
 			"Interval": [30.9754195,31.11473923],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1195,9 +1096,8 @@
 			"Interval": [31.16117914,31.20761905],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1207,9 +1107,8 @@
 			"Interval": [31.30049887,31.34693878],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1219,9 +1118,8 @@
 			"Interval": [31.39337868,31.90421769],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1231,9 +1129,8 @@
 			"Interval": [31.99709751,32.36861678],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1243,9 +1140,8 @@
 			"Interval": [32.4614966,32.55437642],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1255,9 +1151,8 @@
 			"Interval": [32.64725624,32.92589569],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1267,9 +1162,8 @@
 			"Interval": [33.01877551,33.06521542],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1279,9 +1173,8 @@
 			"Interval": [33.06521542,33.06521542],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1291,9 +1184,8 @@
 			"Interval": [33.06521542,33.06521542],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1303,9 +1195,8 @@
 			"Interval": [33.11165533,33.11165533],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1315,9 +1206,8 @@
 			"Interval": [34.13333333,34.27265306],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1327,9 +1217,8 @@
 			"Interval": [34.31909297,34.59773243],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1339,9 +1228,8 @@
 			"Interval": [34.69061224,34.9692517],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1351,9 +1239,8 @@
 			"Interval": [35.06213152,35.29433107],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1363,9 +1250,8 @@
 			"Interval": [35.34077098,35.43365079],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1375,9 +1261,8 @@
 			"Interval": [35.4800907,35.52653061],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1387,9 +1272,8 @@
 			"Interval": [35.57297052,35.71229025],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1399,9 +1283,8 @@
 			"Interval": [35.75873016,35.80517007],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1411,9 +1294,8 @@
 			"Interval": [35.89804989,36.08380952],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1423,9 +1305,8 @@
 			"Interval": [36.17668934,36.22312925],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1435,9 +1316,8 @@
 			"Interval": [36.50176871,36.54820862],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1447,9 +1327,8 @@
 			"Interval": [36.59464853,36.64108844],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1459,9 +1338,8 @@
 			"Interval": [36.68752834,36.73396825],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1471,9 +1349,8 @@
 			"Interval": [36.82684807,36.9661678],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1483,9 +1360,8 @@
 			"Interval": [37.01260771,37.4770068],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1495,9 +1371,8 @@
 			"Interval": [37.52344671,37.61632653],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1507,9 +1382,8 @@
 			"Interval": [37.66276644,38.08072562],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1519,9 +1393,8 @@
 			"Interval": [38.17360544,38.22004535],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1531,9 +1404,8 @@
 			"Interval": [38.26648526,38.54512472],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1543,9 +1415,8 @@
 			"Interval": [38.59156463,38.73088435],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1555,9 +1426,8 @@
 			"Interval": [38.82376417,39.00952381],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1567,9 +1437,8 @@
 			"Interval": [39.05596372,39.14884354],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1579,9 +1448,8 @@
 			"Interval": [39.19528345,39.42748299],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1591,9 +1459,8 @@
 			"Interval": [39.52036281,39.56680272],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1603,9 +1470,8 @@
 			"Interval": [39.65968254,39.89188209],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1615,9 +1481,8 @@
 			"Interval": [39.9847619,40.17052154],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1627,9 +1492,8 @@
 			"Interval": [40.21696145,40.26340136],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1639,9 +1503,8 @@
 			"Interval": [40.35628118,40.40272109],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1651,9 +1514,8 @@
 			"Interval": [40.449161,40.49560091],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1663,9 +1525,8 @@
 			"Interval": [40.58848073,40.86712018],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1675,9 +1536,8 @@
 			"Interval": [40.96,41.05287982],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1687,9 +1547,8 @@
 			"Interval": [41.14575964,42.07455782],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1699,9 +1558,8 @@
 			"Interval": [42.16743764,42.30675737],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1711,9 +1569,8 @@
 			"Interval": [42.39963719,42.58539683],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1723,9 +1580,8 @@
 			"Interval": [42.63183673,43.00335601],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1735,9 +1591,8 @@
 			"Interval": [43.09623583,43.14267574],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1747,9 +1602,8 @@
 			"Interval": [43.18911565,43.32843537],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1759,9 +1613,8 @@
 			"Interval": [43.37487528,43.60707483],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1771,9 +1624,8 @@
 			"Interval": [43.79283447,44.07147392],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1783,9 +1635,8 @@
 			"Interval": [44.16435374,44.39655329],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1795,9 +1646,8 @@
 			"Interval": [44.48943311,44.76807256],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1807,9 +1657,8 @@
 			"Interval": [44.86095238,45.18603175],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1819,9 +1668,8 @@
 			"Interval": [45.27891156,45.65043084],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1831,9 +1679,8 @@
 			"Interval": [45.69687075,45.88263039],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1843,9 +1690,8 @@
 			"Interval": [45.9755102,46.25414966],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1855,9 +1701,8 @@
 			"Interval": [46.30058957,46.62566893],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1867,9 +1712,8 @@
 			"Interval": [46.67210884,46.9507483],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1879,9 +1723,8 @@
 			"Interval": [46.99718821,47.13650794],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1891,9 +1734,8 @@
 			"Interval": [47.18294785,47.36870748],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1903,9 +1745,8 @@
 			"Interval": [47.4615873,48.01886621],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1915,9 +1756,8 @@
 			"Interval": [48.11174603,48.4368254],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1927,9 +1767,8 @@
 			"Interval": [48.52970522,48.66902494],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1939,9 +1778,8 @@
 			"Interval": [48.76190476,48.80834467],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1951,9 +1789,8 @@
 			"Interval": [48.90122449,49.04054422],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1963,9 +1800,8 @@
 			"Interval": [49.08698413,49.36562358],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1975,9 +1811,8 @@
 			"Interval": [49.41206349,49.41206349],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1987,9 +1822,8 @@
 			"Interval": [49.4585034,49.83002268],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -1999,9 +1833,8 @@
 			"Interval": [49.92290249,50.20154195],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2011,9 +1844,8 @@
 			"Interval": [50.24798186,50.38730159],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2023,9 +1855,8 @@
 			"Interval": [50.48018141,50.48018141],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2035,9 +1866,8 @@
 			"Interval": [50.52662132,50.66594104],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2047,9 +1877,8 @@
 			"Interval": [50.75882086,50.99102041],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2059,9 +1888,8 @@
 			"Interval": [51.08390023,51.36253968],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2071,9 +1899,8 @@
 			"Interval": [51.4554195,51.73405896],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2083,9 +1910,8 @@
 			"Interval": [51.82693878,51.82693878],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2095,9 +1921,8 @@
 			"Interval": [52.52353741,53.17369615],
 			"Label": "2-HANE_1--n1",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2107,9 +1932,8 @@
 			"Interval": [53.26657596,53.35945578],
 			"Label": "2-HANE_1--n2",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2119,9 +1943,8 @@
 			"Interval": [53.4523356,53.73097506],
 			"Label": "2-HANE_1--n3",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2131,9 +1954,8 @@
 			"Interval": [53.82385488,54.38113379],
 			"Label": "2-HANE_1--n4",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2143,9 +1965,8 @@
 			"Interval": [54.47401361,54.61333333],
 			"Label": "2-HANE_1--n5",
 			"Pitch": {
-				"Value": 1290.566038,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 259.307933,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2155,9 +1976,8 @@
 			"Interval": [54.65977324,54.79909297],
 			"Label": "2-HANE_1--n6",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2167,9 +1987,8 @@
 			"Interval": [54.84553288,54.89197279],
 			"Label": "2-HANE_1--n7",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2179,9 +1998,8 @@
 			"Interval": [54.9384127,54.98485261],
 			"Label": "2-HANE_1--n8",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2191,9 +2009,8 @@
 			"Interval": [55.03129252,55.07773243],
 			"Label": "2-HANE_1--n9",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2203,9 +2020,8 @@
 			"Interval": [55.12417234,55.77433107],
 			"Label": "2-HANE_1--n10",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2215,9 +2031,8 @@
 			"Interval": [55.86721088,56.00653061],
 			"Label": "2-HANE_1--n11",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2227,9 +2042,8 @@
 			"Interval": [56.09941043,56.33160998],
 			"Label": "2-HANE_1--n12",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2239,9 +2053,8 @@
 			"Interval": [56.37804989,56.47092971],
 			"Label": "2-HANE_1--n13",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2251,9 +2064,8 @@
 			"Interval": [56.51736961,56.65668934],
 			"Label": "2-HANE_1--n14",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2263,9 +2075,8 @@
 			"Interval": [56.70312925,56.74956916],
 			"Label": "2-HANE_1--n15",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2275,9 +2086,8 @@
 			"Interval": [56.79600907,56.84244898],
 			"Label": "2-HANE_1--n16",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2287,9 +2097,8 @@
 			"Interval": [56.9353288,57.07464853],
 			"Label": "2-HANE_1--n17",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2299,9 +2108,8 @@
 			"Interval": [57.21396825,57.58548753],
 			"Label": "2-HANE_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2311,9 +2119,8 @@
 			"Interval": [57.63192744,57.81768707],
 			"Label": "2-HANE_1--n19",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2323,9 +2130,8 @@
 			"Interval": [57.91056689,58.04988662],
 			"Label": "2-HANE_1--n20",
 			"Pitch": {
-				"Value": 1290.566038,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 259.307933,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2335,9 +2141,8 @@
 			"Interval": [58.14276644,58.37496599],
 			"Label": "2-HANE_1--n21",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2347,9 +2152,8 @@
 			"Interval": [58.4678458,58.60716553],
 			"Label": "2-HANE_1--n22",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2359,9 +2163,8 @@
 			"Interval": [58.70004535,58.74648526],
 			"Label": "2-HANE_1--n23",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2371,9 +2174,8 @@
 			"Interval": [58.83936508,60.04680272],
 			"Label": "2-HANE_1--n24",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2383,9 +2185,8 @@
 			"Interval": [60.13968254,60.60408163],
 			"Label": "2-HANE_1--n25",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2395,9 +2196,8 @@
 			"Interval": [60.69696145,60.97560091],
 			"Label": "2-HANE_1--n26",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2407,9 +2207,8 @@
 			"Interval": [61.02204082,61.06848073],
 			"Label": "2-HANE_1--n27",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2419,9 +2218,8 @@
 			"Interval": [61.11492063,61.20780045],
 			"Label": "2-HANE_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2431,9 +2229,8 @@
 			"Interval": [61.25424036,61.53287982],
 			"Label": "2-HANE_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2443,9 +2240,8 @@
 			"Interval": [61.57931973,61.85795918],
 			"Label": "2-HANE_1--n30",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2455,9 +2251,8 @@
 			"Interval": [61.950839,62.461678],
 			"Label": "2-HANE_1--n31",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2467,9 +2262,8 @@
 			"Interval": [62.55455782,62.69387755],
 			"Label": "2-HANE_1--n32",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2479,9 +2273,8 @@
 			"Interval": [62.78675737,63.57623583],
 			"Label": "2-HANE_1--n33",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2491,9 +2284,8 @@
 			"Interval": [63.62267574,63.71555556],
 			"Label": "2-HANE_1--n34",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2503,9 +2295,8 @@
 			"Interval": [63.80843537,63.9477551],
 			"Label": "2-HANE_1--n35",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2515,9 +2306,8 @@
 			"Interval": [64.04063492,64.69079365],
 			"Label": "2-HANE_1--n36",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2527,9 +2317,8 @@
 			"Interval": [64.73723356,65.10875283],
 			"Label": "2-HANE_1--n37",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2539,9 +2328,8 @@
 			"Interval": [65.15519274,65.29451247],
 			"Label": "2-HANE_1--n38",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2551,9 +2339,8 @@
 			"Interval": [65.38739229,65.57315193],
 			"Label": "2-HANE_1--n39",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2563,9 +2350,8 @@
 			"Interval": [65.61959184,65.66603175],
 			"Label": "2-HANE_1--n40",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2575,9 +2361,8 @@
 			"Interval": [65.71247166,65.9446712],
 			"Label": "2-HANE_1--n41",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2587,9 +2372,8 @@
 			"Interval": [66.13043084,66.31619048],
 			"Label": "2-HANE_1--n42",
 			"Pitch": {
-				"Value": 883.0188679,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 204.9175718,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2599,9 +2383,8 @@
 			"Interval": [66.40907029,66.78058957],
 			"Label": "2-HANE_1--n43",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2611,9 +2394,8 @@
 			"Interval": [66.87346939,67.05922902],
 			"Label": "2-HANE_1--n44",
 			"Pitch": {
-				"Value": 611.3207547,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 175.1545672,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2623,9 +2405,8 @@
 			"Interval": [67.05922902,67.05922902],
 			"Label": "2-HANE_1--n45",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2635,9 +2416,8 @@
 			"Interval": [67.05922902,67.05922902],
 			"Label": "2-HANE_1--n46",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2647,9 +2427,8 @@
 			"Interval": [67.15210884,67.15210884],
 			"Label": "2-HANE_1--n47",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2659,9 +2438,8 @@
 			"Interval": [67.98802721,68.12734694],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2671,9 +2449,8 @@
 			"Interval": [68.17378685,68.35954649],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2683,9 +2460,8 @@
 			"Interval": [68.40598639,68.96326531],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2695,9 +2471,8 @@
 			"Interval": [69.05614512,69.24190476],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2707,9 +2482,8 @@
 			"Interval": [69.28834467,69.33478458],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2719,9 +2493,8 @@
 			"Interval": [69.38122449,69.38122449],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2731,9 +2504,8 @@
 			"Interval": [69.4276644,69.56698413],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2743,9 +2515,8 @@
 			"Interval": [69.70630385,69.79918367],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2755,9 +2526,8 @@
 			"Interval": [69.89206349,70.03138322],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2767,9 +2537,8 @@
 			"Interval": [70.07782313,70.12426304],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2779,9 +2548,8 @@
 			"Interval": [70.17070295,70.17070295],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2791,9 +2559,8 @@
 			"Interval": [70.21714286,70.58866213],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2803,9 +2570,8 @@
 			"Interval": [70.68154195,70.77442177],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2815,9 +2581,8 @@
 			"Interval": [70.82086168,70.96018141],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2827,9 +2592,8 @@
 			"Interval": [71.05306122,71.51746032],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2839,9 +2603,8 @@
 			"Interval": [71.61034014,71.88897959],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2851,9 +2614,8 @@
 			"Interval": [71.98185941,72.12117914],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2863,9 +2625,8 @@
 			"Interval": [72.35337868,72.63201814],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2875,9 +2636,8 @@
 			"Interval": [72.86421769,73.32861678],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2887,9 +2647,8 @@
 			"Interval": [73.37505669,73.51437642],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2899,9 +2658,8 @@
 			"Interval": [73.65369615,73.79301587],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2911,9 +2669,8 @@
 			"Interval": [73.83945578,73.9323356],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2923,9 +2680,8 @@
 			"Interval": [73.97877551,74.02521542],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2935,9 +2691,8 @@
 			"Interval": [74.07165533,74.11809524],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2947,9 +2702,8 @@
 			"Interval": [74.16453515,74.25741497],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2959,9 +2713,8 @@
 			"Interval": [74.30385488,74.39673469],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2971,9 +2724,8 @@
 			"Interval": [74.4431746,74.4431746],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2983,9 +2735,8 @@
 			"Interval": [74.48961451,74.72181406],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -2995,9 +2746,8 @@
 			"Interval": [74.76825397,74.76825397],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3007,9 +2757,8 @@
 			"Interval": [74.81469388,74.9075737],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3019,9 +2768,8 @@
 			"Interval": [74.95401361,75.04689342],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3031,9 +2779,8 @@
 			"Interval": [75.13977324,76.06857143],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3043,9 +2790,8 @@
 			"Interval": [76.16145125,76.34721088],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3055,9 +2801,8 @@
 			"Interval": [76.39365079,76.4400907],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3067,9 +2812,8 @@
 			"Interval": [76.48653061,76.71873016],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3079,9 +2823,8 @@
 			"Interval": [76.76517007,76.85804989],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3091,9 +2834,8 @@
 			"Interval": [76.95092971,77.27600907],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3103,9 +2845,8 @@
 			"Interval": [77.32244898,77.60108844],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3115,9 +2856,8 @@
 			"Interval": [77.69396825,77.9261678],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3127,9 +2867,8 @@
 			"Interval": [78.01904762,78.29768707],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3139,9 +2878,8 @@
 			"Interval": [78.34412698,78.66920635],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3151,9 +2889,8 @@
 			"Interval": [78.71564626,79.04072562],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3163,9 +2900,8 @@
 			"Interval": [79.13360544,79.64444444],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3175,9 +2911,8 @@
 			"Interval": [79.69088435,79.78376417],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3187,9 +2922,8 @@
 			"Interval": [79.83020408,80.10884354],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3199,9 +2933,8 @@
 			"Interval": [80.20172336,80.52680272],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3211,9 +2944,8 @@
 			"Interval": [80.61968254,80.80544218],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3223,9 +2955,8 @@
 			"Interval": [80.85188209,81.03764172],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3235,9 +2966,8 @@
 			"Interval": [81.08408163,81.26984127],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3247,9 +2977,8 @@
 			"Interval": [81.36272109,82.01287982],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3259,9 +2988,8 @@
 			"Interval": [82.05931973,82.33795918],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3271,9 +2999,8 @@
 			"Interval": [82.430839,82.47727891],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3283,9 +3010,8 @@
 			"Interval": [82.52371882,82.66303855],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3295,9 +3021,8 @@
 			"Interval": [82.75591837,82.84879819],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3307,9 +3032,8 @@
 			"Interval": [82.8952381,83.08099773],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3319,9 +3043,8 @@
 			"Interval": [83.26675737,83.26675737],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3331,9 +3054,8 @@
 			"Interval": [83.31319728,83.35963719],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3343,9 +3065,8 @@
 			"Interval": [83.4060771,83.82403628],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3355,9 +3076,8 @@
 			"Interval": [83.96335601,84.05623583],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3367,9 +3087,8 @@
 			"Interval": [84.19555556,84.19555556],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3379,9 +3098,8 @@
 			"Interval": [84.24199546,84.28843537],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3391,9 +3109,8 @@
 			"Interval": [84.38131519,84.61351474],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3403,9 +3120,8 @@
 			"Interval": [84.70639456,84.8921542],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3415,9 +3131,8 @@
 			"Interval": [84.98503401,85.31011338],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3427,9 +3142,8 @@
 			"Interval": [85.4029932,85.4029932],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3439,9 +3153,8 @@
 			"Interval": [86.09959184,86.23891156],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3451,9 +3164,8 @@
 			"Interval": [86.28535147,86.65687075],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3463,9 +3175,8 @@
 			"Interval": [86.74975057,87.07482993],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3475,9 +3186,8 @@
 			"Interval": [87.12126984,87.26058957],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3487,9 +3197,8 @@
 			"Interval": [87.35346939,87.49278912],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3499,9 +3208,8 @@
 			"Interval": [87.53922902,87.63210884],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3511,9 +3219,8 @@
 			"Interval": [87.67854875,87.72498866],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3523,9 +3230,8 @@
 			"Interval": [87.77142857,88.00362812],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3535,9 +3241,8 @@
 			"Interval": [88.09650794,88.18938776],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3547,9 +3252,8 @@
 			"Interval": [88.23582766,88.37514739],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3559,9 +3263,8 @@
 			"Interval": [88.4215873,88.46802721],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3571,9 +3274,8 @@
 			"Interval": [88.51446712,88.56090703],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3583,9 +3285,8 @@
 			"Interval": [88.60734694,88.74666667],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3595,9 +3296,8 @@
 			"Interval": [88.79310658,88.9324263],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3607,9 +3307,8 @@
 			"Interval": [88.97886621,89.44326531],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3619,9 +3318,8 @@
 			"Interval": [89.48970522,89.62902494],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3631,9 +3329,8 @@
 			"Interval": [89.72190476,90.00054422],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3643,9 +3340,8 @@
 			"Interval": [90.09342404,90.13986395],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3655,9 +3351,8 @@
 			"Interval": [90.23274376,90.46494331],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3667,9 +3362,8 @@
 			"Interval": [90.51138322,90.69714286],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3679,9 +3373,8 @@
 			"Interval": [90.79002268,90.88290249],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3691,9 +3384,8 @@
 			"Interval": [90.9293424,91.11510204],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3703,9 +3395,8 @@
 			"Interval": [91.16154195,91.20798186],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3715,9 +3406,8 @@
 			"Interval": [91.25442177,91.53306122],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3727,9 +3417,8 @@
 			"Interval": [91.67238095,92.04390023],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3739,9 +3428,8 @@
 			"Interval": [92.13678005,92.27609977],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3751,9 +3439,8 @@
 			"Interval": [92.32253968,92.32253968],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3763,9 +3450,8 @@
 			"Interval": [92.36897959,92.50829932],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3775,9 +3461,8 @@
 			"Interval": [92.55473923,92.60117914],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3787,9 +3472,8 @@
 			"Interval": [92.64761905,92.69405896],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3799,9 +3483,8 @@
 			"Interval": [92.78693878,93.06557823],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3811,9 +3494,8 @@
 			"Interval": [93.15845805,93.9014966],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3823,9 +3505,8 @@
 			"Interval": [93.94793651,93.99437642],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3835,9 +3516,8 @@
 			"Interval": [94.04081633,94.08725624],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3847,9 +3527,8 @@
 			"Interval": [94.13369615,94.69097506],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3859,9 +3538,8 @@
 			"Interval": [94.78385488,94.9231746],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3871,9 +3549,8 @@
 			"Interval": [95.01605442,95.43401361],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3883,9 +3560,8 @@
 			"Interval": [95.48045351,95.61977324],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3895,9 +3571,8 @@
 			"Interval": [95.66621315,95.85197279],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3907,9 +3582,8 @@
 			"Interval": [95.8984127,96.50213152],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3919,9 +3593,8 @@
 			"Interval": [96.54857143,96.78077098],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3931,9 +3604,8 @@
 			"Interval": [96.87365079,97.19873016],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3943,9 +3615,8 @@
 			"Interval": [97.29160998,97.75600907],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3955,9 +3626,8 @@
 			"Interval": [97.84888889,97.98820862],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3967,9 +3637,8 @@
 			"Interval": [98.08108844,98.4061678],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3979,9 +3648,8 @@
 			"Interval": [98.45260771,98.77768707],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -3991,9 +3659,8 @@
 			"Interval": [98.82412698,99.05632653],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4003,9 +3670,8 @@
 			"Interval": [99.10276644,99.24208617],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4015,9 +3681,8 @@
 			"Interval": [99.28852608,99.56716553],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4027,9 +3692,8 @@
 			"Interval": [99.66004535,100.2173243],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4039,9 +3703,8 @@
 			"Interval": [100.3102041,100.6817234],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4051,9 +3714,8 @@
 			"Interval": [100.7281633,100.8210431],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4063,9 +3725,8 @@
 			"Interval": [100.9139229,101.0068027],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4075,9 +3736,8 @@
 			"Interval": [101.0996825,101.2390023],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4087,9 +3747,8 @@
 			"Interval": [101.3318821,101.5640816],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4099,9 +3758,8 @@
 			"Interval": [101.6105215,101.7034014],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4111,9 +3769,8 @@
 			"Interval": [101.7498413,101.8427211],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4123,9 +3780,8 @@
 			"Interval": [101.9356009,102.6321995],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4135,9 +3791,8 @@
 			"Interval": [102.7250794,102.9572789],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4147,9 +3802,8 @@
 			"Interval": [103.0501587,103.2359184],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4159,9 +3813,8 @@
 			"Interval": [103.3287982,103.5609977],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4171,9 +3824,8 @@
 			"Interval": [103.6538776,103.7931973],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4183,9 +3835,8 @@
 			"Interval": [103.8860771,103.9789569],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4195,9 +3846,8 @@
 			"Interval": [103.9789569,103.9789569],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4207,9 +3857,8 @@
 			"Interval": [104.0253968,104.0253968],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4219,9 +3868,8 @@
 			"Interval": [128.499229,128.499229],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4231,9 +3879,8 @@
 			"Interval": [128.5921088,129.010068],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4243,9 +3890,8 @@
 			"Interval": [129.0565079,129.4280272],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4255,9 +3901,8 @@
 			"Interval": [129.520907,129.6602268],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4267,9 +3912,8 @@
 			"Interval": [129.7531066,129.7995465],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4279,9 +3923,8 @@
 			"Interval": [129.8459864,129.8924263],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4291,9 +3934,8 @@
 			"Interval": [129.9388662,130.0781859],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4303,9 +3945,8 @@
 			"Interval": [130.1710658,130.2175057],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4315,9 +3956,8 @@
 			"Interval": [130.4032653,130.5890249],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4327,9 +3967,8 @@
 			"Interval": [130.6354649,130.8212245],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4339,9 +3978,8 @@
 			"Interval": [130.9141043,130.9605442],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4351,9 +3989,8 @@
 			"Interval": [131.0069841,131.053424],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4363,9 +4000,8 @@
 			"Interval": [131.1463039,131.1927438],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4375,9 +4011,8 @@
 			"Interval": [131.2391837,131.5178231],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4387,9 +4022,8 @@
 			"Interval": [131.564263,131.9357823],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4399,9 +4033,8 @@
 			"Interval": [132.0286621,132.4930612],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4411,9 +4044,8 @@
 			"Interval": [132.585941,132.632381],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4423,9 +4055,8 @@
 			"Interval": [132.6788209,132.7252608],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4435,9 +4066,8 @@
 			"Interval": [132.7717007,133.2360998],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4447,9 +4077,8 @@
 			"Interval": [133.2825397,133.3289796],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4459,9 +4088,8 @@
 			"Interval": [133.4218594,133.607619],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4471,9 +4099,8 @@
 			"Interval": [133.7004989,133.8398186],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4483,9 +4110,8 @@
 			"Interval": [133.8862585,134.2113379],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4495,9 +4121,8 @@
 			"Interval": [134.2577778,134.2577778],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4507,9 +4132,8 @@
 			"Interval": [134.3042177,134.5828571],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4519,9 +4143,8 @@
 			"Interval": [134.675737,134.8150567],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4531,9 +4154,8 @@
 			"Interval": [134.8614966,134.9079365],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4543,9 +4165,8 @@
 			"Interval": [135.0008163,135.0936961],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4555,9 +4176,8 @@
 			"Interval": [135.1401361,135.186576],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4567,9 +4187,8 @@
 			"Interval": [135.2794558,135.5580952],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4579,9 +4198,8 @@
 			"Interval": [135.6045351,135.697415],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4591,9 +4209,8 @@
 			"Interval": [135.7902948,136.9048526],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4603,9 +4220,8 @@
 			"Interval": [136.9977324,137.1370522],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4615,9 +4231,8 @@
 			"Interval": [137.1834921,137.1834921],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4627,9 +4242,8 @@
 			"Interval": [137.229932,137.4621315],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4639,9 +4253,8 @@
 			"Interval": [137.5085714,137.6943311],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4651,9 +4264,8 @@
 			"Interval": [137.7872109,138.1122902],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4663,9 +4275,8 @@
 			"Interval": [138.1587302,138.2980499],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4675,9 +4286,8 @@
 			"Interval": [138.3444898,138.6695692],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4687,9 +4297,8 @@
 			"Interval": [138.7160091,139.0410884],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4699,9 +4308,8 @@
 			"Interval": [139.0875283,139.3197279],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4711,9 +4319,8 @@
 			"Interval": [139.4126077,139.784127],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4723,9 +4330,8 @@
 			"Interval": [139.8770068,140.1556463],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4735,9 +4341,8 @@
 			"Interval": [140.2485261,140.3878458],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4747,9 +4352,8 @@
 			"Interval": [140.4807256,140.9451247],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4759,9 +4363,8 @@
 			"Interval": [140.9915646,141.316644],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4771,9 +4374,8 @@
 			"Interval": [141.4095238,141.6881633],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4783,9 +4385,8 @@
 			"Interval": [141.7346032,141.9203628],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4795,9 +4396,8 @@
 			"Interval": [141.9668027,142.1525624],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4807,9 +4407,8 @@
 			"Interval": [142.2454422,142.8027211],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4819,9 +4418,8 @@
 			"Interval": [142.8956009,143.1742404],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4831,9 +4429,8 @@
 			"Interval": [143.2206803,143.36],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4843,9 +4440,8 @@
 			"Interval": [143.4064399,143.5457596],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4855,9 +4451,8 @@
 			"Interval": [143.6386395,143.7779592],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4867,9 +4462,8 @@
 			"Interval": [143.870839,144.1494785],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4879,9 +4473,8 @@
 			"Interval": [144.1959184,144.2423583],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4891,9 +4484,8 @@
 			"Interval": [144.2887982,144.3352381],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4903,9 +4495,8 @@
 			"Interval": [144.381678,144.892517],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4915,9 +4506,8 @@
 			"Interval": [144.9853968,145.4497959],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4927,9 +4517,8 @@
 			"Interval": [145.5426757,145.7284354],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4939,9 +4528,8 @@
 			"Interval": [145.8213152,145.914195],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4951,9 +4539,8 @@
 			"Interval": [145.9606349,146.0999546],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4963,9 +4550,8 @@
 			"Interval": [146.425034,146.6107937],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4975,9 +4561,8 @@
 			"Interval": [146.6107937,146.6107937],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4987,9 +4572,8 @@
 			"Interval": [146.7036735,146.7036735],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -4999,9 +4583,8 @@
 			"Interval": [147.0751927,147.2145125],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5011,9 +4594,8 @@
 			"Interval": [147.2609524,147.6789116],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5023,9 +4605,8 @@
 			"Interval": [147.7717914,148.1897506],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5035,9 +4616,8 @@
 			"Interval": [148.2826304,148.4219501],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5047,9 +4627,8 @@
 			"Interval": [148.46839,148.5148299],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5059,9 +4638,8 @@
 			"Interval": [148.6077098,148.6541497],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5071,9 +4649,8 @@
 			"Interval": [148.7005896,148.7470295],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5083,9 +4660,8 @@
 			"Interval": [148.7934694,148.979229],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5095,9 +4671,8 @@
 			"Interval": [149.0721088,149.2114286],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5107,9 +4682,8 @@
 			"Interval": [149.2578685,149.2578685],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5119,9 +4693,8 @@
 			"Interval": [149.3971882,149.5829478],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5131,9 +4704,8 @@
 			"Interval": [149.6293878,149.6758277],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5143,9 +4715,8 @@
 			"Interval": [149.7222676,149.7222676],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5155,9 +4726,8 @@
 			"Interval": [149.9080272,150.1866667],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5167,9 +4737,8 @@
 			"Interval": [150.2331066,150.6046259],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5179,9 +4748,8 @@
 			"Interval": [150.6510658,150.7903855],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5191,9 +4759,8 @@
 			"Interval": [150.8832653,150.9297052],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5203,9 +4770,8 @@
 			"Interval": [150.9761451,151.3012245],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5215,9 +4781,8 @@
 			"Interval": [151.3941043,151.5798639],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5227,9 +4792,8 @@
 			"Interval": [151.9049433,151.9513832],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5239,9 +4803,8 @@
 			"Interval": [151.9978231,152.0907029],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5251,9 +4814,8 @@
 			"Interval": [152.1371429,152.555102],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5263,9 +4825,8 @@
 			"Interval": [153.0195011,153.2052608],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5275,9 +4836,8 @@
 			"Interval": [153.2517007,153.2981406],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5287,9 +4847,8 @@
 			"Interval": [153.3445805,153.4374603],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5299,9 +4858,8 @@
 			"Interval": [153.4839002,153.5303401],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5311,9 +4869,8 @@
 			"Interval": [153.57678,153.62322],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5323,9 +4880,8 @@
 			"Interval": [153.6696599,153.8089796],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5335,9 +4891,8 @@
 			"Interval": [153.9482993,153.9947392],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5347,9 +4902,8 @@
 			"Interval": [154.0411791,154.087619],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5359,9 +4913,8 @@
 			"Interval": [154.134059,154.2733787],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5371,9 +4924,8 @@
 			"Interval": [154.3662585,155.155737],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5383,9 +4935,8 @@
 			"Interval": [155.2021769,155.4808163],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5395,9 +4946,8 @@
 			"Interval": [155.5736961,155.7130159],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5407,9 +4957,8 @@
 			"Interval": [155.7594558,156.0845351],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5419,9 +4968,8 @@
 			"Interval": [156.1309751,156.2238549],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5431,9 +4979,8 @@
 			"Interval": [156.2702948,156.4560544],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5443,9 +4990,8 @@
 			"Interval": [156.5024943,157.0133333],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5455,9 +5001,8 @@
 			"Interval": [157.1062132,157.2455329],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5467,9 +5012,8 @@
 			"Interval": [157.2919728,157.6170522],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5479,9 +5023,8 @@
 			"Interval": [157.6634921,157.8956916],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5491,9 +5034,8 @@
 			"Interval": [158.0350113,158.3600907],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5503,9 +5045,8 @@
 			"Interval": [158.4065306,158.4994104],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5515,9 +5056,8 @@
 			"Interval": [158.5458503,158.6851701],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5527,9 +5067,8 @@
 			"Interval": [158.73161,159.4282086],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5539,9 +5078,8 @@
 			"Interval": [159.5210884,159.7997279],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5551,9 +5089,8 @@
 			"Interval": [159.8926077,160.1712472],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5563,9 +5100,8 @@
 			"Interval": [160.2176871,160.4034467],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5575,9 +5111,8 @@
 			"Interval": [160.4498866,160.6356463],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5587,9 +5122,8 @@
 			"Interval": [160.7285261,161.3322449],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5599,9 +5133,8 @@
 			"Interval": [161.4251247,161.7502041],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5611,9 +5144,8 @@
 			"Interval": [161.796644,161.8895238],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5623,9 +5155,8 @@
 			"Interval": [161.9359637,162.1217234],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5635,9 +5166,8 @@
 			"Interval": [162.2146032,162.307483],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5647,9 +5177,8 @@
 			"Interval": [162.4003628,162.6325624],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5659,9 +5188,8 @@
 			"Interval": [162.6790023,162.6790023],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5671,9 +5199,8 @@
 			"Interval": [162.818322,162.9112018],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5683,9 +5210,8 @@
 			"Interval": [163.0040816,163.5613605],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5695,9 +5221,8 @@
 			"Interval": [163.6078005,163.7471202],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5707,9 +5232,8 @@
 			"Interval": [163.84,163.84],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5719,9 +5243,8 @@
 			"Interval": [163.8864399,164.0257596],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5731,9 +5254,8 @@
 			"Interval": [164.1186395,164.3972789],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5743,9 +5265,8 @@
 			"Interval": [164.4901587,164.7223583],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5755,9 +5276,8 @@
 			"Interval": [164.8152381,165.3260771],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5767,9 +5287,8 @@
 			"Interval": [165.372517,165.372517],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5779,9 +5298,8 @@
 			"Interval": [195.7906576,195.9764172],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5791,9 +5309,8 @@
 			"Interval": [196.0228571,196.3014966],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5803,9 +5320,8 @@
 			"Interval": [196.3479365,196.8123356],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5815,9 +5331,8 @@
 			"Interval": [196.9052154,197.0445351],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5827,9 +5342,8 @@
 			"Interval": [197.0909751,197.137415],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5839,9 +5353,8 @@
 			"Interval": [197.1838549,197.2302948],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5851,9 +5364,8 @@
 			"Interval": [197.2767347,197.4160544],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5863,9 +5375,8 @@
 			"Interval": [197.4624943,197.5553741],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5875,9 +5386,8 @@
 			"Interval": [197.7411338,198.1126531],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5887,9 +5397,8 @@
 			"Interval": [198.159093,198.2519728],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5899,9 +5408,8 @@
 			"Interval": [198.2984127,198.3448526],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5911,9 +5419,8 @@
 			"Interval": [198.3912925,198.5306122],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5923,9 +5430,8 @@
 			"Interval": [198.5770522,198.7628118],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5935,9 +5441,8 @@
 			"Interval": [198.8092517,199.3200907],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5947,9 +5452,8 @@
 			"Interval": [199.4129705,199.9702494],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5959,9 +5463,8 @@
 			"Interval": [200.0631293,200.3417687],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5971,9 +5474,8 @@
 			"Interval": [200.3882086,200.4810884],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5983,9 +5485,8 @@
 			"Interval": [200.5275283,200.6204082],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -5995,9 +5496,8 @@
 			"Interval": [200.713288,201.0383673],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6007,9 +5507,8 @@
 			"Interval": [201.1312472,201.3634467],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6019,9 +5518,8 @@
 			"Interval": [201.4098866,201.4563265],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6031,9 +5529,8 @@
 			"Interval": [201.5027664,201.9207256],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6043,9 +5540,8 @@
 			"Interval": [201.9671655,202.1993651],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6055,9 +5551,8 @@
 			"Interval": [202.245805,202.2922449],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6067,9 +5562,8 @@
 			"Interval": [202.4315646,202.8030839],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6079,9 +5573,8 @@
 			"Interval": [202.8959637,203.2210431],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6091,9 +5584,8 @@
 			"Interval": [203.3139229,203.3603628],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6103,9 +5595,8 @@
 			"Interval": [203.4068027,203.4532426],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6115,9 +5606,8 @@
 			"Interval": [203.4996825,203.6390023],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6127,9 +5617,8 @@
 			"Interval": [203.7318821,203.8247619],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6139,9 +5628,8 @@
 			"Interval": [203.9176417,204.0569615],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6151,9 +5639,8 @@
 			"Interval": [204.1498413,204.8464399],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6163,9 +5650,8 @@
 			"Interval": [204.9393197,205.2179592],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6175,9 +5661,8 @@
 			"Interval": [205.2643991,205.4037188],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6187,9 +5672,8 @@
 			"Interval": [205.4965986,205.9609977],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6199,9 +5683,8 @@
 			"Interval": [206.0538776,206.332517],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6211,9 +5694,8 @@
 			"Interval": [206.3789569,206.6575964],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6223,9 +5705,8 @@
 			"Interval": [206.7040363,206.9826757],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6235,9 +5716,8 @@
 			"Interval": [207.0755556,207.4935147],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6247,9 +5727,8 @@
 			"Interval": [207.5399546,207.865034],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6259,9 +5738,8 @@
 			"Interval": [207.9579138,208.3294331],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6271,9 +5749,8 @@
 			"Interval": [208.375873,208.7473923],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6283,9 +5760,8 @@
 			"Interval": [208.8402721,209.2117914],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6295,9 +5771,8 @@
 			"Interval": [209.2582313,209.4904308],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6307,9 +5782,8 @@
 			"Interval": [209.5833107,210.0012698],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6319,9 +5793,8 @@
 			"Interval": [210.0941497,210.419229],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6331,9 +5804,8 @@
 			"Interval": [210.4656689,210.6049887],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6343,9 +5815,8 @@
 			"Interval": [210.6514286,210.8836281],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6355,9 +5826,8 @@
 			"Interval": [210.930068,211.2087075],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6367,9 +5837,8 @@
 			"Interval": [211.3015873,212.0446259],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6379,9 +5848,8 @@
 			"Interval": [212.1375057,212.462585],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6391,9 +5859,8 @@
 			"Interval": [212.5554649,212.6483447],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6403,9 +5870,8 @@
 			"Interval": [212.7412245,212.8341043],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6415,9 +5881,8 @@
 			"Interval": [212.9269841,213.0663039],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6427,9 +5892,8 @@
 			"Interval": [213.1591837,213.4378231],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6439,9 +5903,8 @@
 			"Interval": [213.5307029,213.9022222],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6451,9 +5914,8 @@
 			"Interval": [213.9486621,213.995102],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6463,9 +5925,8 @@
 			"Interval": [214.041542,214.4595011],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6475,9 +5936,8 @@
 			"Interval": [214.505941,214.8310204],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6487,9 +5947,8 @@
 			"Interval": [214.8774603,214.9239002],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6499,9 +5958,8 @@
 			"Interval": [215.01678,215.2954195],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6511,9 +5969,8 @@
 			"Interval": [215.3418594,215.4811791],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6523,9 +5980,8 @@
 			"Interval": [215.574059,215.9455782],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6535,9 +5991,8 @@
 			"Interval": [216.038458,216.038458],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6547,9 +6002,8 @@
 			"Interval": [216.1313379,216.1313379],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6559,9 +6013,8 @@
 			"Interval": [216.4564172,216.5492971],
 			"Label": "TESLIM_1--n1",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6571,9 +6024,8 @@
 			"Interval": [216.6421769,217.1994558],
 			"Label": "TESLIM_1--n2",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6583,9 +6035,8 @@
 			"Interval": [217.2923356,217.5709751],
 			"Label": "TESLIM_1--n3",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6595,9 +6046,8 @@
 			"Interval": [217.617415,217.7102948],
 			"Label": "TESLIM_1--n4",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6607,9 +6057,8 @@
 			"Interval": [217.7567347,217.8496145],
 			"Label": "TESLIM_1--n5",
 			"Pitch": {
-				"Value": 1494.339623,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 291.6984386,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6619,9 +6068,8 @@
 			"Interval": [217.8960544,217.9424943],
 			"Label": "TESLIM_1--n6",
 			"Pitch": {
-				"Value": 1381.132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 273.2341939,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6631,9 +6079,8 @@
 			"Interval": [217.9889342,218.0353741],
 			"Label": "TESLIM_1--n7",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6643,9 +6090,8 @@
 			"Interval": [218.0818141,218.128254],
 			"Label": "TESLIM_1--n8",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6655,9 +6101,8 @@
 			"Interval": [218.2211338,218.4533333],
 			"Label": "TESLIM_1--n9",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6667,9 +6112,8 @@
 			"Interval": [218.4997732,218.639093],
 			"Label": "TESLIM_1--n10",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6679,9 +6123,8 @@
 			"Interval": [218.7319728,218.8712925],
 			"Label": "TESLIM_1--n11",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6691,9 +6134,8 @@
 			"Interval": [218.9177324,219.0106122],
 			"Label": "TESLIM_1--n12",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6703,9 +6145,8 @@
 			"Interval": [219.0570522,219.1034921],
 			"Label": "TESLIM_1--n13",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6715,9 +6156,8 @@
 			"Interval": [219.1963719,219.3356916],
 			"Label": "TESLIM_1--n14",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6727,9 +6167,8 @@
 			"Interval": [219.3821315,219.8465306],
 			"Label": "TESLIM_1--n15",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6739,9 +6178,8 @@
 			"Interval": [219.9394104,220.6360091],
 			"Label": "TESLIM_1--n16",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6751,9 +6189,8 @@
 			"Interval": [220.7288889,220.9146485],
 			"Label": "TESLIM_1--n17",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6763,9 +6200,8 @@
 			"Interval": [220.9610884,221.1004082],
 			"Label": "TESLIM_1--n18",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6775,9 +6211,8 @@
 			"Interval": [221.1468481,221.3790476],
 			"Label": "TESLIM_1--n19",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6787,9 +6222,8 @@
 			"Interval": [221.5648073,221.704127],
 			"Label": "TESLIM_1--n20",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6799,9 +6233,8 @@
 			"Interval": [221.7970068,221.9363265],
 			"Label": "TESLIM_1--n21",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6811,9 +6244,8 @@
 			"Interval": [221.9827664,222.1685261],
 			"Label": "TESLIM_1--n22",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6823,9 +6255,8 @@
 			"Interval": [222.214966,222.2614059],
 			"Label": "TESLIM_1--n23",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6835,9 +6266,8 @@
 			"Interval": [222.3078458,222.3078458],
 			"Label": "TESLIM_1--n24",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6847,9 +6277,8 @@
 			"Interval": [222.3542857,222.4936054],
 			"Label": "TESLIM_1--n25",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6859,9 +6288,8 @@
 			"Interval": [222.5400454,222.6793651],
 			"Label": "TESLIM_1--n26",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6871,9 +6299,8 @@
 			"Interval": [222.725805,222.7722449],
 			"Label": "TESLIM_1--n27",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6883,9 +6310,8 @@
 			"Interval": [222.8186848,222.8651247],
 			"Label": "TESLIM_1--n28",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6895,9 +6321,8 @@
 			"Interval": [222.9115646,222.9115646],
 			"Label": "TESLIM_1--n29",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6907,9 +6332,8 @@
 			"Interval": [222.9580045,223.0044444],
 			"Label": "TESLIM_1--n30",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6919,9 +6343,8 @@
 			"Interval": [223.0508844,223.3295238],
 			"Label": "TESLIM_1--n31",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6931,9 +6354,8 @@
 			"Interval": [223.4224036,224.3512018],
 			"Label": "TESLIM_1--n32",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6943,9 +6365,8 @@
 			"Interval": [224.3976417,224.4440816],
 			"Label": "TESLIM_1--n33",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6955,9 +6376,8 @@
 			"Interval": [224.4905215,224.5369615],
 			"Label": "TESLIM_1--n34",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6967,9 +6387,8 @@
 			"Interval": [224.6298413,225.0013605],
 			"Label": "TESLIM_1--n35",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6979,9 +6398,8 @@
 			"Interval": [225.0942404,225.1406803],
 			"Label": "TESLIM_1--n36",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -6991,9 +6409,8 @@
 			"Interval": [225.1871202,225.6050794],
 			"Label": "TESLIM_1--n37",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7003,9 +6420,8 @@
 			"Interval": [225.6515193,225.8372789],
 			"Label": "TESLIM_1--n38",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7015,9 +6431,8 @@
 			"Interval": [225.9301587,226.2552381],
 			"Label": "TESLIM_1--n39",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7027,9 +6442,8 @@
 			"Interval": [226.301678,226.6731973],
 			"Label": "TESLIM_1--n40",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7039,9 +6453,8 @@
 			"Interval": [226.7196372,226.9982766],
 			"Label": "TESLIM_1--n41",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7051,9 +6464,8 @@
 			"Interval": [227.0447166,227.4162358],
 			"Label": "TESLIM_1--n42",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7063,9 +6475,8 @@
 			"Interval": [227.5091156,227.7877551],
 			"Label": "TESLIM_1--n43",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7075,9 +6486,8 @@
 			"Interval": [227.8806349,228.2057143],
 			"Label": "TESLIM_1--n44",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7087,9 +6497,8 @@
 			"Interval": [228.2985941,228.6701134],
 			"Label": "TESLIM_1--n45",
 			"Pitch": {
-				"Value": 1200,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 246.0914688,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7099,9 +6508,8 @@
 			"Interval": [228.7629932,229.1809524],
 			"Label": "TESLIM_1--n46",
 			"Pitch": {
-				"Value": 996.2264151,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 218.7652097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7111,9 +6519,8 @@
 			"Interval": [229.2738322,229.6453515],
 			"Label": "TESLIM_1--n47",
 			"Pitch": {
-				"Value": 792.4528302,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 194.4732876,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7123,9 +6530,8 @@
 			"Interval": [229.7382313,230.1097506],
 			"Label": "TESLIM_1--n48",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7135,9 +6541,8 @@
 			"Interval": [230.2026304,230.6670295],
 			"Label": "TESLIM_1--n49",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7147,9 +6552,8 @@
 			"Interval": [230.7599093,231.1314286],
 			"Label": "TESLIM_1--n50",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7159,9 +6563,8 @@
 			"Interval": [231.2243084,231.7351474],
 			"Label": "TESLIM_1--n51",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7171,9 +6574,8 @@
 			"Interval": [231.8280272,232.0137868],
 			"Label": "TESLIM_1--n52",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7183,9 +6585,8 @@
 			"Interval": [232.1066667,232.3388662],
 			"Label": "TESLIM_1--n53",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7195,9 +6596,8 @@
 			"Interval": [232.431746,232.6639456],
 			"Label": "TESLIM_1--n54",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7207,9 +6607,8 @@
 			"Interval": [232.7568254,232.8961451],
 			"Label": "TESLIM_1--n55",
 			"Pitch": {
-				"Value": 701.8867925,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 184.56133,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7219,9 +6618,8 @@
 			"Interval": [232.942585,233.0354649],
 			"Label": "TESLIM_1--n56",
 			"Pitch": {
-				"Value": 498.1132075,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 164.0674431,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7231,9 +6629,8 @@
 			"Interval": [233.1283447,233.5463039],
 			"Label": "TESLIM_1--n57",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7243,9 +6640,8 @@
 			"Interval": [233.6391837,234.4286621],
 			"Label": "TESLIM_1--n58",
 			"Pitch": {
-				"Value": 294.3396226,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 145.8492193,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7255,9 +6651,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n59",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7267,9 +6662,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n60",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7279,9 +6673,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n61",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7291,9 +6684,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n62",
 			"Pitch": {
-				"Value": 181.1320755,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 136.617097,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7303,9 +6695,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n63",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7315,9 +6706,8 @@
 			"Interval": [234.4286621,234.4286621],
 			"Label": "TESLIM_1--n64",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		},
 		{
@@ -7327,9 +6717,8 @@
 			"Interval": [234.521542,234.521542],
 			"Label": "TESLIM_1--n65",
 			"Pitch": {
-				"Value": 0,
-				"Unit": "cent",
-				"ReferenceSymbol": "A4"
+				"Value": 123.0457344,
+				"Unit": "Hz"
 			}
 		}
 	]
