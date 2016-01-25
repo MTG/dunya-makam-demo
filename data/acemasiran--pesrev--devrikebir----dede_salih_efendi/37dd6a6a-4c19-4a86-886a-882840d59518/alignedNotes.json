@@ -1,8 +1,7 @@
 {
 	"notes": [
 		{
-			"Symbol": "F5",
-			"IndexInScore": 1,
+			"IndexInScore": 2,
 			"IndexInAudio": 1,
 			"Interval": [1492.857324,1494.018322],
 			"Label": "1-HANE_1--n1",
@@ -14,11 +13,11 @@
 				"Value": 726.8563232,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 2,
+			"IndexInScore": 3,
 			"IndexInAudio": 2,
 			"Interval": [1494.111202,1494.436281],
 			"Label": "1-HANE_1--n2",
@@ -30,11 +29,11 @@
 				"Value": 703.1115723,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 3,
+			"IndexInScore": 4,
 			"IndexInAudio": 3,
 			"Interval": [1494.482721,1495.08644],
 			"Label": "1-HANE_1--n3",
@@ -46,11 +45,11 @@
 				"Value": 727.2763062,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 4,
+			"IndexInScore": 5,
 			"IndexInAudio": 4,
 			"Interval": [1495.13288,1495.597279],
 			"Label": "1-HANE_1--n4",
@@ -62,11 +61,11 @@
 				"Value": 723.0874634,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 5,
+			"IndexInScore": 6,
 			"IndexInAudio": 5,
 			"Interval": [1495.643719,1496.108118],
 			"Label": "1-HANE_1--n5",
@@ -78,11 +77,11 @@
 				"Value": 816.3400269,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 6,
+			"IndexInScore": 7,
 			"IndexInAudio": 6,
 			"Interval": [1496.200998,1496.433197],
 			"Label": "1-HANE_1--n6",
@@ -94,11 +93,11 @@
 				"Value": 916.0461121,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 7,
+			"IndexInScore": 8,
 			"IndexInAudio": 7,
 			"Interval": [1496.526077,1497.176236],
 			"Label": "1-HANE_1--n7",
@@ -110,11 +109,11 @@
 				"Value": 820.1210327,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 8,
+			"IndexInScore": 9,
 			"IndexInAudio": 8,
 			"Interval": [1497.222676,1497.361995],
 			"Label": "1-HANE_1--n8",
@@ -126,11 +125,11 @@
 				"Value": 720.1696777,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 9,
+			"IndexInScore": 10,
 			"IndexInAudio": 9,
 			"Interval": [1497.408435,1497.640635],
 			"Label": "1-HANE_1--n9",
@@ -142,11 +141,11 @@
 				"Value": 697.851593,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 10,
+			"IndexInScore": 11,
 			"IndexInAudio": 10,
 			"Interval": [1497.687075,1498.337234],
 			"Label": "1-HANE_1--n10",
@@ -158,11 +157,11 @@
 				"Value": 712.9266052,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 11,
+			"IndexInScore": 12,
 			"IndexInAudio": 11,
 			"Interval": [1498.430113,1499.405351],
 			"Label": "1-HANE_1--n11",
@@ -174,11 +173,11 @@
 				"Value": 715.4017334,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 12,
+			"IndexInScore": 13,
 			"IndexInAudio": 12,
 			"Interval": [1499.498231,1499.91619],
 			"Label": "1-HANE_1--n12",
@@ -190,11 +189,11 @@
 				"Value": 612.8016663,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 13,
+			"IndexInScore": 14,
 			"IndexInAudio": 13,
 			"Interval": [1500.00907,1501.309388],
 			"Label": "1-HANE_1--n13",
@@ -206,11 +205,11 @@
 				"Value": 619.3851929,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 14,
+			"IndexInScore": 15,
 			"IndexInAudio": 14,
 			"Interval": [1501.355828,1501.820227],
 			"Label": "1-HANE_1--n14",
@@ -222,11 +221,11 @@
 				"Value": 688.8405762,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 15,
+			"IndexInScore": 16,
 			"IndexInAudio": 15,
 			"Interval": [1501.913107,1502.377506],
 			"Label": "1-HANE_1--n15",
@@ -238,11 +237,11 @@
 				"Value": 711.281311,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 16,
+			"IndexInScore": 17,
 			"IndexInAudio": 16,
 			"Interval": [1502.423946,1503.027664],
 			"Label": "1-HANE_1--n16",
@@ -254,11 +253,11 @@
 				"Value": 694.8348999,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 17,
+			"IndexInScore": 18,
 			"IndexInAudio": 17,
 			"Interval": [1503.166984,1504.049342],
 			"Label": "1-HANE_1--n17",
@@ -270,11 +269,11 @@
 				"Value": 619.0275269,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 18,
+			"IndexInScore": 19,
 			"IndexInAudio": 18,
 			"Interval": [1504.142222,1504.699501],
 			"Label": "1-HANE_1--n18",
@@ -286,11 +285,11 @@
 				"Value": 708.6157227,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 19,
+			"IndexInScore": 20,
 			"IndexInAudio": 19,
 			"Interval": [1504.745941,1504.931701],
 			"Label": "1-HANE_1--n19",
@@ -302,11 +301,11 @@
 				"Value": 602.9702759,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 20,
+			"IndexInScore": 21,
 			"IndexInAudio": 20,
 			"Interval": [1505.02458,1505.30322],
 			"Label": "1-HANE_1--n20",
@@ -318,11 +317,11 @@
 				"Value": 539.2061157,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 21,
+			"IndexInScore": 22,
 			"IndexInAudio": 21,
 			"Interval": [1505.3961,1505.721179],
 			"Label": "1-HANE_1--n21",
@@ -334,11 +333,11 @@
 				"Value": 507.7682495,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 22,
+			"IndexInScore": 23,
 			"IndexInAudio": 22,
 			"Interval": [1505.767619,1506.185578],
 			"Label": "1-HANE_1--n22",
@@ -350,11 +349,11 @@
 				"Value": 542.7998352,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 23,
+			"IndexInScore": 24,
 			"IndexInAudio": 23,
 			"Interval": [1506.232018,1506.696417],
 			"Label": "1-HANE_1--n23",
@@ -366,11 +365,11 @@
 				"Value": 542.1731262,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 24,
+			"IndexInScore": 25,
 			"IndexInAudio": 24,
 			"Interval": [1506.789297,1507.532336],
 			"Label": "1-HANE_1--n24",
@@ -382,11 +381,11 @@
 				"Value": 617.2422485,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 25,
+			"IndexInScore": 26,
 			"IndexInAudio": 25,
 			"Interval": [1507.625215,1508.414694],
 			"Label": "1-HANE_1--n25",
@@ -398,11 +397,11 @@
 				"Value": 678.3768311,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 26,
+			"IndexInScore": 27,
 			"IndexInAudio": 26,
 			"Interval": [1508.507574,1508.879093],
 			"Label": "1-HANE_1--n26",
@@ -414,11 +413,11 @@
 				"Value": 615.4621582,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 27,
+			"IndexInScore": 28,
 			"IndexInAudio": 27,
 			"Interval": [1508.971973,1509.157732],
 			"Label": "1-HANE_1--n27",
@@ -430,11 +429,11 @@
 				"Value": 548.9482422,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 28,
+			"IndexInScore": 29,
 			"IndexInAudio": 28,
 			"Interval": [1509.204172,1509.900771],
 			"Label": "1-HANE_1--n28",
@@ -446,11 +445,11 @@
 				"Value": 614.3966064,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 29,
+			"IndexInScore": 30,
 			"IndexInAudio": 29,
 			"Interval": [1509.993651,1510.45805],
 			"Label": "1-HANE_1--n29",
@@ -462,11 +461,11 @@
 				"Value": 615.1067505,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 30,
+			"IndexInScore": 31,
 			"IndexInAudio": 30,
 			"Interval": [1510.55093,1510.64381],
 			"Label": "1-HANE_1--n30",
@@ -478,11 +477,11 @@
 				"Value": 717.0567932,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 31,
+			"IndexInScore": 32,
 			"IndexInAudio": 31,
 			"Interval": [1510.690249,1510.736689],
 			"Label": "1-HANE_1--n31",
@@ -494,11 +493,11 @@
 				"Value": 812.8111877,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 32,
+			"IndexInScore": 33,
 			"IndexInAudio": 32,
 			"Interval": [1510.783129,1511.386848],
 			"Label": "1-HANE_1--n32",
@@ -510,11 +509,11 @@
 				"Value": 936.1049194,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 33,
+			"IndexInScore": 34,
 			"IndexInAudio": 33,
 			"Interval": [1511.433288,1511.851247],
 			"Label": "1-HANE_1--n33",
@@ -526,11 +525,11 @@
 				"Value": 820.3579712,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 34,
+			"IndexInScore": 35,
 			"IndexInAudio": 34,
 			"Interval": [1511.990567,1512.222766],
 			"Label": "1-HANE_1--n34",
@@ -542,11 +541,11 @@
 				"Value": 723.0874634,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 35,
+			"IndexInScore": 36,
 			"IndexInAudio": 35,
 			"Interval": [1512.315646,1512.594286],
 			"Label": "1-HANE_1--n35",
@@ -558,11 +557,11 @@
 				"Value": 691.0325317,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 36,
+			"IndexInScore": 37,
 			"IndexInAudio": 36,
 			"Interval": [1512.687166,1513.290884],
 			"Label": "1-HANE_1--n36",
@@ -574,11 +573,11 @@
 				"Value": 714.7821045,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 37,
+			"IndexInScore": 38,
 			"IndexInAudio": 37,
 			"Interval": [1513.383764,1513.615964],
 			"Label": "1-HANE_1--n37",
@@ -590,11 +589,11 @@
 				"Value": 689.2385864,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 38,
+			"IndexInScore": 39,
 			"IndexInAudio": 38,
 			"Interval": [1513.662404,1514.080363],
 			"Label": "1-HANE_1--n38",
@@ -606,11 +605,11 @@
 				"Value": 698.8600464,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 39,
+			"IndexInScore": 40,
 			"IndexInAudio": 39,
 			"Interval": [1514.173243,1514.405442],
 			"Label": "1-HANE_1--n39",
@@ -622,11 +621,11 @@
 				"Value": 820.1210327,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 40,
+			"IndexInScore": 41,
 			"IndexInAudio": 40,
 			"Interval": [1514.451882,1514.498322],
 			"Label": "1-HANE_1--n40",
@@ -638,11 +637,11 @@
 				"Value": 724.1324158,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 41,
+			"IndexInScore": 42,
 			"IndexInAudio": 41,
 			"Interval": [1514.544762,1514.962721],
 			"Label": "1-HANE_1--n41",
@@ -654,11 +653,11 @@
 				"Value": 821.3062439,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 42,
+			"IndexInScore": 43,
 			"IndexInAudio": 42,
 			"Interval": [1515.055601,1516.495238],
 			"Label": "1-HANE_1--n42",
@@ -670,11 +669,11 @@
 				"Value": 726.0170898,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 43,
+			"IndexInScore": 44,
 			"IndexInAudio": 43,
 			"Interval": [1516.588118,1517.563356],
 			"Label": "1-HANE_1--n43",
@@ -686,11 +685,11 @@
 				"Value": 546.1019287,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 44,
+			"IndexInScore": 45,
 			"IndexInAudio": 44,
 			"Interval": [1517.656236,1518.863673],
 			"Label": "1-HANE_1--n44",
@@ -702,11 +701,11 @@
 				"Value": 724.3415527,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 45,
+			"IndexInScore": 46,
 			"IndexInAudio": 45,
 			"Interval": [1518.910113,1519.281633],
 			"Label": "1-HANE_1--n45",
@@ -718,11 +717,11 @@
 				"Value": 703.9242859,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 46,
+			"IndexInScore": 47,
 			"IndexInAudio": 46,
 			"Interval": [1519.328073,1519.606712],
 			"Label": "1-HANE_1--n46",
@@ -734,11 +733,11 @@
 				"Value": 813.7507019,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 47,
+			"IndexInScore": 48,
 			"IndexInAudio": 47,
 			"Interval": [1519.699592,1520.210431],
 			"Label": "1-HANE_1--n47",
@@ -750,11 +749,11 @@
 				"Value": 710.2548828,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 48,
+			"IndexInScore": 49,
 			"IndexInAudio": 48,
 			"Interval": [1520.256871,1520.44263],
 			"Label": "1-HANE_1--n48",
@@ -766,11 +765,11 @@
 				"Value": 696.2410583,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 49,
+			"IndexInScore": 50,
 			"IndexInAudio": 49,
 			"Interval": [1520.53551,1520.76771],
 			"Label": "1-HANE_1--n49",
@@ -782,11 +781,11 @@
 				"Value": 692.4309692,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 50,
+			"IndexInScore": 51,
 			"IndexInAudio": 50,
 			"Interval": [1520.81415,1521.557188],
 			"Label": "1-HANE_1--n50",
@@ -798,11 +797,11 @@
 				"Value": 721.0021362,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 51,
+			"IndexInScore": 52,
 			"IndexInAudio": 51,
 			"Interval": [1521.650068,1522.160907],
 			"Label": "1-HANE_1--n51",
@@ -814,11 +813,11 @@
 				"Value": 701.0838318,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 52,
+			"IndexInScore": 53,
 			"IndexInAudio": 52,
 			"Interval": [1522.253787,1522.532426],
 			"Label": "1-HANE_1--n52",
@@ -830,11 +829,11 @@
 				"Value": 616.351593,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 53,
+			"IndexInScore": 54,
 			"IndexInAudio": 53,
 			"Interval": [1522.718186,1523.136145],
 			"Label": "1-HANE_1--n53",
@@ -846,11 +845,11 @@
 				"Value": 693.8322754,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 54,
+			"IndexInScore": 55,
 			"IndexInAudio": 54,
 			"Interval": [1523.182585,1523.414785],
 			"Label": "1-HANE_1--n54",
@@ -862,11 +861,11 @@
 				"Value": 544.5270691,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 55,
+			"IndexInScore": 56,
 			"IndexInAudio": 55,
 			"Interval": [1523.461224,1523.693424],
 			"Label": "1-HANE_1--n55",
@@ -878,11 +877,11 @@
 				"Value": 536.4102783,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 56,
+			"IndexInScore": 57,
 			"IndexInAudio": 56,
 			"Interval": [1523.786304,1524.018503],
 			"Label": "1-HANE_1--n56",
@@ -894,11 +893,11 @@
 				"Value": 498.7569275,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 57,
+			"IndexInScore": 58,
 			"IndexInAudio": 57,
 			"Interval": [1524.111383,1524.993741],
 			"Label": "1-HANE_1--n57",
@@ -910,11 +909,11 @@
 				"Value": 546.1019287,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 58,
+			"IndexInScore": 59,
 			"IndexInAudio": 58,
 			"Interval": [1525.086621,1525.92254],
 			"Label": "1-HANE_1--n58",
@@ -926,11 +925,11 @@
 				"Value": 616.173584,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 59,
+			"IndexInScore": 60,
 			"IndexInAudio": 59,
 			"Interval": [1525.96898,1526.851338],
 			"Label": "1-HANE_1--n59",
@@ -942,11 +941,11 @@
 				"Value": 620.1011353,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 60,
+			"IndexInScore": 61,
 			"IndexInAudio": 60,
 			"Interval": [1526.897778,1527.176417],
 			"Label": "1-HANE_1--n60",
@@ -958,11 +957,11 @@
 				"Value": 545.9442444,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 61,
+			"IndexInScore": 62,
 			"IndexInAudio": 61,
 			"Interval": [1527.269297,1527.780136],
 			"Label": "1-HANE_1--n61",
@@ -974,11 +973,11 @@
 				"Value": 616.173584,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 62,
+			"IndexInScore": 63,
 			"IndexInAudio": 62,
 			"Interval": [1527.873016,1528.801814],
 			"Label": "1-HANE_1--n62",
@@ -990,11 +989,11 @@
 				"Value": 548.3144531,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 63,
+			"IndexInScore": 64,
 			"IndexInAudio": 63,
 			"Interval": [1528.894694,1530.009252],
 			"Label": "1-HANE_1--n63",
@@ -1006,11 +1005,11 @@
 				"Value": 479.8233948,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 64,
+			"IndexInScore": 65,
 			"IndexInAudio": 64,
 			"Interval": [1530.055692,1530.334331],
 			"Label": "1-HANE_1--n64",
@@ -1022,11 +1021,11 @@
 				"Value": 475.2720642,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 65,
+			"IndexInScore": 66,
 			"IndexInAudio": 65,
 			"Interval": [1530.380771,1531.07737],
 			"Label": "1-HANE_1--n65",
@@ -1038,11 +1037,11 @@
 				"Value": 459.4804688,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 66,
+			"IndexInScore": 67,
 			"IndexInAudio": 66,
 			"Interval": [1531.170249,1531.681088],
 			"Label": "1-HANE_1--n66",
@@ -1054,11 +1053,11 @@
 				"Value": 405.5847778,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 67,
+			"IndexInScore": 68,
 			"IndexInAudio": 67,
 			"Interval": [1531.773968,1532.331247],
 			"Label": "1-HANE_1--n67",
@@ -1070,11 +1069,11 @@
 				"Value": 362.5894165,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 68,
+			"IndexInScore": 69,
 			"IndexInAudio": 68,
 			"Interval": [1532.377687,1532.656327],
 			"Label": "1-HANE_1--n68",
@@ -1086,11 +1085,11 @@
 				"Value": 359.4613953,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 69,
+			"IndexInScore": 70,
 			"IndexInAudio": 69,
 			"Interval": [1532.702766,1533.399365],
 			"Label": "1-HANE_1--n69",
@@ -1102,11 +1101,11 @@
 				"Value": 480.9333191,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 70,
+			"IndexInScore": 71,
 			"IndexInAudio": 70,
 			"Interval": [1533.445805,1534.421043],
 			"Label": "1-HANE_1--n70",
@@ -1118,11 +1117,11 @@
 				"Value": 475.4093323,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 71,
+			"IndexInScore": 72,
 			"IndexInAudio": 71,
 			"Interval": [1534.467483,1534.746122],
 			"Label": "1-HANE_1--n71",
@@ -1134,11 +1133,11 @@
 				"Value": 548.1561584,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 72,
+			"IndexInScore": 73,
 			"IndexInAudio": 72,
 			"Interval": [1534.839002,1535.256961],
 			"Label": "1-HANE_1--n72",
@@ -1150,11 +1149,11 @@
 				"Value": 477.4733582,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 73,
+			"IndexInScore": 74,
 			"IndexInAudio": 73,
 			"Interval": [1535.349841,1536.18576],
 			"Label": "1-HANE_1--n73",
@@ -1166,11 +1165,11 @@
 				"Value": 457.6263733,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 74,
+			"IndexInScore": 75,
 			"IndexInAudio": 74,
 			"Interval": [1536.2322,1536.603719],
 			"Label": "1-HANE_1--n74",
@@ -1182,11 +1181,11 @@
 				"Value": 403.7149048,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 75,
+			"IndexInScore": 76,
 			"IndexInAudio": 75,
 			"Interval": [1536.696599,1537.068118],
 			"Label": "1-HANE_1--n75",
@@ -1198,11 +1197,11 @@
 				"Value": 454.4653931,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 76,
+			"IndexInScore": 77,
 			"IndexInAudio": 76,
 			"Interval": [1537.253878,1537.718277],
 			"Label": "1-HANE_1--n76",
@@ -1214,11 +1213,11 @@
 				"Value": 405.9363556,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 77,
+			"IndexInScore": 78,
 			"IndexInAudio": 77,
 			"Interval": [1537.811156,1538.043356],
 			"Label": "1-HANE_1--n77",
@@ -1230,11 +1229,11 @@
 				"Value": 357.9078979,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 78,
+			"IndexInScore": 79,
 			"IndexInAudio": 78,
 			"Interval": [1538.136236,1538.414875],
 			"Label": "1-HANE_1--n78",
@@ -1246,11 +1245,11 @@
 				"Value": 341.7450104,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 79,
+			"IndexInScore": 80,
 			"IndexInAudio": 79,
 			"Interval": [1538.507755,1538.972154],
 			"Label": "1-HANE_1--n79",
@@ -1262,11 +1261,11 @@
 				"Value": 358.5282898,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 80,
+			"IndexInScore": 81,
 			"IndexInAudio": 80,
 			"Interval": [1539.018594,1539.343673],
 			"Label": "1-HANE_1--n80",
@@ -1278,11 +1277,11 @@
 				"Value": 345.9156342,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 81,
+			"IndexInScore": 82,
 			"IndexInAudio": 81,
 			"Interval": [1539.390113,1539.947392],
 			"Label": "1-HANE_1--n81",
@@ -1294,11 +1293,11 @@
 				"Value": 351.6573181,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 82,
+			"IndexInScore": 83,
 			"IndexInAudio": 82,
 			"Interval": [1540.040272,1540.736871],
 			"Label": "1-HANE_1--n82",
@@ -1310,11 +1309,11 @@
 				"Value": 399.3084412,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 83,
+			"IndexInScore": 84,
 			"IndexInAudio": 83,
 			"Interval": [1540.87619,1541.06195],
 			"Label": "1-HANE_1--n83",
@@ -1326,11 +1325,11 @@
 				"Value": 354.0010376,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 84,
+			"IndexInScore": 85,
 			"IndexInAudio": 84,
 			"Interval": [1541.10839,1542.130068],
 			"Label": "1-HANE_1--n84",
@@ -1342,11 +1341,11 @@
 				"Value": 362.484726,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 85,
+			"IndexInScore": 86,
 			"IndexInAudio": 85,
 			"Interval": [1542.222948,1542.687347],
 			"Label": "1-HANE_1--n85",
@@ -1358,11 +1357,11 @@
 				"Value": 812.576416,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 86,
+			"IndexInScore": 87,
 			"IndexInAudio": 86,
 			"Interval": [1542.780227,1543.476825],
 			"Label": "1-HANE_1--n86",
@@ -1374,11 +1373,11 @@
 				"Value": 725.3883362,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 87,
+			"IndexInScore": 88,
 			"IndexInAudio": 87,
 			"Interval": [1543.569705,1543.987664],
 			"Label": "1-HANE_1--n87",
@@ -1390,11 +1389,11 @@
 				"Value": 822.9683228,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 88,
+			"IndexInScore": 89,
 			"IndexInAudio": 88,
 			"Interval": [1545.659501,1545.798821],
 			"Label": "2-HANE_1--n1",
@@ -1406,11 +1405,11 @@
 				"Value": 816.3400269,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 89,
+			"IndexInScore": 90,
 			"IndexInAudio": 89,
 			"Interval": [1545.845261,1546.17034],
 			"Label": "2-HANE_1--n2",
@@ -1422,11 +1421,11 @@
 				"Value": 716.8494873,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 90,
+			"IndexInScore": 91,
 			"IndexInAudio": 90,
 			"Interval": [1546.26322,1546.44898],
 			"Label": "2-HANE_1--n3",
@@ -1438,11 +1437,11 @@
 				"Value": 704.1275635,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 91,
+			"IndexInScore": 92,
 			"IndexInAudio": 91,
 			"Interval": [1546.49542,1546.681179],
 			"Label": "2-HANE_1--n4",
@@ -1454,11 +1453,11 @@
 				"Value": 707.388855,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 92,
+			"IndexInScore": 93,
 			"IndexInAudio": 92,
 			"Interval": [1546.774059,1547.284898],
 			"Label": "2-HANE_1--n5",
@@ -1470,11 +1469,11 @@
 				"Value": 695.2363281,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 93,
+			"IndexInScore": 94,
 			"IndexInAudio": 93,
 			"Interval": [1547.377778,1548.260136],
 			"Label": "2-HANE_1--n6",
@@ -1486,11 +1485,11 @@
 				"Value": 717.2636719,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 94,
+			"IndexInScore": 95,
 			"IndexInAudio": 94,
 			"Interval": [1548.353016,1549.188934],
 			"Label": "2-HANE_1--n7",
@@ -1502,11 +1501,11 @@
 				"Value": 822.9683228,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 95,
+			"IndexInScore": 96,
 			"IndexInAudio": 95,
 			"Interval": [1549.235374,1550.257052],
 			"Label": "2-HANE_1--n8",
@@ -1518,11 +1517,11 @@
 				"Value": 821.543457,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 96,
+			"IndexInScore": 97,
 			"IndexInAudio": 96,
 			"Interval": [1550.303492,1550.767891],
 			"Label": "2-HANE_1--n9",
@@ -1534,11 +1533,11 @@
 				"Value": 822.493042,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 97,
+			"IndexInScore": 98,
 			"IndexInAudio": 97,
 			"Interval": [1550.814331,1551.41805],
 			"Label": "2-HANE_1--n10",
@@ -1550,11 +1549,11 @@
 				"Value": 857.4208374,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 98,
+			"IndexInScore": 99,
 			"IndexInAudio": 98,
 			"Interval": [1551.46449,1551.696689],
 			"Label": "2-HANE_1--n11",
@@ -1566,11 +1565,11 @@
 				"Value": 863.1354065,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 99,
+			"IndexInScore": 100,
 			"IndexInAudio": 99,
 			"Interval": [1551.743129,1552.207528],
 			"Label": "2-HANE_1--n12",
@@ -1582,11 +1581,11 @@
 				"Value": 715.8150635,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 100,
+			"IndexInScore": 101,
 			"IndexInAudio": 100,
 			"Interval": [1552.253968,1552.486168],
 			"Label": "2-HANE_1--n13",
@@ -1598,11 +1597,11 @@
 				"Value": 821.0690308,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 101,
+			"IndexInScore": 102,
 			"IndexInAudio": 101,
 			"Interval": [1552.532608,1552.671927],
 			"Label": "2-HANE_1--n14",
@@ -1614,11 +1613,11 @@
 				"Value": 859.6528015,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "B5b1",
-			"IndexInScore": 102,
+			"IndexInScore": 103,
 			"IndexInAudio": 102,
 			"Interval": [1552.811247,1552.997007],
 			"Label": "2-HANE_1--n15",
@@ -1630,11 +1629,11 @@
 				"Value": 997.5140076,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b1"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 103,
+			"IndexInScore": 104,
 			"IndexInAudio": 103,
 			"Interval": [1553.043447,1553.414966],
 			"Label": "2-HANE_1--n16",
@@ -1646,11 +1645,11 @@
 				"Value": 862.138855,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 104,
+			"IndexInScore": 105,
 			"IndexInAudio": 104,
 			"Interval": [1553.461406,1553.786485],
 			"Label": "2-HANE_1--n17",
@@ -1662,11 +1661,11 @@
 				"Value": 817.2836304,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 105,
+			"IndexInScore": 106,
 			"IndexInAudio": 105,
 			"Interval": [1553.832925,1554.343764],
 			"Label": "2-HANE_1--n18",
@@ -1678,11 +1677,11 @@
 				"Value": 839.2905884,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 106,
+			"IndexInScore": 107,
 			"IndexInAudio": 106,
 			"Interval": [1554.390204,1554.854603],
 			"Label": "2-HANE_1--n19",
@@ -1694,11 +1693,11 @@
 				"Value": 720.1696777,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 107,
+			"IndexInScore": 108,
 			"IndexInAudio": 107,
 			"Interval": [1554.901043,1555.458322],
 			"Label": "2-HANE_1--n20",
@@ -1710,11 +1709,11 @@
 				"Value": 712.3091431,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 108,
+			"IndexInScore": 109,
 			"IndexInAudio": 108,
 			"Interval": [1555.551202,1555.876281],
 			"Label": "2-HANE_1--n21",
@@ -1726,11 +1725,11 @@
 				"Value": 694.2331543,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 109,
+			"IndexInScore": 110,
 			"IndexInAudio": 109,
 			"Interval": [1555.922721,1557.362358],
 			"Label": "2-HANE_1--n22",
@@ -1742,11 +1741,11 @@
 				"Value": 725.5978394,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 110,
+			"IndexInScore": 111,
 			"IndexInAudio": 110,
 			"Interval": [1557.455238,1557.733878],
 			"Label": "2-HANE_1--n23",
@@ -1758,11 +1757,11 @@
 				"Value": 868.3862305,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 111,
+			"IndexInScore": 112,
 			"IndexInAudio": 111,
 			"Interval": [1557.780317,1558.662676],
 			"Label": "2-HANE_1--n24",
@@ -1774,11 +1773,11 @@
 				"Value": 822.0181274,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 112,
+			"IndexInScore": 113,
 			"IndexInAudio": 112,
 			"Interval": [1558.755556,1559.545034],
 			"Label": "2-HANE_1--n25",
@@ -1790,11 +1789,11 @@
 				"Value": 874.4263306,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 113,
+			"IndexInScore": 114,
 			"IndexInAudio": 113,
 			"Interval": [1559.591474,1559.870113],
 			"Label": "2-HANE_1--n26",
@@ -1806,11 +1805,11 @@
 				"Value": 858.907959,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "B5b1",
-			"IndexInScore": 114,
+			"IndexInScore": 115,
 			"IndexInAudio": 114,
 			"Interval": [1559.962993,1560.427392],
 			"Label": "2-HANE_1--n27",
@@ -1822,11 +1821,11 @@
 				"Value": 1030.307861,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b1"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 115,
+			"IndexInScore": 116,
 			"IndexInAudio": 115,
 			"Interval": [1560.473832,1560.845351],
 			"Label": "2-HANE_1--n28",
@@ -1838,11 +1837,11 @@
 				"Value": 868.3862305,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 116,
+			"IndexInScore": 117,
 			"IndexInAudio": 116,
 			"Interval": [1560.938231,1561.216871],
 			"Label": "2-HANE_1--n29",
@@ -1854,11 +1853,11 @@
 				"Value": 821.543457,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 117,
+			"IndexInScore": 118,
 			"IndexInAudio": 117,
 			"Interval": [1561.263311,1561.63483],
 			"Label": "2-HANE_1--n30",
@@ -1870,11 +1869,11 @@
 				"Value": 826.7800293,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5b4",
-			"IndexInScore": 118,
+			"IndexInScore": 119,
 			"IndexInAudio": 118,
 			"Interval": [1561.72771,1562.377868],
 			"Label": "2-HANE_1--n31",
@@ -1886,11 +1885,11 @@
 				"Value": 869.1390076,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5b4"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 119,
+			"IndexInScore": 120,
 			"IndexInAudio": 119,
 			"Interval": [1562.424308,1562.749388],
 			"Label": "2-HANE_1--n32",
@@ -1902,11 +1901,11 @@
 				"Value": 821.7807922,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 120,
+			"IndexInScore": 121,
 			"IndexInAudio": 120,
 			"Interval": [1562.795828,1563.028027],
 			"Label": "2-HANE_1--n33",
@@ -1918,11 +1917,11 @@
 				"Value": 725.178833,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 121,
+			"IndexInScore": 122,
 			"IndexInAudio": 121,
 			"Interval": [1563.074467,1563.353107],
 			"Label": "2-HANE_1--n34",
@@ -1934,11 +1933,11 @@
 				"Value": 726.8563232,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 122,
+			"IndexInScore": 123,
 			"IndexInAudio": 122,
 			"Interval": [1563.445986,1564.142585],
 			"Label": "2-HANE_1--n35",
@@ -1950,11 +1949,11 @@
 				"Value": 819.8842468,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 123,
+			"IndexInScore": 124,
 			"IndexInAudio": 123,
 			"Interval": [1564.235465,1564.746304],
 			"Label": "2-HANE_1--n36",
@@ -1966,11 +1965,11 @@
 				"Value": 710.2548828,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 124,
+			"IndexInScore": 125,
 			"IndexInAudio": 124,
 			"Interval": [1564.839184,1565.396463],
 			"Label": "2-HANE_1--n37",
@@ -1982,11 +1981,11 @@
 				"Value": 692.8309937,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 125,
+			"IndexInScore": 126,
 			"IndexInAudio": 125,
 			"Interval": [1565.442902,1565.628662],
 			"Label": "2-HANE_1--n38",
@@ -1998,11 +1997,11 @@
 				"Value": 688.4428101,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 126,
+			"IndexInScore": 127,
 			"IndexInAudio": 126,
 			"Interval": [1565.721542,1566.139501],
 			"Label": "2-HANE_1--n39",
@@ -2014,11 +2013,11 @@
 				"Value": 716.4354858,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 127,
+			"IndexInScore": 128,
 			"IndexInAudio": 127,
 			"Interval": [1566.185941,1566.46458],
 			"Label": "2-HANE_1--n40",
@@ -2030,11 +2029,11 @@
 				"Value": 696.039978,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 128,
+			"IndexInScore": 129,
 			"IndexInAudio": 128,
 			"Interval": [1566.6039,1566.88254],
 			"Label": "2-HANE_1--n41",
@@ -2046,11 +2045,11 @@
 				"Value": 580.24823,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 129,
+			"IndexInScore": 130,
 			"IndexInAudio": 129,
 			"Interval": [1566.97542,1567.114739],
 			"Label": "2-HANE_1--n42",
@@ -2062,11 +2061,11 @@
 				"Value": 583.6095581,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 130,
+			"IndexInScore": 131,
 			"IndexInAudio": 130,
 			"Interval": [1567.161179,1567.207619],
 			"Label": "2-HANE_1--n43",
@@ -2078,11 +2077,11 @@
 				"Value": 589.8794861,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 131,
+			"IndexInScore": 132,
 			"IndexInAudio": 131,
 			"Interval": [1567.300499,1567.393379],
 			"Label": "2-HANE_1--n44",
@@ -2094,11 +2093,11 @@
 				"Value": 582.094574,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 132,
+			"IndexInScore": 133,
 			"IndexInAudio": 132,
 			"Interval": [1567.439819,1567.486259],
 			"Label": "2-HANE_1--n45",
@@ -2110,11 +2109,11 @@
 				"Value": 584.7906494,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 133,
+			"IndexInScore": 134,
 			"IndexInAudio": 133,
 			"Interval": [1567.532698,1568.229297],
 			"Label": "2-HANE_1--n46",
@@ -2126,11 +2125,11 @@
 				"Value": 577.5730591,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 134,
+			"IndexInScore": 135,
 			"IndexInAudio": 134,
 			"Interval": [1568.322177,1569.158095],
 			"Label": "2-HANE_1--n47",
@@ -2142,11 +2141,11 @@
 				"Value": 511.0047913,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 135,
+			"IndexInScore": 136,
 			"IndexInAudio": 135,
 			"Interval": [1569.204535,1570.458413],
 			"Label": "2-HANE_1--n48",
@@ -2158,11 +2157,11 @@
 				"Value": 544.2125244,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 136,
+			"IndexInScore": 137,
 			"IndexInAudio": 136,
 			"Interval": [1570.504853,1571.387211],
 			"Label": "2-HANE_1--n49",
@@ -2174,11 +2173,11 @@
 				"Value": 560.8067017,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 137,
+			"IndexInScore": 138,
 			"IndexInAudio": 137,
 			"Interval": [1571.480091,1571.71229],
 			"Label": "2-HANE_1--n50",
@@ -2190,11 +2189,11 @@
 				"Value": 505.7193909,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 138,
+			"IndexInScore": 139,
 			"IndexInAudio": 138,
 			"Interval": [1571.75873,1572.223129],
 			"Label": "2-HANE_1--n51",
@@ -2206,11 +2205,11 @@
 				"Value": 545.3138733,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 139,
+			"IndexInScore": 140,
 			"IndexInAudio": 139,
 			"Interval": [1572.269569,1572.733968],
 			"Label": "2-HANE_1--n52",
@@ -2222,11 +2221,11 @@
 				"Value": 589.7091064,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 140,
+			"IndexInScore": 141,
 			"IndexInAudio": 140,
 			"Interval": [1572.826848,1573.244807],
 			"Label": "2-HANE_1--n53",
@@ -2238,11 +2237,11 @@
 				"Value": 688.4428101,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 141,
+			"IndexInScore": 142,
 			"IndexInAudio": 141,
 			"Interval": [1573.291247,1573.523447],
 			"Label": "2-HANE_1--n54",
@@ -2254,11 +2253,11 @@
 				"Value": 586.4820557,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 142,
+			"IndexInScore": 143,
 			"IndexInAudio": 142,
 			"Interval": [1573.569887,1573.848526],
 			"Label": "2-HANE_1--n55",
@@ -2270,11 +2269,11 @@
 				"Value": 549.4241333,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 143,
+			"IndexInScore": 144,
 			"IndexInAudio": 143,
 			"Interval": [1573.941406,1574.173605],
 			"Label": "2-HANE_1--n56",
@@ -2286,11 +2285,11 @@
 				"Value": 544.5269775,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5b4",
-			"IndexInScore": 144,
+			"IndexInScore": 145,
 			"IndexInAudio": 144,
 			"Interval": [1574.220045,1575.009524],
 			"Label": "2-HANE_1--n57",
@@ -2302,11 +2301,11 @@
 				"Value": 585.9740601,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5b4"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 145,
+			"IndexInScore": 146,
 			"IndexInAudio": 145,
 			"Interval": [1575.102404,1575.427483],
 			"Label": "2-HANE_1--n58",
@@ -2318,11 +2317,11 @@
 				"Value": 546.1019287,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 146,
+			"IndexInScore": 147,
 			"IndexInAudio": 146,
 			"Interval": [1575.520363,1575.984762],
 			"Label": "2-HANE_1--n59",
@@ -2334,11 +2333,11 @@
 				"Value": 481.7674255,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 147,
+			"IndexInScore": 148,
 			"IndexInAudio": 147,
 			"Interval": [1576.031202,1576.634921],
 			"Label": "2-HANE_1--n60",
@@ -2350,11 +2349,11 @@
 				"Value": 584.6408691,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 148,
+			"IndexInScore": 149,
 			"IndexInAudio": 148,
 			"Interval": [1576.681361,1577.656599],
 			"Label": "2-HANE_1--n61",
@@ -2366,11 +2365,11 @@
 				"Value": 612.9786377,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 149,
+			"IndexInScore": 150,
 			"IndexInAudio": 149,
 			"Interval": [1577.749478,1578.492517],
 			"Label": "2-HANE_1--n62",
@@ -2382,11 +2381,11 @@
 				"Value": 610.505188,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 150,
+			"IndexInScore": 151,
 			"IndexInAudio": 150,
 			"Interval": [1578.585397,1578.817596],
 			"Label": "2-HANE_1--n63",
@@ -2398,11 +2397,11 @@
 				"Value": 546.4174194,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 151,
+			"IndexInScore": 152,
 			"IndexInAudio": 151,
 			"Interval": [1578.910476,1579.281995],
 			"Label": "2-HANE_1--n64",
@@ -2414,11 +2413,11 @@
 				"Value": 611.2108765,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 152,
+			"IndexInScore": 153,
 			"IndexInAudio": 152,
 			"Interval": [1579.467755,1580.442993],
 			"Label": "2-HANE_1--n65",
@@ -2430,11 +2429,11 @@
 				"Value": 543.8982544,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 153,
+			"IndexInScore": 154,
 			"IndexInAudio": 153,
 			"Interval": [1580.582313,1581.278912],
 			"Label": "2-HANE_1--n66",
@@ -2446,11 +2445,11 @@
 				"Value": 483.7193298,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 154,
+			"IndexInScore": 155,
 			"IndexInAudio": 154,
 			"Interval": [1581.371791,1581.92907],
 			"Label": "2-HANE_1--n67",
@@ -2462,11 +2461,11 @@
 				"Value": 476.7843323,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 155,
+			"IndexInScore": 156,
 			"IndexInAudio": 155,
 			"Interval": [1581.97551,1582.904308],
 			"Label": "2-HANE_1--n68",
@@ -2478,11 +2477,11 @@
 				"Value": 457.3621216,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 156,
+			"IndexInScore": 157,
 			"IndexInAudio": 156,
 			"Interval": [1582.997188,1583.461587],
 			"Label": "2-HANE_1--n69",
@@ -2494,11 +2493,11 @@
 				"Value": 408.6418152,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 157,
+			"IndexInScore": 158,
 			"IndexInAudio": 157,
 			"Interval": [1583.554467,1583.833107],
 			"Label": "2-HANE_1--n70",
@@ -2510,11 +2509,11 @@
 				"Value": 361.1263123,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 158,
+			"IndexInScore": 159,
 			"IndexInAudio": 158,
 			"Interval": [1583.925986,1584.483265],
 			"Label": "2-HANE_1--n71",
@@ -2526,11 +2525,11 @@
 				"Value": 366.3789978,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 159,
+			"IndexInScore": 160,
 			"IndexInAudio": 159,
 			"Interval": [1584.576145,1585.412063],
 			"Label": "2-HANE_1--n72",
@@ -2542,11 +2541,11 @@
 				"Value": 480.3780212,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 160,
+			"IndexInScore": 161,
 			"IndexInAudio": 160,
 			"Interval": [1585.458503,1586.433741],
 			"Label": "2-HANE_1--n73",
@@ -2558,11 +2557,11 @@
 				"Value": 475.2720642,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 161,
+			"IndexInScore": 162,
 			"IndexInAudio": 161,
 			"Interval": [1586.480181,1586.805261],
 			"Label": "2-HANE_1--n74",
@@ -2574,11 +2573,11 @@
 				"Value": 540.2973328,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 162,
+			"IndexInScore": 163,
 			"IndexInAudio": 162,
 			"Interval": [1586.898141,1587.3161],
 			"Label": "2-HANE_1--n75",
@@ -2590,11 +2589,11 @@
 				"Value": 478.8543549,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 163,
+			"IndexInScore": 164,
 			"IndexInAudio": 163,
 			"Interval": [1587.40898,1588.244898],
 			"Label": "2-HANE_1--n76",
@@ -2606,11 +2605,11 @@
 				"Value": 458.023056,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 164,
+			"IndexInScore": 165,
 			"IndexInAudio": 164,
 			"Interval": [1588.337778,1588.662857],
 			"Label": "2-HANE_1--n77",
@@ -2622,11 +2621,11 @@
 				"Value": 404.1815796,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 165,
+			"IndexInScore": 166,
 			"IndexInAudio": 165,
 			"Interval": [1588.755737,1589.220136],
 			"Label": "2-HANE_1--n78",
@@ -2638,11 +2637,11 @@
 				"Value": 458.6849365,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 166,
+			"IndexInScore": 167,
 			"IndexInAudio": 166,
 			"Interval": [1589.266576,1589.823855],
 			"Label": "2-HANE_1--n79",
@@ -2654,11 +2653,11 @@
 				"Value": 407.698761,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 167,
+			"IndexInScore": 168,
 			"IndexInAudio": 167,
 			"Interval": [1589.870295,1590.241814],
 			"Label": "2-HANE_1--n80",
@@ -2670,11 +2669,11 @@
 				"Value": 361.3349609,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 168,
+			"IndexInScore": 169,
 			"IndexInAudio": 168,
 			"Interval": [1590.334694,1590.520454],
 			"Label": "2-HANE_1--n81",
@@ -2686,11 +2685,11 @@
 				"Value": 344.4203491,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 169,
+			"IndexInScore": 170,
 			"IndexInAudio": 169,
 			"Interval": [1590.566893,1591.124172],
 			"Label": "2-HANE_1--n82",
@@ -2702,11 +2701,11 @@
 				"Value": 356.4633026,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 170,
+			"IndexInScore": 171,
 			"IndexInAudio": 170,
 			"Interval": [1591.217052,1591.913651],
 			"Label": "2-HANE_1--n83",
@@ -2718,11 +2717,11 @@
 				"Value": 350.5419159,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 171,
+			"IndexInScore": 172,
 			"IndexInAudio": 171,
 			"Interval": [1591.960091,1592.42449],
 			"Label": "2-HANE_1--n84",
@@ -2734,11 +2733,11 @@
 				"Value": 354.8198853,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 172,
+			"IndexInScore": 173,
 			"IndexInAudio": 172,
 			"Interval": [1592.51737,1592.842449],
 			"Label": "2-HANE_1--n85",
@@ -2750,11 +2749,11 @@
 				"Value": 403.9481812,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 173,
+			"IndexInScore": 174,
 			"IndexInAudio": 173,
 			"Interval": [1592.888889,1593.121088],
 			"Label": "2-HANE_1--n86",
@@ -2766,11 +2765,11 @@
 				"Value": 361.1263123,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 174,
+			"IndexInScore": 175,
 			"IndexInAudio": 174,
 			"Interval": [1593.167528,1594.189206],
 			"Label": "2-HANE_1--n87",
@@ -2782,11 +2781,11 @@
 				"Value": 359.0463867,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 175,
+			"IndexInScore": 176,
 			"IndexInAudio": 175,
 			"Interval": [1594.235646,1594.653605],
 			"Label": "2-HANE_1--n88",
@@ -2798,11 +2797,11 @@
 				"Value": 920.5547485,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 176,
+			"IndexInScore": 177,
 			"IndexInAudio": 176,
 			"Interval": [1594.746485,1595.721723],
 			"Label": "2-HANE_1--n89",
@@ -2814,11 +2813,11 @@
 				"Value": 823.2060547,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 177,
+			"IndexInScore": 178,
 			"IndexInAudio": 177,
 			"Interval": [1595.814603,1596.511202],
 			"Label": "2-HANE_1--n90",
@@ -2830,11 +2829,11 @@
 				"Value": 922.1513062,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 178,
+			"IndexInScore": 179,
 			"IndexInAudio": 178,
 			"Interval": [1596.696961,1597.30068],
 			"Label": "3-HANE_1--n1",
@@ -2846,11 +2845,11 @@
 				"Value": 823.6816711,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 179,
+			"IndexInScore": 180,
 			"IndexInAudio": 179,
 			"Interval": [1597.39356,1599.065397],
 			"Label": "3-HANE_1--n2",
@@ -2862,11 +2861,11 @@
 				"Value": 918.9609375,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 180,
+			"IndexInScore": 181,
 			"IndexInAudio": 180,
 			"Interval": [1599.158277,1599.483356],
 			"Label": "3-HANE_1--n3",
@@ -2878,11 +2877,11 @@
 				"Value": 821.543457,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 181,
+			"IndexInScore": 182,
 			"IndexInAudio": 181,
 			"Interval": [1599.529796,1599.947755],
 			"Label": "3-HANE_1--n4",
@@ -2894,11 +2893,11 @@
 				"Value": 957.9852905,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 182,
+			"IndexInScore": 183,
 			"IndexInAudio": 182,
 			"Interval": [1599.994195,1600.226395],
 			"Label": "3-HANE_1--n5",
@@ -2910,11 +2909,11 @@
 				"Value": 919.4920654,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 183,
+			"IndexInScore": 184,
 			"IndexInAudio": 183,
 			"Interval": [1600.365714,1600.737234],
 			"Label": "3-HANE_1--n6",
@@ -2926,11 +2925,11 @@
 				"Value": 816.3400269,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 184,
+			"IndexInScore": 185,
 			"IndexInAudio": 184,
 			"Interval": [1600.830113,1601.387392],
 			"Label": "3-HANE_1--n7",
@@ -2942,11 +2941,11 @@
 				"Value": 707.388855,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 185,
+			"IndexInScore": 186,
 			"IndexInAudio": 185,
 			"Interval": [1601.480272,1601.851791],
 			"Label": "3-HANE_1--n8",
@@ -2958,11 +2957,11 @@
 				"Value": 687.6479492,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 186,
+			"IndexInScore": 187,
 			"IndexInAudio": 186,
 			"Interval": [1601.898231,1602.36263],
 			"Label": "3-HANE_1--n9",
@@ -2974,11 +2973,11 @@
 				"Value": 711.0758667,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 187,
+			"IndexInScore": 188,
 			"IndexInAudio": 187,
 			"Interval": [1602.40907,1602.45551],
 			"Label": "3-HANE_1--n10",
@@ -2990,11 +2989,11 @@
 				"Value": 713.1325073,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 188,
+			"IndexInScore": 189,
 			"IndexInAudio": 188,
 			"Interval": [1602.50195,1602.78059],
 			"Label": "3-HANE_1--n11",
@@ -3006,11 +3005,11 @@
 				"Value": 608.9203796,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 189,
+			"IndexInScore": 190,
 			"IndexInAudio": 189,
 			"Interval": [1602.827029,1603.012789],
 			"Label": "3-HANE_1--n12",
@@ -3022,11 +3021,11 @@
 				"Value": 586.3126831,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 190,
+			"IndexInScore": 191,
 			"IndexInAudio": 190,
 			"Interval": [1603.059229,1603.570068],
 			"Label": "3-HANE_1--n13",
@@ -3038,11 +3037,11 @@
 				"Value": 606.8136902,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 191,
+			"IndexInScore": 192,
 			"IndexInAudio": 191,
 			"Interval": [1603.662948,1604.173787],
 			"Label": "3-HANE_1--n14",
@@ -3054,11 +3053,11 @@
 				"Value": 613.3328247,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C6",
-			"IndexInScore": 192,
+			"IndexInScore": 193,
 			"IndexInAudio": 192,
 			"Interval": [1604.359546,1604.870385],
 			"Label": "3-HANE_1--n15",
@@ -3070,11 +3069,11 @@
 				"Value": 1080.282593,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C6"
 		},
 		{
-			"Symbol": "B5b1",
-			"IndexInScore": 193,
+			"IndexInScore": 194,
 			"IndexInAudio": 193,
 			"Interval": [1604.916825,1605.149025],
 			"Label": "3-HANE_1--n16",
@@ -3086,11 +3085,11 @@
 				"Value": 1028.22699,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b1"
 		},
 		{
-			"Symbol": "D6",
-			"IndexInScore": 194,
+			"IndexInScore": 195,
 			"IndexInAudio": 194,
 			"Interval": [1605.241905,1606.077823],
 			"Label": "3-HANE_1--n17",
@@ -3102,11 +3101,11 @@
 				"Value": 1234.841125,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D6"
 		},
 		{
-			"Symbol": "C6",
-			"IndexInScore": 195,
+			"IndexInScore": 196,
 			"IndexInAudio": 195,
 			"Interval": [1606.170703,1606.635102],
 			"Label": "3-HANE_1--n18",
@@ -3118,11 +3117,11 @@
 				"Value": 1079.035278,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C6"
 		},
 		{
-			"Symbol": "B5b1",
-			"IndexInScore": 196,
+			"IndexInScore": 197,
 			"IndexInAudio": 196,
 			"Interval": [1606.727982,1607.099501],
 			"Label": "3-HANE_1--n19",
@@ -3134,11 +3133,11 @@
 				"Value": 1014.950073,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b1"
 		},
 		{
-			"Symbol": "C6",
-			"IndexInScore": 197,
+			"IndexInScore": 198,
 			"IndexInAudio": 197,
 			"Interval": [1607.145941,1608.121179],
 			"Label": "3-HANE_1--n20",
@@ -3150,11 +3149,11 @@
 				"Value": 1089.053955,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C6"
 		},
 		{
-			"Symbol": "B5b1",
-			"IndexInScore": 198,
+			"IndexInScore": 199,
 			"IndexInAudio": 198,
 			"Interval": [1608.167619,1608.214059],
 			"Label": "3-HANE_1--n21",
@@ -3166,11 +3165,11 @@
 				"Value": 1085.286133,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b1"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 199,
+			"IndexInScore": 200,
 			"IndexInAudio": 199,
 			"Interval": [1608.260499,1610.257415],
 			"Label": "3-HANE_1--n22",
@@ -3182,11 +3181,11 @@
 				"Value": 922.6841431,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 200,
+			"IndexInScore": 201,
 			"IndexInAudio": 200,
 			"Interval": [1610.303855,1610.582494],
 			"Label": "3-HANE_1--n23",
@@ -3198,11 +3197,11 @@
 				"Value": 911.2963257,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 201,
+			"IndexInScore": 202,
 			"IndexInAudio": 201,
 			"Interval": [1610.628934,1611.000454],
 			"Label": "3-HANE_1--n24",
@@ -3214,11 +3213,11 @@
 				"Value": 912.3497009,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 202,
+			"IndexInScore": 203,
 			"IndexInAudio": 202,
 			"Interval": [1611.046893,1611.325533],
 			"Label": "3-HANE_1--n25",
@@ -3230,11 +3229,11 @@
 				"Value": 914.9884949,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 203,
+			"IndexInScore": 204,
 			"IndexInAudio": 203,
 			"Interval": [1611.371973,1611.789932],
 			"Label": "3-HANE_1--n26",
@@ -3246,11 +3245,11 @@
 				"Value": 954.3952637,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 204,
+			"IndexInScore": 205,
 			"IndexInAudio": 204,
 			"Interval": [1611.836372,1612.161451],
 			"Label": "3-HANE_1--n27",
@@ -3262,11 +3261,11 @@
 				"Value": 932.5968628,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 205,
+			"IndexInScore": 206,
 			"IndexInAudio": 205,
 			"Interval": [1612.207891,1612.532971],
 			"Label": "3-HANE_1--n28",
@@ -3278,11 +3277,11 @@
 				"Value": 820.1211853,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 206,
+			"IndexInScore": 207,
 			"IndexInAudio": 206,
 			"Interval": [1612.57941,1613.04381],
 			"Label": "3-HANE_1--n29",
@@ -3294,11 +3293,11 @@
 				"Value": 822.9683228,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 207,
+			"IndexInScore": 208,
 			"IndexInAudio": 207,
 			"Interval": [1613.136689,1613.508209],
 			"Label": "3-HANE_1--n30",
@@ -3310,11 +3309,11 @@
 				"Value": 715.1951294,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 208,
+			"IndexInScore": 209,
 			"IndexInAudio": 208,
 			"Interval": [1613.601088,1614.344127],
 			"Label": "3-HANE_1--n31",
@@ -3326,11 +3325,11 @@
 				"Value": 700.274353,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 209,
+			"IndexInScore": 210,
 			"IndexInAudio": 209,
 			"Interval": [1614.390567,1614.808526],
 			"Label": "3-HANE_1--n32",
@@ -3342,11 +3341,11 @@
 				"Value": 710.870575,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 210,
+			"IndexInScore": 211,
 			"IndexInAudio": 210,
 			"Interval": [1614.854966,1615.272925],
 			"Label": "3-HANE_1--n33",
@@ -3358,11 +3357,11 @@
 				"Value": 725.8077087,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 211,
+			"IndexInScore": 212,
 			"IndexInAudio": 211,
 			"Interval": [1615.319365,1615.551565],
 			"Label": "3-HANE_1--n34",
@@ -3374,11 +3373,11 @@
 				"Value": 608.3930054,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 213,
+			"IndexInScore": 214,
 			"IndexInAudio": 212,
 			"Interval": [1615.598005,1615.783764],
 			"Label": "3-HANE_1--n35",
@@ -3390,11 +3389,11 @@
 				"Value": 611.7406921,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 214,
+			"IndexInScore": 215,
 			"IndexInAudio": 213,
 			"Interval": [1615.830204,1616.062404],
 			"Label": "3-HANE_1--n36",
@@ -3406,11 +3405,11 @@
 				"Value": 584.9595337,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 215,
+			"IndexInScore": 216,
 			"IndexInAudio": 214,
 			"Interval": [1616.108844,1617.594921],
 			"Label": "3-HANE_1--n37",
@@ -3422,11 +3421,11 @@
 				"Value": 611.2108765,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 216,
+			"IndexInScore": 217,
 			"IndexInAudio": 215,
 			"Interval": [1617.641361,1618.895238],
 			"Label": "3-HANE_1--n38",
@@ -3438,11 +3437,11 @@
 				"Value": 600.7106323,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 217,
+			"IndexInScore": 218,
 			"IndexInAudio": 216,
 			"Interval": [1618.988118,1619.452517],
 			"Label": "3-HANE_1--n39",
@@ -3454,11 +3453,11 @@
 				"Value": 616.8858643,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 218,
+			"IndexInScore": 219,
 			"IndexInAudio": 217,
 			"Interval": [1619.498957,1619.870476],
 			"Label": "3-HANE_1--n40",
@@ -3470,11 +3469,11 @@
 				"Value": 617.2422485,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 219,
+			"IndexInScore": 220,
 			"IndexInAudio": 218,
 			"Interval": [1619.963356,1620.288435],
 			"Label": "3-HANE_1--n41",
@@ -3486,11 +3485,11 @@
 				"Value": 610.505188,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 220,
+			"IndexInScore": 221,
 			"IndexInAudio": 219,
 			"Interval": [1620.334875,1620.567075],
 			"Label": "3-HANE_1--n42",
@@ -3502,11 +3501,11 @@
 				"Value": 690.0353394,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 221,
+			"IndexInScore": 222,
 			"IndexInAudio": 220,
 			"Interval": [1620.613515,1621.077914],
 			"Label": "3-HANE_1--n43",
@@ -3518,11 +3517,11 @@
 				"Value": 606.4632568,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 222,
+			"IndexInScore": 223,
 			"IndexInAudio": 221,
 			"Interval": [1621.124354,1621.263673],
 			"Label": "3-HANE_1--n44",
@@ -3534,11 +3533,11 @@
 				"Value": 582.9358521,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 223,
+			"IndexInScore": 224,
 			"IndexInAudio": 222,
 			"Interval": [1621.310113,1621.635193],
 			"Label": "3-HANE_1--n45",
@@ -3550,11 +3549,11 @@
 				"Value": 589.1984253,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 224,
+			"IndexInScore": 225,
 			"IndexInAudio": 223,
 			"Interval": [1621.728073,1622.471111],
 			"Label": "3-HANE_1--n46",
@@ -3566,11 +3565,11 @@
 				"Value": 611.5640259,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 225,
+			"IndexInScore": 226,
 			"IndexInAudio": 224,
 			"Interval": [1622.563991,1622.88907],
 			"Label": "3-HANE_1--n47",
@@ -3582,11 +3581,11 @@
 				"Value": 592.4404907,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "B4b4",
-			"IndexInScore": 226,
+			"IndexInScore": 227,
 			"IndexInAudio": 225,
 			"Interval": [1622.98195,1623.16771],
 			"Label": "3-HANE_1--n48",
@@ -3598,11 +3597,11 @@
 				"Value": 472.5346985,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b4"
 		},
 		{
-			"Symbol": "B4b4",
-			"IndexInScore": 227,
+			"IndexInScore": 228,
 			"IndexInAudio": 226,
 			"Interval": [1623.21415,1623.26059],
 			"Label": "3-HANE_1--n49",
@@ -3614,11 +3613,11 @@
 				"Value": 459.3487244,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 228,
+			"IndexInScore": 229,
 			"IndexInAudio": 227,
 			"Interval": [1623.307029,1623.399909],
 			"Label": "3-HANE_1--n50",
@@ -3630,11 +3629,11 @@
 				"Value": 459.7459412,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "B4b4",
-			"IndexInScore": 229,
+			"IndexInScore": 230,
 			"IndexInAudio": 228,
 			"Interval": [1623.492789,1623.771429],
 			"Label": "3-HANE_1--n51",
@@ -3646,11 +3645,11 @@
 				"Value": 607.5151062,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b4"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 230,
+			"IndexInScore": 231,
 			"IndexInAudio": 229,
 			"Interval": [1623.864308,1624.235828],
 			"Label": "3-HANE_1--n52",
@@ -3662,11 +3661,11 @@
 				"Value": 604.7142639,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "B4b4",
-			"IndexInScore": 231,
+			"IndexInScore": 232,
 			"IndexInAudio": 230,
 			"Interval": [1624.328707,1624.839546],
 			"Label": "3-HANE_1--n53",
@@ -3678,11 +3677,11 @@
 				"Value": 595.7003784,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 232,
+			"IndexInScore": 233,
 			"IndexInAudio": 231,
 			"Interval": [1624.885986,1625.211066],
 			"Label": "3-HANE_1--n54",
@@ -3694,11 +3693,11 @@
 				"Value": 457.8907776,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 233,
+			"IndexInScore": 234,
 			"IndexInAudio": 232,
 			"Interval": [1625.257506,1626.186304],
 			"Label": "3-HANE_1--n55",
@@ -3710,11 +3709,11 @@
 				"Value": 457.4942474,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 234,
+			"IndexInScore": 235,
 			"IndexInAudio": 233,
 			"Interval": [1626.279184,1626.743583],
 			"Label": "3-HANE_1--n56",
@@ -3726,11 +3725,11 @@
 				"Value": 541.7035522,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 235,
+			"IndexInScore": 236,
 			"IndexInAudio": 234,
 			"Interval": [1626.790023,1627.579501],
 			"Label": "3-HANE_1--n57",
@@ -3742,11 +3741,11 @@
 				"Value": 506.7427673,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 236,
+			"IndexInScore": 237,
 			"IndexInAudio": 235,
 			"Interval": [1627.625941,1628.18322],
 			"Label": "3-HANE_1--n58",
@@ -3758,11 +3757,11 @@
 				"Value": 543.8982544,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 237,
+			"IndexInScore": 238,
 			"IndexInAudio": 236,
 			"Interval": [1628.22966,1629.390658],
 			"Label": "3-HANE_1--n59",
@@ -3774,11 +3773,11 @@
 				"Value": 607.3396606,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 238,
+			"IndexInScore": 239,
 			"IndexInAudio": 237,
 			"Interval": [1629.437098,1629.576417],
 			"Label": "3-HANE_1--n60",
@@ -3790,11 +3789,11 @@
 				"Value": 538.8947754,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 239,
+			"IndexInScore": 240,
 			"IndexInAudio": 238,
 			"Interval": [1629.622857,1629.994376],
 			"Label": "3-HANE_1--n61",
@@ -3806,11 +3805,11 @@
 				"Value": 621.7150879,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 240,
+			"IndexInScore": 241,
 			"IndexInAudio": 239,
 			"Interval": [1630.087256,1630.969615],
 			"Label": "3-HANE_1--n62",
@@ -3822,11 +3821,11 @@
 				"Value": 550.2180786,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 241,
+			"IndexInScore": 242,
 			"IndexInAudio": 240,
 			"Interval": [1631.062494,1631.944853],
 			"Label": "3-HANE_1--n63",
@@ -3838,11 +3837,11 @@
 				"Value": 480.6555786,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 242,
+			"IndexInScore": 243,
 			"IndexInAudio": 241,
 			"Interval": [1631.991293,1632.316372],
 			"Label": "3-HANE_1--n64",
@@ -3854,11 +3853,11 @@
 				"Value": 473.9013977,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 243,
+			"IndexInScore": 244,
 			"IndexInAudio": 242,
 			"Interval": [1632.409252,1633.10585],
 			"Label": "3-HANE_1--n65",
@@ -3870,11 +3869,11 @@
 				"Value": 458.1553345,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 244,
+			"IndexInScore": 245,
 			"IndexInAudio": 243,
 			"Interval": [1633.19873,1633.616689],
 			"Label": "3-HANE_1--n66",
@@ -3886,11 +3885,11 @@
 				"Value": 409.1141663,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 245,
+			"IndexInScore": 246,
 			"IndexInAudio": 244,
 			"Interval": [1633.709569,1634.266848],
 			"Label": "3-HANE_1--n67",
@@ -3902,11 +3901,11 @@
 				"Value": 361.5437317,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 246,
+			"IndexInScore": 247,
 			"IndexInAudio": 245,
 			"Interval": [1634.313288,1634.499048],
 			"Label": "3-HANE_1--n68",
@@ -3918,11 +3917,11 @@
 				"Value": 359.357605,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 247,
+			"IndexInScore": 248,
 			"IndexInAudio": 246,
 			"Interval": [1634.591927,1635.056327],
 			"Label": "3-HANE_1--n69",
@@ -3934,11 +3933,11 @@
 				"Value": 481.6283264,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 248,
+			"IndexInScore": 249,
 			"IndexInAudio": 247,
 			"Interval": [1635.102766,1635.985125],
 			"Label": "3-HANE_1--n70",
@@ -3950,11 +3949,11 @@
 				"Value": 470.2203064,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 249,
+			"IndexInScore": 250,
 			"IndexInAudio": 248,
 			"Interval": [1636.078005,1636.495964],
 			"Label": "3-HANE_1--n71",
@@ -3966,11 +3965,11 @@
 				"Value": 540.765625,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 250,
+			"IndexInScore": 251,
 			"IndexInAudio": 249,
 			"Interval": [1636.588844,1636.913923],
 			"Label": "3-HANE_1--n72",
@@ -3982,11 +3981,11 @@
 				"Value": 478.3014679,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 251,
+			"IndexInScore": 252,
 			"IndexInAudio": 250,
 			"Interval": [1636.960363,1637.842721],
 			"Label": "3-HANE_1--n73",
@@ -3998,11 +3997,11 @@
 				"Value": 460.5433044,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 252,
+			"IndexInScore": 253,
 			"IndexInAudio": 251,
 			"Interval": [1637.935601,1638.21424],
 			"Label": "3-HANE_1--n74",
@@ -4014,11 +4013,11 @@
 				"Value": 405.8191223,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 253,
+			"IndexInScore": 254,
 			"IndexInAudio": 252,
 			"Interval": [1638.30712,1638.725079],
 			"Label": "3-HANE_1--n75",
@@ -4030,11 +4029,11 @@
 				"Value": 457.8907776,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 254,
+			"IndexInScore": 255,
 			"IndexInAudio": 253,
 			"Interval": [1638.817959,1639.375238],
 			"Label": "3-HANE_1--n76",
@@ -4046,11 +4045,11 @@
 				"Value": 406.288208,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 255,
+			"IndexInScore": 256,
 			"IndexInAudio": 254,
 			"Interval": [1639.421678,1639.793197],
 			"Label": "3-HANE_1--n77",
@@ -4062,11 +4061,11 @@
 				"Value": 357.1846619,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 256,
+			"IndexInScore": 257,
 			"IndexInAudio": 255,
 			"Interval": [1639.839637,1639.978957],
 			"Label": "3-HANE_1--n78",
@@ -4078,11 +4077,11 @@
 				"Value": 344.8184814,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 257,
+			"IndexInScore": 258,
 			"IndexInAudio": 256,
 			"Interval": [1640.025397,1640.861315],
 			"Label": "3-HANE_1--n79",
@@ -4094,11 +4093,11 @@
 				"Value": 359.6690979,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 258,
+			"IndexInScore": 259,
 			"IndexInAudio": 257,
 			"Interval": [1640.954195,1641.279274],
 			"Label": "3-HANE_1--n80",
@@ -4110,11 +4109,11 @@
 				"Value": 354.6149902,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 259,
+			"IndexInScore": 260,
 			"IndexInAudio": 258,
 			"Interval": [1641.372154,1641.836553],
 			"Label": "3-HANE_1--n81",
@@ -4126,11 +4125,11 @@
 				"Value": 359.0463867,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 260,
+			"IndexInScore": 261,
 			"IndexInAudio": 259,
 			"Interval": [1641.929433,1642.347392],
 			"Label": "3-HANE_1--n82",
@@ -4142,11 +4141,11 @@
 				"Value": 406.6404114,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 261,
+			"IndexInScore": 262,
 			"IndexInAudio": 260,
 			"Interval": [1642.393832,1642.533152],
 			"Label": "3-HANE_1--n83",
@@ -4158,11 +4157,11 @@
 				"Value": 359.1501007,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 262,
+			"IndexInScore": 263,
 			"IndexInAudio": 261,
 			"Interval": [1642.579592,1644.158549],
 			"Label": "3-HANE_1--n84",
@@ -4174,11 +4173,11 @@
 				"Value": 360.9177856,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 263,
+			"IndexInScore": 264,
 			"IndexInAudio": 262,
 			"Interval": [1644.251429,1644.669388],
 			"Label": "3-HANE_1--n85",
@@ -4190,11 +4189,11 @@
 				"Value": 949.7208252,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 264,
+			"IndexInScore": 265,
 			"IndexInAudio": 263,
 			"Interval": [1644.762268,1645.365986],
 			"Label": "3-HANE_1--n86",
@@ -4206,11 +4205,11 @@
 				"Value": 924.8184814,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 265,
+			"IndexInScore": 266,
 			"IndexInAudio": 264,
 			"Interval": [1645.412426,1645.783946],
 			"Label": "3-HANE_1--n87",
@@ -4222,11 +4221,11 @@
 				"Value": 955.2225342,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 266,
+			"IndexInScore": 267,
 			"IndexInAudio": 265,
 			"Interval": [1646.759184,1647.270023],
 			"Label": "4-HANE_1--n1",
@@ -4238,11 +4237,11 @@
 				"Value": 924.8184814,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 267,
+			"IndexInScore": 268,
 			"IndexInAudio": 266,
 			"Interval": [1647.316463,1647.734422],
 			"Label": "4-HANE_1--n2",
@@ -4254,11 +4253,11 @@
 				"Value": 973.3240662,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 268,
+			"IndexInScore": 269,
 			"IndexInAudio": 267,
 			"Interval": [1647.780862,1648.198821],
 			"Label": "4-HANE_1--n3",
@@ -4270,11 +4269,11 @@
 				"Value": 987.196228,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "C6",
-			"IndexInScore": 269,
+			"IndexInScore": 270,
 			"IndexInAudio": 268,
 			"Interval": [1648.291701,1649.034739],
 			"Label": "4-HANE_1--n4",
@@ -4286,11 +4285,11 @@
 				"Value": 1097.262573,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C6"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 270,
+			"IndexInScore": 271,
 			"IndexInAudio": 269,
 			"Interval": [1649.127619,1649.684898],
 			"Label": "4-HANE_1--n5",
@@ -4302,11 +4301,11 @@
 				"Value": 951.368042,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 271,
+			"IndexInScore": 272,
 			"IndexInAudio": 270,
 			"Interval": [1649.731338,1649.870658],
 			"Label": "4-HANE_1--n6",
@@ -4318,11 +4317,11 @@
 				"Value": 925.3527832,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 272,
+			"IndexInScore": 273,
 			"IndexInAudio": 271,
 			"Interval": [1649.917098,1650.613696],
 			"Label": "4-HANE_1--n7",
@@ -4334,11 +4333,11 @@
 				"Value": 967.1593323,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 273,
+			"IndexInScore": 274,
 			"IndexInAudio": 272,
 			"Interval": [1650.660136,1650.706576],
 			"Label": "4-HANE_1--n8",
@@ -4350,11 +4349,11 @@
 				"Value": 964.6487732,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 274,
+			"IndexInScore": 275,
 			"IndexInAudio": 273,
 			"Interval": [1650.753016,1650.985215],
 			"Label": "4-HANE_1--n9",
@@ -4366,11 +4365,11 @@
 				"Value": 822.493042,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 275,
+			"IndexInScore": 276,
 			"IndexInAudio": 274,
 			"Interval": [1651.078095,1651.496054],
 			"Label": "4-HANE_1--n10",
@@ -4382,11 +4381,11 @@
 				"Value": 930.1759033,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 276,
+			"IndexInScore": 277,
 			"IndexInAudio": 275,
 			"Interval": [1651.588934,1652.424853],
 			"Label": "4-HANE_1--n11",
@@ -4398,11 +4397,11 @@
 				"Value": 822.0181274,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 277,
+			"IndexInScore": 278,
 			"IndexInAudio": 276,
 			"Interval": [1652.471293,1653.214331],
 			"Label": "4-HANE_1--n12",
@@ -4414,11 +4413,11 @@
 				"Value": 720.5857544,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 278,
+			"IndexInScore": 279,
 			"IndexInAudio": 277,
 			"Interval": [1653.307211,1654.143129],
 			"Label": "4-HANE_1--n13",
@@ -4430,11 +4429,11 @@
 				"Value": 717.2636719,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 279,
+			"IndexInScore": 280,
 			"IndexInAudio": 278,
 			"Interval": [1654.236009,1654.653968],
 			"Label": "4-HANE_1--n14",
@@ -4446,11 +4445,11 @@
 				"Value": 823.4437866,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 280,
+			"IndexInScore": 281,
 			"IndexInAudio": 279,
 			"Interval": [1654.746848,1655.025488],
 			"Label": "4-HANE_1--n15",
@@ -4462,11 +4461,11 @@
 				"Value": 927.2254944,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 281,
+			"IndexInScore": 282,
 			"IndexInAudio": 280,
 			"Interval": [1655.118367,1655.907846],
 			"Label": "4-HANE_1--n16",
@@ -4478,11 +4477,11 @@
 				"Value": 829.6503906,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 282,
+			"IndexInScore": 283,
 			"IndexInAudio": 281,
 			"Interval": [1656.000726,1656.650884],
 			"Label": "4-HANE_1--n17",
@@ -4494,11 +4493,11 @@
 				"Value": 728.9586182,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 283,
+			"IndexInScore": 284,
 			"IndexInAudio": 282,
 			"Interval": [1656.743764,1657.022404],
 			"Label": "4-HANE_1--n18",
@@ -4510,11 +4509,11 @@
 				"Value": 820.1210327,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 284,
+			"IndexInScore": 285,
 			"IndexInAudio": 283,
 			"Interval": [1657.115283,1657.347483],
 			"Label": "4-HANE_1--n19",
@@ -4526,11 +4525,11 @@
 				"Value": 924.5514526,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 285,
+			"IndexInScore": 286,
 			"IndexInAudio": 284,
 			"Interval": [1657.486803,1657.672562],
 			"Label": "4-HANE_1--n20",
@@ -4542,11 +4541,11 @@
 				"Value": 826.5413208,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 286,
+			"IndexInScore": 287,
 			"IndexInAudio": 285,
 			"Interval": [1657.765442,1658.136961],
 			"Label": "4-HANE_1--n21",
@@ -4558,11 +4557,11 @@
 				"Value": 928.5654297,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 287,
+			"IndexInScore": 288,
 			"IndexInAudio": 286,
 			"Interval": [1658.183401,1659.205079],
 			"Label": "4-HANE_1--n22",
@@ -4574,11 +4573,11 @@
 				"Value": 931.2510986,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 288,
+			"IndexInScore": 289,
 			"IndexInAudio": 287,
 			"Interval": [1659.251519,1659.808798],
 			"Label": "4-HANE_1--n23",
@@ -4590,11 +4589,11 @@
 				"Value": 953.8441467,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 289,
+			"IndexInScore": 290,
 			"IndexInAudio": 288,
 			"Interval": [1659.901678,1660.226757],
 			"Label": "4-HANE_1--n24",
@@ -4606,11 +4605,11 @@
 				"Value": 729.1691895,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 290,
+			"IndexInScore": 291,
 			"IndexInAudio": 289,
 			"Interval": [1660.273197,1660.644717],
 			"Label": "4-HANE_1--n25",
@@ -4622,11 +4621,11 @@
 				"Value": 826.7800293,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 291,
+			"IndexInScore": 292,
 			"IndexInAudio": 290,
 			"Interval": [1660.737596,1661.062676],
 			"Label": "4-HANE_1--n26",
@@ -4638,11 +4637,11 @@
 				"Value": 928.2973022,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "B5b5",
-			"IndexInScore": 292,
+			"IndexInScore": 293,
 			"IndexInAudio": 291,
 			"Interval": [1661.155556,1661.573515],
 			"Label": "4-HANE_1--n27",
@@ -4654,11 +4653,11 @@
 				"Value": 959.3697205,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B5b5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 293,
+			"IndexInScore": 294,
 			"IndexInAudio": 292,
 			"Interval": [1661.666395,1662.409433],
 			"Label": "4-HANE_1--n28",
@@ -4670,11 +4669,11 @@
 				"Value": 926.6900635,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 294,
+			"IndexInScore": 295,
 			"IndexInAudio": 293,
 			"Interval": [1662.455873,1662.688073],
 			"Label": "4-HANE_1--n29",
@@ -4686,11 +4685,11 @@
 				"Value": 823.4437866,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "A5",
-			"IndexInScore": 295,
+			"IndexInScore": 296,
 			"IndexInAudio": 294,
 			"Interval": [1662.734512,1663.338231],
 			"Label": "4-HANE_1--n30",
@@ -4702,11 +4701,11 @@
 				"Value": 924.2844238,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 296,
+			"IndexInScore": 297,
 			"IndexInAudio": 295,
 			"Interval": [1663.431111,1663.80263],
 			"Label": "4-HANE_1--n31",
@@ -4718,11 +4717,11 @@
 				"Value": 815.8686523,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 297,
+			"IndexInScore": 298,
 			"IndexInAudio": 296,
 			"Interval": [1663.89551,1664.22059],
 			"Label": "4-HANE_1--n32",
@@ -4734,11 +4733,11 @@
 				"Value": 721.4187012,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 298,
+			"IndexInScore": 299,
 			"IndexInAudio": 297,
 			"Interval": [1664.313469,1664.777868],
 			"Label": "4-HANE_1--n33",
@@ -4750,11 +4749,11 @@
 				"Value": 720.7939453,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 299,
+			"IndexInScore": 300,
 			"IndexInAudio": 298,
 			"Interval": [1664.824308,1665.335147],
 			"Label": "4-HANE_1--n34",
@@ -4766,11 +4765,11 @@
 				"Value": 704.9416199,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 300,
+			"IndexInScore": 301,
 			"IndexInAudio": 299,
 			"Interval": [1665.428027,1666.310385],
 			"Label": "4-HANE_1--n35",
@@ -4782,11 +4781,11 @@
 				"Value": 723.505249,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 301,
+			"IndexInScore": 302,
 			"IndexInAudio": 300,
 			"Interval": [1666.356825,1666.496145],
 			"Label": "4-HANE_1--n36",
@@ -4798,11 +4797,11 @@
 				"Value": 607.5151062,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 302,
+			"IndexInScore": 303,
 			"IndexInAudio": 301,
 			"Interval": [1666.542585,1666.728345],
 			"Label": "4-HANE_1--n37",
@@ -4814,11 +4813,11 @@
 				"Value": 581.9264526,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5#4",
-			"IndexInScore": 303,
+			"IndexInScore": 304,
 			"IndexInAudio": 302,
 			"Interval": [1666.774785,1666.914104],
 			"Label": "4-HANE_1--n38",
@@ -4830,11 +4829,11 @@
 				"Value": 610.3289185,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5#4"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 304,
+			"IndexInScore": 305,
 			"IndexInAudio": 303,
 			"Interval": [1666.960544,1667.889342],
 			"Label": "4-HANE_1--n39",
@@ -4846,11 +4845,11 @@
 				"Value": 615.8178101,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 305,
+			"IndexInScore": 306,
 			"IndexInAudio": 304,
 			"Interval": [1667.935782,1668.446621],
 			"Label": "4-HANE_1--n40",
@@ -4862,11 +4861,11 @@
 				"Value": 616.351593,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 306,
+			"IndexInScore": 307,
 			"IndexInAudio": 305,
 			"Interval": [1668.539501,1669.18966],
 			"Label": "4-HANE_1--n41",
@@ -4878,11 +4877,11 @@
 				"Value": 725.178833,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 307,
+			"IndexInScore": 308,
 			"IndexInAudio": 306,
 			"Interval": [1669.2361,1669.607619],
 			"Label": "4-HANE_1--n42",
@@ -4894,11 +4893,11 @@
 				"Value": 704.9414673,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "G5",
-			"IndexInScore": 308,
+			"IndexInScore": 309,
 			"IndexInAudio": 307,
 			"Interval": [1669.654059,1670.211338],
 			"Label": "4-HANE_1--n43",
@@ -4910,11 +4909,11 @@
 				"Value": 818.2283325,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 309,
+			"IndexInScore": 310,
 			"IndexInAudio": 308,
 			"Interval": [1670.304218,1670.675737],
 			"Label": "4-HANE_1--n44",
@@ -4926,11 +4925,11 @@
 				"Value": 717.2636719,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 310,
+			"IndexInScore": 311,
 			"IndexInAudio": 309,
 			"Interval": [1670.722177,1671.000816],
 			"Label": "4-HANE_1--n45",
@@ -4942,11 +4941,11 @@
 				"Value": 702.5025635,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 311,
+			"IndexInScore": 312,
 			"IndexInAudio": 310,
 			"Interval": [1671.047256,1671.279456],
 			"Label": "4-HANE_1--n46",
@@ -4958,11 +4957,11 @@
 				"Value": 706.5726013,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "F5",
-			"IndexInScore": 312,
+			"IndexInScore": 313,
 			"IndexInAudio": 311,
 			"Interval": [1671.325896,1672.068934],
 			"Label": "4-HANE_1--n47",
@@ -4974,11 +4973,11 @@
 				"Value": 714.7821045,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 313,
+			"IndexInScore": 314,
 			"IndexInAudio": 312,
 			"Interval": [1672.161814,1672.533333],
 			"Label": "4-HANE_1--n48",
@@ -4990,11 +4989,11 @@
 				"Value": 701.8941956,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 314,
+			"IndexInScore": 315,
 			"IndexInAudio": 313,
 			"Interval": [1672.579773,1672.719093],
 			"Label": "4-HANE_1--n49",
@@ -5006,11 +5005,11 @@
 				"Value": 691.4317932,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "E5",
-			"IndexInScore": 315,
+			"IndexInScore": 316,
 			"IndexInAudio": 314,
 			"Interval": [1672.765533,1673.369252],
 			"Label": "4-HANE_1--n50",
@@ -5022,11 +5021,11 @@
 				"Value": 714.1630859,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 316,
+			"IndexInScore": 317,
 			"IndexInAudio": 315,
 			"Interval": [1673.462132,1673.647891],
 			"Label": "4-HANE_1--n51",
@@ -5038,11 +5037,11 @@
 				"Value": 610.6815491,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 317,
+			"IndexInScore": 318,
 			"IndexInAudio": 316,
 			"Interval": [1673.740771,1674.06585],
 			"Label": "4-HANE_1--n52",
@@ -5054,11 +5053,11 @@
 				"Value": 536.8752747,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b1",
-			"IndexInScore": 318,
+			"IndexInScore": 319,
 			"IndexInAudio": 317,
 			"Interval": [1674.15873,1674.48381],
 			"Label": "4-HANE_1--n53",
@@ -5070,11 +5069,11 @@
 				"Value": 504.8437195,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b1"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 319,
+			"IndexInScore": 320,
 			"IndexInAudio": 318,
 			"Interval": [1674.530249,1675.319728],
 			"Label": "4-HANE_1--n54",
@@ -5086,11 +5085,11 @@
 				"Value": 545.7865601,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 320,
+			"IndexInScore": 321,
 			"IndexInAudio": 319,
 			"Interval": [1675.412608,1676.155646],
 			"Label": "4-HANE_1--n55",
@@ -5102,11 +5101,11 @@
 				"Value": 619.743042,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 321,
+			"IndexInScore": 322,
 			"IndexInAudio": 320,
 			"Interval": [1676.202086,1677.130884],
 			"Label": "4-HANE_1--n56",
@@ -5118,11 +5117,11 @@
 				"Value": 624.7750854,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 322,
+			"IndexInScore": 323,
 			"IndexInAudio": 321,
 			"Interval": [1677.223764,1677.455964],
 			"Label": "4-HANE_1--n57",
@@ -5134,11 +5133,11 @@
 				"Value": 543.5842285,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "D5",
-			"IndexInScore": 323,
+			"IndexInScore": 324,
 			"IndexInAudio": 322,
 			"Interval": [1677.502404,1677.966803],
 			"Label": "4-HANE_1--n58",
@@ -5150,11 +5149,11 @@
 				"Value": 622.9732666,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 324,
+			"IndexInScore": 325,
 			"IndexInAudio": 323,
 			"Interval": [1678.059683,1678.849161],
 			"Label": "4-HANE_1--n59",
@@ -5166,11 +5165,11 @@
 				"Value": 550.5360107,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 325,
+			"IndexInScore": 326,
 			"IndexInAudio": 324,
 			"Interval": [1678.988481,1679.917279],
 			"Label": "4-HANE_1--n60",
@@ -5182,11 +5181,11 @@
 				"Value": 485.1183777,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 326,
+			"IndexInScore": 327,
 			"IndexInAudio": 325,
 			"Interval": [1679.963719,1680.195918],
 			"Label": "4-HANE_1--n61",
@@ -5198,11 +5197,11 @@
 				"Value": 476.2339478,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 327,
+			"IndexInScore": 328,
 			"IndexInAudio": 326,
 			"Interval": [1680.288798,1681.031837],
 			"Label": "4-HANE_1--n62",
@@ -5214,11 +5213,11 @@
 				"Value": 458.023056,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 328,
+			"IndexInScore": 329,
 			"IndexInAudio": 327,
 			"Interval": [1681.124717,1681.542676],
 			"Label": "4-HANE_1--n63",
@@ -5230,11 +5229,11 @@
 				"Value": 407.2280273,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 329,
+			"IndexInScore": 330,
 			"IndexInAudio": 328,
 			"Interval": [1681.635556,1681.821315],
 			"Label": "4-HANE_1--n64",
@@ -5246,11 +5245,11 @@
 				"Value": 357.8041687,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 330,
+			"IndexInScore": 331,
 			"IndexInAudio": 329,
 			"Interval": [1681.914195,1682.471474],
 			"Label": "4-HANE_1--n65",
@@ -5262,11 +5261,11 @@
 				"Value": 367.9696808,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 331,
+			"IndexInScore": 332,
 			"IndexInAudio": 330,
 			"Interval": [1682.564354,1683.168073],
 			"Label": "4-HANE_1--n66",
@@ -5278,11 +5277,11 @@
 				"Value": 478.7160645,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 332,
+			"IndexInScore": 333,
 			"IndexInAudio": 331,
 			"Interval": [1683.214512,1684.050431],
 			"Label": "4-HANE_1--n67",
@@ -5294,11 +5293,11 @@
 				"Value": 473.7645264,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "C5",
-			"IndexInScore": 333,
+			"IndexInScore": 334,
 			"IndexInAudio": 332,
 			"Interval": [1684.143311,1684.42195],
 			"Label": "4-HANE_1--n68",
@@ -5310,11 +5309,11 @@
 				"Value": 547.8396301,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C5"
 		},
 		{
-			"Symbol": "B4b5",
-			"IndexInScore": 334,
+			"IndexInScore": 335,
 			"IndexInAudio": 333,
 			"Interval": [1684.60771,1685.211429],
 			"Label": "4-HANE_1--n69",
@@ -5326,11 +5325,11 @@
 				"Value": 469.9487915,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "B4b5"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 335,
+			"IndexInScore": 336,
 			"IndexInAudio": 334,
 			"Interval": [1685.257868,1685.768707],
 			"Label": "4-HANE_1--n70",
@@ -5342,11 +5341,11 @@
 				"Value": 460.5433044,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 336,
+			"IndexInScore": 337,
 			"IndexInAudio": 335,
 			"Interval": [1685.861587,1686.093787],
 			"Label": "4-HANE_1--n71",
@@ -5358,11 +5357,11 @@
 				"Value": 403.481781,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "A4",
-			"IndexInScore": 337,
+			"IndexInScore": 338,
 			"IndexInAudio": 336,
 			"Interval": [1686.186667,1686.743946],
 			"Label": "4-HANE_1--n72",
@@ -5374,11 +5373,11 @@
 				"Value": 459.4804688,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "A4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 338,
+			"IndexInScore": 339,
 			"IndexInAudio": 337,
 			"Interval": [1686.836825,1687.208345],
 			"Label": "4-HANE_1--n73",
@@ -5390,11 +5389,11 @@
 				"Value": 407.9343262,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 339,
+			"IndexInScore": 340,
 			"IndexInAudio": 338,
 			"Interval": [1687.301224,1687.672744],
 			"Label": "4-HANE_1--n74",
@@ -5406,11 +5405,11 @@
 				"Value": 357.3910522,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 340,
+			"IndexInScore": 341,
 			"IndexInAudio": 339,
 			"Interval": [1687.765624,1687.997823],
 			"Label": "4-HANE_1--n75",
@@ -5422,11 +5421,11 @@
 				"Value": 347.6181641,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 341,
+			"IndexInScore": 342,
 			"IndexInAudio": 340,
 			"Interval": [1688.090703,1688.833741],
 			"Label": "4-HANE_1--n76",
@@ -5438,11 +5437,11 @@
 				"Value": 355.9489136,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 342,
+			"IndexInScore": 343,
 			"IndexInAudio": 341,
 			"Interval": [1688.926621,1689.34458],
 			"Label": "4-HANE_1--n77",
@@ -5454,11 +5453,11 @@
 				"Value": 347.3171387,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 343,
+			"IndexInScore": 344,
 			"IndexInAudio": 342,
 			"Interval": [1689.43746,1690.041179],
 			"Label": "4-HANE_1--n78",
@@ -5470,11 +5469,11 @@
 				"Value": 356.4633026,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "G4",
-			"IndexInScore": 344,
+			"IndexInScore": 345,
 			"IndexInAudio": 343,
 			"Interval": [1690.134059,1690.644898],
 			"Label": "4-HANE_1--n79",
@@ -5486,11 +5485,11 @@
 				"Value": 457.0979919,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "G4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 345,
+			"IndexInScore": 346,
 			"IndexInAudio": 344,
 			"Interval": [1690.737778,1690.877098],
 			"Label": "4-HANE_1--n80",
@@ -5502,11 +5501,11 @@
 				"Value": 360.9177856,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 346,
+			"IndexInScore": 347,
 			"IndexInAudio": 345,
 			"Interval": [1690.923537,1692.827574],
 			"Label": "4-HANE_1--n81",
@@ -5518,11 +5517,11 @@
 				"Value": 360.5010681,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		},
 		{
-			"Symbol": "C4",
-			"IndexInScore": 347,
+			"IndexInScore": 348,
 			"IndexInAudio": 346,
 			"Interval": [1692.920454,1693.013333],
 			"Label": "4-HANE_1--n82",
@@ -5534,11 +5533,11 @@
 				"Value": 453.6784668,
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "C4"
 		},
 		{
-			"Symbol": "D4",
-			"IndexInScore": 348,
+			"IndexInScore": 349,
 			"IndexInAudio": 347,
 			"Interval": [1693.013333,1693.013333],
 			"Label": "4-HANE_1--n83",
@@ -5550,11 +5549,11 @@
 				"Value": "_NaN_",
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "D4"
 		},
 		{
-			"Symbol": "E4",
-			"IndexInScore": 349,
+			"IndexInScore": 350,
 			"IndexInAudio": 348,
 			"Interval": [1693.013333,1693.013333],
 			"Label": "4-HANE_1--n84",
@@ -5566,11 +5565,11 @@
 				"Value": "_NaN_",
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "E4"
 		},
 		{
-			"Symbol": "F4",
-			"IndexInScore": 350,
+			"IndexInScore": 351,
 			"IndexInAudio": 349,
 			"Interval": [1693.106213,1693.106213],
 			"Label": "4-HANE_1--n85",
@@ -5582,7 +5581,8 @@
 				"Value": "_NaN_",
 				"Unit": "Hz"
 			},
-			"PitchTrajectory": "not_assigned"
+			"PitchTrajectory": "not_assigned",
+			"Symbol": "F4"
 		}
 	]
 }
