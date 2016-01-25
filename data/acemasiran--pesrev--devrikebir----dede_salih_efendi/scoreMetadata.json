@@ -1,0 +1,112 @@
+{
+    "composer": {
+        "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+        "symbtr_slug": "dede_salih_efendi", 
+        "name": "Neyzen Salih Dede", 
+        "mu2_name": "Neyzen Salih Dede"
+    }, 
+    "tonic": "F4", 
+    "lyricist": {
+        "mu2_name": ""
+    }, 
+    "notation": "TSM", 
+    "form": {
+        "symbtr_slug": "pesrev", 
+        "mb_attribute": "Pe\u015frev", 
+        "mu2_name": "Pe\u015frev", 
+        "attribute_key": "pesrev"
+    }, 
+    "language": "zxx", 
+    "phrases": {
+        "automatic": [], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+        "symbtr_slug": "", 
+        "mu2_title": "Acema\u015f\u00eer\u00e2n Pe\u015frev", 
+        "title": "Acema\u015firan Pe\u015frev"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 75
+    }, 
+    "rhythmic_structure": [
+        {
+            "endNote": 351, 
+            "startNote": 1, 
+            "usul": {
+                "symbtr_internal_id": 60, 
+                "attribute_key": "devrikebir", 
+                "mertebe": 4, 
+                "mu2_name": "Devr-i Keb\u00eer", 
+                "number_of_pulses": 28
+            }, 
+            "tempo": {
+                "unit": "bpm", 
+                "value": 33
+            }
+        }
+    ], 
+    "key_signature": [
+        "B4b5"
+    ], 
+    "makam": {
+        "symbtr_slug": "acemasiran", 
+        "mb_attribute": "Acema\u015firan", 
+        "mu2_name": "Acema\u015f\u00eer\u00e2n", 
+        "attribute_key": "acemasiran"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "attribute_key": "devrikebir", 
+        "subdivision": {
+            "mertebe": 4, 
+            "number_of_pulses": 4
+        }, 
+        "number_of_pulses": 28, 
+        "symbtr_slug": "devrikebir", 
+        "mu2_name": "Devr-i Keb\u00eer", 
+        "mb_attribute": "Devr-i Kebir", 
+        "mertebe": 4
+    }, 
+    "sections": [
+        {
+            "name": "1. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 88, 
+            "startNote": 2, 
+            "melodicStructure": "1-HANE_1", 
+            "lyrics": "", 
+            "slug": "1-HANE"
+        }, 
+        {
+            "name": "2. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 178, 
+            "startNote": 89, 
+            "melodicStructure": "2-HANE_1", 
+            "lyrics": "", 
+            "slug": "2-HANE"
+        }, 
+        {
+            "name": "3. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 266, 
+            "startNote": 179, 
+            "melodicStructure": "3-HANE_1", 
+            "lyrics": "", 
+            "slug": "3-HANE"
+        }, 
+        {
+            "name": "4. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 351, 
+            "startNote": 267, 
+            "melodicStructure": "4-HANE_1", 
+            "lyrics": "", 
+            "slug": "4-HANE"
+        }
+    ], 
+    "symbtr": "acemasiran--pesrev--devrikebir----dede_salih_efendi"
+}
